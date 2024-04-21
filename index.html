@@ -28,6 +28,9 @@
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <link rel="stylesheet" href="https://ia600308.us.archive.org/27/items/oqq_20240417/oqq.css">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
   <style>
     .dineuron-menu {
       width: 100%;
@@ -377,7 +380,7 @@
 
     .HeaderDiv {
       height: 47px;
-    }
+     }
   </style>
   <style>
     .bg-dark {
@@ -411,19 +414,124 @@
     #flo {
       margin-left: -45px;
     }
+  
+  .HeaderMenu {
+  top: -3px;
+  left: 162px;
+  }
+  
+  .HeaderLogo {
+  position: absolute;
+  top: 8px;
+}
+  .nav-button {
+  top: 3px;
+  border: solid 0px #f8f8f8;
+  left: 40px;
+    }
+  
+  .topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+  p {
+  margin-top: -5px;
+  margin-bottom: 1rem;
+  height: 5px;
+}
   </style>
 </head>
 
 <body>
   <header class="head-main">
     <div class="navbar navbar-dark bg-dark box-shadow">
-      <div class="container d-flex justify-content-between">
-        <a href="https://dineuron.com/bootstrap4-animated-mobile-menu" class="navbar-brand d-flex align-items-center">
-          <img id="imx" alt="" src="https://www.zupimages.net/up/24/15/e12m.png">
+    
+<a id="hamburger-menu" class="nav-button ml-auto mr-4"><span id="nav-icon3"><span></span><span></span><span></span><span></span></span></a>
+ 
+<div class="topnav" id="myTopnav">
+<div class="HeaderDiv">
+<div class="HeaderDivInner">
+<div class="">
+<div class="Typography bold body1"><a href="/home"><img class="HeaderLogo" alt="" src="https://www.zupimages.net/up/24/15/e12m.png"></a></div>
+  
+</a><a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
+            
+<div class="Typography bold body1">
+<a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CinemundoPT'">
+              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/hnih.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+            </a>
 
-          <a id="hamburger-menu" class="nav-button ml-auto mr-4"><span id="nav-icon3"><span></span><span></span><span></span><span></span></span></a>
-      </div>
-    </div>
+    </div></a><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay">          
+<div class="Typography bold body1">
+<a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineActionPT'">
+              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/p31f.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+            </a> 
+            
+</div></a><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay">
+            
+<div class="Typography bold body1"><a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEmotion'">
+              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/vubc.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+            </a>
+
+</div></a><a aria-label="OQEE Ciné" data-test-id="header-link-oqee-cine" class="HeaderMenuItem" href="/vod/8">
+            
+<div class="Typography bold body1"><a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEdition'">
+              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/s5y6.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+            </a>
+              
+</div></a><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list">
+            
+<div class="Typography bold body1"><a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineTop'">
+              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/hyt3.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+            </a></div></a></div></div><div>
+            </div>
+    </div></div></div>
     <!--navbar end-->
 
     <div class="fixed-top dineuron-menu">
