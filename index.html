@@ -29,7 +29,7 @@
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <link rel="stylesheet" href="https://ia600308.us.archive.org/27/items/oqq_20240417/oqq.css">
   
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/scss/_nav.scss">
   
   <style>
     .dineuron-menu {
@@ -37,6 +37,7 @@
       height: 100%;
       opacity: 0;
       visibility: hidden;
+      overflow: scroll;
     }
 
     .nav-open .dineuron-menu {
@@ -407,12 +408,10 @@
       float: left;
     }
 
-    .dineuron-menu {
-      overflow: scroll;
-    }
+   
 
     #flo {
-      margin-left: -45px;
+      margin-left: -78px;
     }
   
   .HeaderMenu {
@@ -484,7 +483,21 @@
   margin-top: -5px;
   margin-bottom: 1rem;
   height: 5px;
-}
+padding: .8rem 1rem;
+    }
+ .fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030; 
+  }
+  i {
+  margin-top: -5px;
+  margin-bottom: 1rem;
+  height: 5px;
+
+    }
   </style>
 </head>
 
@@ -500,117 +513,120 @@
 <div class="">
 <div class="Typography bold body1"><a href="/home"><img class="HeaderLogo" alt="" src="https://www.zupimages.net/up/24/15/e12m.png"></a></div>
   
-</a><a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
+<a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
             
-<div class="Typography bold body1">
-<a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CinemundoPT'">
-              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/hnih.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+</a><div class="Typography bold body1"><a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
+</a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CinemundoPT'">
+              <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/hnih.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a>
 
-    </div></a><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay">          
-<div class="Typography bold body1">
-<a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineActionPT'">
-              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/p31f.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+    </div><div class="Typography bold body1"><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay">
+</a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineActionPT'">
+              <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/p31f.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a> 
             
-</div></a><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay">
-            
-<div class="Typography bold body1"><a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEmotion'">
-              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/vubc.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+</div><div class="Typography bold body1"><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEmotion'">
+              <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/vubc.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a>
 
-</div></a><a aria-label="OQEE Ciné" data-test-id="header-link-oqee-cine" class="HeaderMenuItem" href="/vod/8">
-            
-<div class="Typography bold body1"><a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEdition'">
-              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/s5y6.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
+</div><div class="Typography bold body1"><a aria-label="OQEE Ciné" data-test-id="header-link-oqee-cine" class="HeaderMenuItem" href="/vod/8"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEdition'">
+              <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/s5y6.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a>
               
-</div></a><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list">
-            
-<div class="Typography bold body1"><a class="" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineTop'">
-              <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/hyt3.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
-            </a></div></a></div></div><div>
+</div>
+  <div class="Typography bold body1"><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineTop'">
+              <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/hyt3.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
+            </a></div>
+              
+  <div class="Typography bold body1"><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=NOSSTUDIOSPT'">
+              <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/bqop.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
+            </a></div>
+  
+  
+  
+  
+            </div></div><div>
             </div>
     </div></div></div>
     <!--navbar end-->
-
-    <div class="fixed-top dineuron-menu">
+<div class="fixed-top dineuron-menu">
       <div class="flex-center p-5">
         <ul class="nav flex-column menu">
 
           <li class="nav-item delay-1">
 
-            <p style="line-height:15px;" class="flotte"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/RTP1/'">
-                <p class="flotte"> <img id="flo" src="https://www.zupimages.net/up/24/15/mk0n.png" alt="" style="max-width: 68px; max-height: 58px;"></p>
-              </a></p>
+            <p style="line-height:15px;" class="flotte"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/RTP1/'">
+                </a></p><p class="flotte"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/RTP1/'"> <img id="flo" src="https://www.zupimages.net/up/24/15/mk0n.png" alt="" style="max-width: 68px; max-height: 58px;"></a></p><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/RTP1/'">
+              </a><p></p>
           </li>
 
           <li class="nav-item delay-2">
 
-            <a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=RTP2'">
+            <a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=RTP2'">
               <p class="flotte"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RTP2_2016_%28Reduced_Version%29.svg/768px-RTP2_2016_%28Reduced_Version%29.svg.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a>
           </li>
 
           <li class="nav-item delay-3">
             <p class="flotte">
-              <a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=RTP3'"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/768px-RTP3_2016_%28Reduced_Version%29.svg.png" alt="" style="max-width: 48px; max-height: 48px;">
-            </p></a>
+              <a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=RTP3'"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/768px-RTP3_2016_%28Reduced_Version%29.svg.png" alt="" style="max-width: 48px; max-height: 48px;">
+            </a></p>
           </li>
-          <li class="nav-item delay-4"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/rtp-int./'">
+          <li class="nav-item delay-4"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/rtp-int./'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/15/k7k7.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-5"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi/'">
+          <li class="nav-item delay-5"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi/'">
               <p class="flotte"> <img src="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-6"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi-reality/'">
+          <li class="nav-item delay-6"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi-reality/'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/n3gb.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-7"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi-ficcao/'">
+          <li class="nav-item delay-7"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi-ficcao/'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/z24t.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-8"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi-africa/'">
+          <li class="nav-item delay-8"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/tvi-africa/'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/q1j4.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-9"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/sic/'">
+          <li class="nav-item delay-9"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/sic/'">
               <p class="flotte"> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-10"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/SICN/'">
+          <li class="nav-item delay-10"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/SICN/'">
               <p class="flotte"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/29ad2013589855.562759e048ecd.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-11"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CMTVPT'">
+          <li class="nav-item delay-11"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CMTVPT'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/me7q.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-12"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/CNN/'">
+          <li class="nav-item delay-12"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://vsalema.github.io/CNN/'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/78az.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-13"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/go.php?stream=SPT1'">
+          <li class="nav-item delay-13"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/go.php?stream=SPT1'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/1cj8.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-14"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=SPT2'">
+          <li class="nav-item delay-14"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=SPT2'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/gyvw.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-15"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=ELEVEN2'">
+          <li class="nav-item delay-15"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=ELEVEN2'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/11d1.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-16"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=BTV1'">
+          <li class="nav-item delay-16"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=BTV1'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/16/v7kx.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-17"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=SPORTING'">
+          <li class="nav-item delay-17"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=SPORTING'">
               <p class="flotte"> <img src="https://www.zupimages.net/up/24/15/kzly.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-18"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=Canal11'">
+          <li class="nav-item delay-18"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='https://popcdn.day/go.php?stream=Canal11'">
               <p class="flotte"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-          <li class="nav-item delay-19"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/go.php?stream=BEINSPORT2FR'">
+          <li class="nav-item delay-19"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/go.php?stream=BEINSPORT2FR'">
               <p class="flotte"> <img src="https://www.planetecsat.com/wp-content/uploads/2022/10/beINSPORTS2.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
-<li class="nav-item delay-12"><a class="nav-link" href="javascript:void();" onClick="document.getElementById('vid_frame').src='//popcdn.day/go.php?stream=ABOLA'">
+<li class="nav-item delay-12"><a class="nav-link" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/go.php?stream=ABOLA'">
               <p class="flotte"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" alt="" style="max-width: 48px; max-height: 48px;"></p>
             </a></li>
         </ul>
       </div>
     </div>
+    
     <!--dineuron-menu end-->
   </header>
   <div class="LiveSectionContainer" bis_skin_checked="1">
@@ -1205,32 +1221,7 @@
           </div>
         </div></a>
 
-        <div class="LiveChannelRowContainer" bis_skin_checked="1">
-          <div class="LiveChannelRow" bis_skin_checked="1">
-            <div class="LiveChannelThumbnailContainer" bis_skin_checked="1">
-              <div class="LiveChannelThumbnail" bis_skin_checked="1">
-
-                <a title="NOS-ESTUDIOS" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://popcdn.day/play.php?stream=NOSSTUDIOSPT'">
-                  <img alt="" src="https://www.magazine-hd.com/apps/wp/wp-content/uploads/2019/06/nos-studios.jpg" class="LiveChannelThumbnailImage" width="176" height="99">
-                  <div class="CircularProgress small showProgress" style="width: 56px; height: 56px;" bis_skin_checked="1">
-                    <div class="circleBackground" bis_skin_checked="1"><svg width="100%" height="100%">
-                        <circle style="stroke: var(--color-gray500); stroke-width: 4px;" r="25" cx="50%" cy="50%" fill="transparent" stroke-dasharray="157" stroke-dashoffset="0"></circle>
-                        <circle style="stroke: rgb(239, 18, 19); stroke-width: 4px;" r="25" cx="50%" cy="50%" fill="transparent" stroke-dasharray="138 19" stroke-dashoffset="0" stroke-linecap="round"></circle>
-                      </svg></div><img src="https://w7.pngwing.com/pngs/258/634/png-transparent-nos-primavera-sound-nos-audiovisuais-nos-comunicacoes-cinemas-nos-norteshopping-portugal-logo-company-text-logo.png" alt="" style="max-width: 38px; max-height: 50px;">
-                  </div>
-              </div>
-            </div>
-            <div class="LiveChannelDataContainer" bis_skin_checked="1">
-              <div class="LiveChannelData" bis_skin_checked="1">
-                <div class="Typography body3 LiveChannelHeader" bis_skin_checked="1">018 - NOS-STUDIOS</div>
-                <div class="LiveChannelTitlesContainer" bis_skin_checked="1">
-                  <div class="Typography bold body2 LiveChannelTitle" bis_skin_checked="1"></div>
-                  <div class="Typography body3 LiveChannelSubtitle" bis_skin_checked="1"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div></a>
+        
 
         <div class="LiveChannelRowContainer" bis_skin_checked="1">
           <div class="LiveChannelRow" bis_skin_checked="1">
