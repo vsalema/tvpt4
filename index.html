@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
 <html lang='en' class=''>
 
 <head>
@@ -221,20 +222,17 @@
       -o-transition-delay: 0.19s;
       transition-delay: 0.19s;
     }
-.nav-button {
-  top: -7px;
-  left: 23px;
-  
-}
- .nav-button {
+
+    .nav-button {
       position: relative;
       z-index: 1111;
-      box-shadow: 0 4px 4px #ebf2eb40;
+      border: solid 1px #f8f8f8;
       height: 42px;
       display: block;
       width: 50px;
       padding: 12px;
-      }
+    }
+
     .nav-button #nav-icon3 {
       width: 24px;
       height: 22px;
@@ -380,7 +378,6 @@
     .HeaderLogo {
       position: absolute;
       top: 5px;
-      left: 0px;
     }
 
     .HeaderDiv {
@@ -425,7 +422,11 @@
   position: absolute;
   top: 8px;
 }
- 
+  .nav-button {
+  top: -8px;
+  border: solid 0px #f8f8f8;
+  left: 26px;
+    }
   
   .topnav {
   overflow: hidden;
@@ -440,8 +441,8 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  box-shadow: 0 4px 4px #ebf2eb40;
-}
+
+    }
 
 .topnav a:hover {
   background-color: #ddd;
@@ -501,6 +502,17 @@ padding: .8rem 1rem;
   text-wrap: nowrap;
   visibility: hidden;
 }
+   table, th, td  {
+  border: 0px solid;
+margin-top: -10px
+}
+  .ShakaPlayerUiHeaderContainer {
+  opacity: 0;
+  visibility: hidden;
+}
+  .box-sha {
+  box-shadow: 0 4px 4px #ebf2eb40;
+  }
   </style>
 </head>
 
@@ -508,43 +520,47 @@ padding: .8rem 1rem;
   <header class="head-main">
     <div class="navbar navbar-dark bg-dark box-shadow">
     
-<a id="hamburger-menu" class="nav-button ml-auto mr-4"><span id="nav-icon3"><span></span><span></span><span></span><span></span></span></a>
+<a id="hamburger-menu" class="nav-button ml-auto mr-4 box-sha"><span id="nav-icon3"><span></span><span></span><span></span><span></span></span></a>
  
 <div class="topnav" id="myTopnav">
 <div class="HeaderDiv">
 <div class="HeaderDivInner">
-
-<div class="Typography bold body1"><img class="HeaderLogo" alt="" src="https://www.zupimages.net/up/24/15/e12m.png"></div>
+<div class="">
+<div class="Typography bold body1"><a title="tf1" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/TF1/'"><img class="HeaderLogo" alt="" src="https://www.zupimages.net/up/24/15/e12m.png"></a></div>
   
 <a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
             
 </a><div class="Typography bold body1"><a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
-</a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CinemundoPT'">
+</a><a class="box-sha" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=CinemundoPT'">
               <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/hnih.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a>
 
     </div><div class="Typography bold body1"><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay">
-</a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineActionPT'">
+</a><a class="box-sha" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineActionPT'">
               <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/p31f.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a> 
             
-</div><div class="Typography bold body1"><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEmotion'">
+</div><div class="Typography bold body1"><a aria-label="replay" data-test-id="header-link-replay" class="HeaderMenuItem" href="/home/replay"></a><a class="box-sha" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEmotion'">
               <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/vubc.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a>
 
-</div><div class="Typography bold body1"><a aria-label="OQEE Ciné" data-test-id="header-link-oqee-cine" class="HeaderMenuItem" href="/vod/8"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEdition'">
+</div><div class="Typography bold body1"><a aria-label="OQEE Ciné" data-test-id="header-link-oqee-cine" class="HeaderMenuItem" href="/vod/8"></a><a class="box-sha" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineEdition'">
               <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/s5y6.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a>
               
 </div>
-  <div class="Typography bold body1"><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineTop'">
+  <div class="Typography bold body1"><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list"></a><a class="box-sha" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=TVCineTop'">
               <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/hyt3.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
             </a></div>
               
-  <div class="Typography bold body1"><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list"></a><a class="" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=NOSSTUDIOSPT'">
+  <div class="Typography bold body1"><a aria-label="ma liste" data-test-id="header-link-my-list" class="HeaderMenuItem" href="/home/my_list"></a><a class="box-sha" href="javascript:void();" onclick="document.getElementById('vid_frame').src='//popcdn.day/play.php?stream=NOSSTUDIOSPT'">
               <i class="flotte"> <img src="https://www.zupimages.net/up/24/16/bqop.png" alt="" style="max-width: 48px; max-height: 48px;"></i>
-            </a>
-  </div></div><div>
+            </a></div>
+  
+  
+  
+  
+            </div></div><div>
             </div>
     </div></div></div>
     <!--navbar end-->
@@ -702,7 +718,29 @@ padding: .8rem 1rem;
             <div class="LiveChannelDataContainer" bis_skin_checked="1">
               <div class="LiveChannelData" bis_skin_checked="1">
                 <div class="Typography body3 LiveChannelHeader" bis_skin_checked="1">001 - RTP 1🇵🇹</div>
-                <div class="Typography bold body1"><a title="tf1" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://vsalema.github.io/TF1/'"><img class="HeaderLogo2" alt="" src="https://groupe-tf1.fr/sites/default/files/styles/215_x_196/public/thumbnails/image/tf1.png" style="max-width: 48px; max-height: 48px;"></a></div>
+                
+       <div class="Typography bold body1">    
+         <a aria-label="chaînes" data-test-id="header-link-channels" class="HeaderMenuItem" href="/home/channels">
+</a>       
+       <table>
+  <tr>
+     <th>
+    <a title="playlist 1" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://cdnapisec.kaltura.com/p/3253003/embedPlaykitJs/uiconf_id/54413082?iframeembed=true&playlist_id=1_9gqj4ttt'"><img class="HeaderLogo2" alt="" src="https://www.zupimages.net/up/24/17/7xlu.png" style="max-width: 68px; max-height: 58px;"></a></th>
+    <th><a title="playlist 2" href="javascript:void();" onClick="document.getElementById('vid_frame').src='https://cdnapisec.kaltura.com/p/4382003/embedPlaykitJs/uiconf_id/54253442?iframeembed=true&playlist_id=1_0rj5l720'"><img class="HeaderLogo2" alt="" src="https://www.zupimages.net/up/24/17/njy6.png" style="max-width: 68px; max-height: 58px;"></a></th>
+  <th><a title="playlist 3" href="javascript:void();" onClick="document.getElementById('vid_frame').src=''"><img class="HeaderLogo2" alt="" src="" style="max-width: 58px; max-height: 48px;"></a></th>
+  </tr>
+  <tr>
+    <td><a title="tf1" href="javascript:void();" onClick="document.getElementById('vid_frame').src=''"><img class="HeaderLogo2" alt="" src="" style="max-width: 58px; max-height: 48px;"></a></td>
+    <td><a title="tf1" href="javascript:void();" onClick="document.getElementById('vid_frame').src=''"><img class="HeaderLogo2" alt="" src="" style="max-width: 58px; max-height: 48px;"></a></td>
+  <td><a title="tf1" href="javascript:void();" onClick="document.getElementById('vid_frame').src=''"><img class="HeaderLogo2" alt="" src="" style="max-width: 58px; max-height: 48px;"></a> </td>
+  </tr>
+  
+</table>         
+               
+    </div>            
+                
+                
+                
                 
                 <div class="LiveChannelTitlesContainer" bis_skin_checked="1">
                   <div class="Typography bold body2 LiveChannelTitle" bis_skin_checked="1"></div>
@@ -1345,6 +1383,12 @@ padding: .8rem 1rem;
     });
   </script>
 
+</body>
+
+</html>
+
+  
+  
 </body>
 
 </html>
