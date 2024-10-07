@@ -322,6 +322,12 @@
       align-items: center;
       height: justify
     }
+  @media screen and (min-width: 80rem) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+
   </style>
 
   <style>
@@ -539,7 +545,8 @@ margin-top: -10px
 </head>
 
 <body>
-  <header class="head-main">
+  <container>
+	<header class="head-main">
     <div class="navbar navbar-dark bg-dark box-shadow">
     
 <a id="hamburger-menu" class="nav-button ml-auto mr-4 box-sha"><span id="nav-icon3"><span></span><span></span><span></span><span></span></span></a>
@@ -1446,7 +1453,8 @@ margin-top: -10px
       </div>
     </div>
   </div>
-  <script>
+  </container>
+	  <script>
     $(document).ready(function() {
       $('.nav-button').click(function() {
         $('body').toggleClass('nav-open');
