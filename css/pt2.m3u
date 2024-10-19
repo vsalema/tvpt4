@@ -1,0 +1,1132 @@
+#EXTM3U
+#EXTINF:60,tvi.m3u8
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:78,BFM TV
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:0,CNEWS
+#EXTVLCOPT:network-caching=1000
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:0,LCI
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:0,FRANCE INFO:
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+#EXTINF:0,LE MÉDIA TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
+#EXTINF:0,EURONEWS FR
+#EXTVLCOPT:network-caching=1000
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,TV5MONDE INFO
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:0,FRANCE 24 FR
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/BG47510/tube/main/france24.m3u8
+#EXTINF:0,LCP-AN
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/LCP.m3u8
+#EXTINF:0,PUBLIC-SÉNAT
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat.m3u8
+#EXTINF:0,BFM 2
+#EXTVLCOPT:network-caching=1000
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:0,BFM GRAND REPORTAGES
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:0,RMC TALK INFO
+#EXTVLCOPT:network-caching=1000
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+#EXTINF:0,20 MINUTES TV IDF
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:0,LE FIGARO IDF
+#EXTVLCOPT:network-caching=1000
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:0,LE FIGARO LIVE
+#EXTVLCOPT:network-caching=1000
+https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
+#EXTINF:0,i24 NEWS FR
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+#EXTINF:0,CGTN FRANÇAIS
+#EXTVLCOPT:network-caching=1000
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:0,LN24 BE
+#EXTVLCOPT:network-caching=1000
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:0,MONACO INFO
+#EXTVLCOPT:network-caching=1000
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:0,RDI CANADA
+#EXTVLCOPT:network-caching=1000
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:0,AFRICA 24 FR
+#EXTVLCOPT:network-caching=1000
+https://livevideo.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:0,AFRICANEWS FR
+#EXTVLCOPT:network-caching=1000
+https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,BFM BUSINESS
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:0,B SMART
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
+#EXTINF:0,BLOOMBERG FR
+#EXTVLCOPT:network-caching=1000
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,TV FINANCE
+#EXTVLCOPT:network-caching=1000
+https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
+#EXTINF:0,PRESS IR FRENCH [temp barker]
+#EXTVLCOPT:network-caching=1000
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:0,RT FRANÇAIS [censure-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:0,RT FRANÇAIS [censure-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-france.secure.footprint.net/1107.m3u8
+#EXTINF:0,BFM TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:0,BFM TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:0,BFM TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:0,BFM TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
+#EXTINF:0,BFM TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
+#EXTINF:0,BFM 2 (backup)
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM 2 (backup)
+#EXTVLCOPT:network-caching=1000
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:0,BFM 2 (backup)
+#EXTVLCOPT:network-caching=1000
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:0,BFM BUSINESS (backup)
+#EXTVLCOPT:network-caching=1000
+https://d3sp7wui50dz5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxxit4lrci140/index.m3u8
+#EXTINF:0,BFM BUSINESS (backup)
+#EXTVLCOPT:network-caching=1000
+https://bfmbusinessalive1.akamaized.net/r83ae0ed67cc245eeb3ee184cad01f768/eu-central-1/876450612001/playlist.m3u8
+#EXTINF:0,LE MÉDIA TV (backup ok)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:0,LE MÉDIA TV (backup ko)
+#EXTVLCOPT:network-caching=1000
+https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:0,LE MÉDIA TV (backup ko)
+#EXTVLCOPT:network-caching=1000
+https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:0,EURONEWS FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:0,EURONEWS FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
+#EXTINF:0,EURONEWS FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,EURONEWS FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,EURONEWS FR (backup)
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:0,FRANCE INFO: (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frinnv.m3u8
+#EXTINF:0,FRANCE INFO: (backup)
+#EXTVLCOPT:network-caching=1000
+https://livestream.zazerconer.workers.dev/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
+#EXTINF:0,FRANCE INFO: (backup)
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
+#EXTINF:0,FRANCE INFO: (backup)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
+#EXTINF:0,FRANCE INFO: (backup-off)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/frinfo/frinfo.m3u8
+#EXTINF:0,FRANCE INFO: [find-host]
+#EXTVLCOPT:network-caching=1000
+https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
+#EXTINF:0,FRANCE 24 FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://ythls-v3.onrender.com/video/l8PMl7tUDIE.m3u8
+#EXTINF:0,FRANCE 24 FR (backup-off)
+#EXTVLCOPT:network-caching=1000
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#EXTINF:0,LCI (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
+#EXTINF:0,LCI (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+#EXTINF:0,CNEWS (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+#EXTINF:0,CNEWS (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
+#EXTINF:0,CNEWS (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-v3-hd-clair/cnews-clair-ad-hd.m3u8
+#EXTINF:0,CNEWS (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m010.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
+#EXTINF:0,CNEWS (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m010.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:0,LE MÉDIA TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
+#EXTINF:0,LE MÉDIA TV (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/BG47510/tube/main/lemedia.m3u8
+#EXTINF:0,FRANCE 24 FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
+#EXTINF:0,LE FIGARO IDF (backup)
+#EXTVLCOPT:network-caching=1000
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:0,CGTN FRANÇAIS (backup)
+#EXTVLCOPT:network-caching=1000
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:0,RDI CANADA (backup)
+#EXTVLCOPT:network-caching=1000
+https://d352zobhe5lhe6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j7m6inrqe6jat/master.m3u8
+#EXTINF:0,AFRICANEWS FR (backup)
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UC25EuGAePOPvPrUA5cmu3dQ/live.m3u8
+#EXTINF:0,LCI [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
+#EXTINF:0,TV5MONDE FBSM
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#EXTINF:0,TF1
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:0,FRANCE 2
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:0,FRANCE 3
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+#EXTINF:0,FRANCE 4
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+#EXTINF:0,FRANCE 5
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+#EXTINF:0,FRANCE TV SÉRIES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
+#EXTINF:0,FRANCE TV DOCUMENTAIRES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
+#EXTINF:0,ARTE
+#EXTVLCOPT:network-caching=1000
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:0,NRJ 12
+#EXTVLCOPT:network-caching=1000
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:0,CHÉRIE 25
+#EXTVLCOPT:network-caching=1000
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:0,CANAL+ EN CLAIR
+#EXTVLCOPT:network-caching=1000
+https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:0,RMC STORY
+#EXTVLCOPT:network-caching=1000
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:0,RMC DÉCOUVERTE
+#EXTVLCOPT:network-caching=1000
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:0,C8
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
+#EXTINF:0,CSTAR
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
+#EXTINF:0,TV5MONDE EUROPE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:0,TV5MONDE MOYEN-ORIENT [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:0,TV5MONDE ASIE SUD-EST [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:0,TV5MONDE PACIFIQUE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:0,CANAL+ EN CLAIR (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m007.live-cft.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
+#EXTINF:0,CANAL+ EN CLAIR (backup)
+#EXTVLCOPT:network-caching=1000
+http://hls-m007.live-cft.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:0,CANAL+ EN CLAIR (backup)
+#EXTVLCOPT:network-caching=1000
+https://hls-m007.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:0,C8 [tokenized]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/c8-clair-hd/hls-ios-fhd-clair/c8-clair-hd.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/index.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/c8-hd.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/index.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/c8-ad-hd/hls-ios-fhd/c8-ad-hd.m3u8
+#EXTINF:0,CSTAR [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhddvr-preset/index.m3u8
+#EXTINF:0,CSTAR [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/hls-ios-fhd/cstar-hd.m3u8
+#EXTINF:0,CSTAR [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cstar-ad-hd/hls-ios-fhd/cstar-ad-hd.m3u8
+#EXTINF:0,CSTAR [tokenized]
+#EXTVLCOPT:network-caching=1000
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/cstar-clair-hd/hls-ios-fhd-clair/cstar-clair-hd.m3u8
+#EXTINF:0,RMC DÉCOUVERTE [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$RMC_DECOUVERTE/index.m3u8?start=LIVE&end=END
+#EXTINF:0,RMC STORY [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$NUMERO_23/index.m3u8?start=LIVE&end=END
+#EXTINF:0,M6 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:0,M6 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/1fcbace9ff6a484896808d57963b9c09/hls_short_fp00_m6_hdeindex.m3u8
+#EXTINF:0,W9 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
+#EXTINF:0,W9 [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
+#EXTINF:0,6TER [drm-keycrypted]
+#EXTVLCOPT:network-caching=1000
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/597b48a710164c0da9a4386bf9f7bef2/dash_short_cenc10_6ter_hdeindex.mpd
+#EXTINF:0,NRJ 12 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/nrj12.m3u8
+#EXTINF:0,CHÉRIE 25 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/cherie25.m3u8
+#EXTINF:0,TF1 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:0,TF1 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+#EXTINF:0,TF1 (backup)
+#EXTVLCOPT:network-caching=1000
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
+#EXTINF:0,TF1 DAI
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/btv/py/tf1dai.m3u8
+#EXTINF:0,TF1 SSAI
+#EXTVLCOPT:network-caching=1000
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNzYuMTQ3LjE1NC41MSIsImNtY2QiOiIiLCJleHAiOjE3MjkzNDAzOTksImdpZCI6IjA0NmI5NTIzLTcwN2QtNDc2My04MWM2LWU0MzU1NDEyMTdkNSIsImlhdCI6MTcyOTMyNTk5OSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjA0NmI5NTIzLTcwN2QtNDc2My04MWM2LWU0MzU1NDEyMTdkNSJ9.npsRhdCTQCOersKDpcNm1hemcaqMtihcj5INXpj3YDo/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+#EXTINF:0, referer="https://vavoo.to/" - W9 (test)
+#EXTVLCOPT:network-caching=1000
+https://joaquinito02.es/vavoo/128046615.m3u8
+#EXTINF:0,FRANCE 2 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
+#EXTINF:0,FRANCE 3 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr3nv.m3u8
+#EXTINF:0,FRANCE 4 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:0,FRANCE 5 (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
+#EXTINF:0,M6 (check)
+#EXTVLCOPT:network-caching=1000
+https://gitlab.com/movrey/movrel/-/raw/main/msixx.m3u8
+#EXTINF:0,TMC (check)
+#EXTVLCOPT:network-caching=1000
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+#EXTINF:0,W9 (check)
+#EXTVLCOPT:network-caching=1000
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+#EXTINF:0,FUN RADIO TV BE
+#EXTVLCOPT:network-caching=1000
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:0,FUN RADIO TV FR
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:0,GÉNÉRATIONS TV
+#EXTVLCOPT:network-caching=1000
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:0,MÉLODY
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+#EXTINF:0,CLUBBING TV
+#EXTVLCOPT:network-caching=1000
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,CLUBBING TV
+#EXTVLCOPT:network-caching=1000
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:0,TRACE URBAN
+#EXTVLCOPT:network-caching=1000
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,TRACE URBAN
+#EXTVLCOPT:network-caching=1000
+https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+#EXTINF:0,TRACE URBAN
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:0,TRACE SPORTS
+#EXTVLCOPT:network-caching=1000
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,TRACE SPORTS
+#EXTVLCOPT:network-caching=1000
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,SPORT EN FRANCE
+#EXTVLCOPT:network-caching=1000
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:0,L'ÉQUIPE LIVE 1
+#EXTVLCOPT:network-caching=1000
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:0,L'ÉQUIPE LIVE 2
+#EXTVLCOPT:network-caching=1000
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:0,L'ÉQUIPE LIVE FOOT
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
+#EXTINF:0,L'ÉQUIPE TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
+#EXTINF:0,L'ÉQUIPE TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
+#EXTINF:0,RMC TALK SPORT
+#EXTVLCOPT:network-caching=1000
+https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
+#EXTINF:0,ÉQUIDIA
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
+#EXTINF:0,ÉQUIDIA
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
+#EXTINF:0,JOURNAL DU GOLF
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
+#EXTINF:0,L'ÉSPRIT SORCIER TV
+#EXTVLCOPT:network-caching=1000
+https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:0,L'ÉSPRIT SORCIER TV
+#EXTVLCOPT:network-caching=1000
+https://stream.castr.com/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:0,SQOOL TV
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
+#EXTINF:0,SQOOL TV
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
+#EXTINF:0,GULLI
+#EXTVLCOPT:network-caching=1000
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+#EXTINF:0,GULLI
+#EXTVLCOPT:network-caching=1000
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+#EXTINF:0,GONG
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0,GONG
+#EXTVLCOPT:network-caching=1000
+https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0,MGG E-SPORT
+#EXTVLCOPT:network-caching=1000
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:0,MOTORVISION FR
+#EXTVLCOPT:network-caching=1000
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+#EXTINF:0,MOTORVISION TV
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:0,MOTORVISION TV-2
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:0,TECH&CO
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/df743f86a96e492790ba96a09ede4149/eu-central-1/6306058915001/playlist.m3u8
+#EXTINF:0,TECH&CO
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:0,TECH&CO
+#EXTVLCOPT:network-caching=1000
+https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
+#EXTINF:0,MEN'S UP TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
+#EXTINF:0,TOP SANTÉ
+#EXTVLCOPT:network-caching=1000
+https://d3tuo4zu8l334y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x8ri0qojo9mfh/e5997ac8-9e9c-42cc-a2ef-633dc0a4f5a3/2.m3u8
+#EXTINF:0,MAISON & TRAVAUX
+#EXTVLCOPT:network-caching=1000
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:0,TRAVEL XP
+#EXTVLCOPT:network-caching=1000
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
+#EXTINF:0,ALLO CINÉ
+#EXTVLCOPT:network-caching=1000
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:0,WILD SIDE TV
+#EXTVLCOPT:network-caching=1000
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,TELE NOVELA TV
+#EXTVLCOPT:network-caching=1000
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,BBLACK! AFRICA
+#EXTVLCOPT:network-caching=1000
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:0,BBLACK! CARIBBEAN
+#EXTVLCOPT:network-caching=1000
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:0,BBLACK! CLASSIK
+#EXTVLCOPT:network-caching=1000
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:0,WILD SIDE TV
+#EXTVLCOPT:network-caching=1000
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,SONY ONE ACTION HITS
+#EXTVLCOPT:network-caching=1000
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+#EXTINF:0,SONY ONE COMÉDIE HITS
+#EXTVLCOPT:network-caching=1000
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+#EXTINF:0,SONY ONE COMÉDIE
+#EXTVLCOPT:network-caching=1000
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+#EXTINF:0,SONY ONE FAVORIS
+#EXTVLCOPT:network-caching=1000
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+#EXTINF:0,SONY ONE THRILLER
+#EXTVLCOPT:network-caching=1000
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+#EXTINF:0,SONY ONE BLACKLIST
+#EXTVLCOPT:network-caching=1000
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
+#EXTINF:0,CINÉ NANAR
+#EXTVLCOPT:network-caching=1000
+https://d2o63bkh2qz410.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/64953490-a5a5-4f44-a4fb-7bf3638dd24c/2.m3u8
+#EXTINF:0,CINÉ WESTERN
+#EXTVLCOPT:network-caching=1000
+https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
+#EXTINF:0,KTO
+#EXTVLCOPT:network-caching=1000
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:0,DIEU TV
+#EXTVLCOPT:network-caching=1000
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:0,ÉVANGILE TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
+#EXTINF:0,EMCI TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/emcieu.m3u8
+#EXTINF:0,MUSEUM
+#EXTVLCOPT:network-caching=1000
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+#EXTINF:0,MY ZEN
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:0,MY ZEN
+#EXTVLCOPT:network-caching=1000
+https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8
+#EXTINF:0,MY ZEN
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
+#EXTINF:0,MY ZEN WELLBEING
+#EXTVLCOPT:network-caching=1000
+https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:network-caching=1000
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:network-caching=1000
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:network-caching=1000
+https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:network-caching=1000
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
+#EXTINF:0,TV5MONDE STYLE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+#EXTINF:0,TV5MONDE TiVi [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
+#EXTINF:0,GULLI (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullisd.m3u8
+#EXTINF:0,FUN RADIO TV BE [died-link]
+#EXTVLCOPT:network-caching=1000
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:0,FUN RADIO TV BE (backup)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiobe.m3u8
+#EXTINF:0,FUN RADIO TV BE (backup)
+#EXTVLCOPT:network-caching=1000
+https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:0,--- |FR:#EXTVLCOPT:network-caching=1000
+https://section
+#EXTINF:0,BFM ALPES
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM ALSACE
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM H.PROVENCE
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM LILLE
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM LITTORAL
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM LYON
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM MARSEILLE
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM NICE
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM NORMANDIE
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM PARIS
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTINF:0,BFM TOULON
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+#EXTINF:0,F3 PARIS IDF
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
+#EXTINF:0,F3 PROVENCE ALPES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
+#EXTINF:0,F3 CÔTE D'AZUR
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
+#EXTINF:0,F3 RHÔNE ALPES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
+#EXTINF:0,F3 ALPES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
+#EXTINF:0,F3 AUVERGNE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
+#EXTINF:0,F3 BOURGOGNE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
+#EXTINF:0,F3 FRANCHE COMPTÉ
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
+#EXTINF:0,F3 CENTRE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
+#EXTINF:0,F3 CORSE VÍA STELLA
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fcrs.m3u8
+#EXTINF:0,F3 ALSACE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
+#EXTINF:0,F3 CHAMPAGNE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
+#EXTINF:0,F3 LORRAINE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
+#EXTINF:0,F3 NORD PDC
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdc.m3u8
+#EXTINF:0,F3 PICARDIE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
+#EXTINF:0,F3 B.NORMANDIE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
+#EXTINF:0,F3 H.NORMANDIE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
+#EXTINF:0,F3 AQUITAINE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
+#EXTINF:0,F3 NOA
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
+#EXTINF:0,F3 LIMOUSIN
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
+#EXTINF:0,F3 POITOU CHARENTES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
+#EXTINF:0,F3 MIDI PYRÉNÉES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
+#EXTINF:0,F3 LANGUEDOC
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
+#EXTINF:0,F3 PAYS LOIRE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
+#EXTINF:0,F3 BRETAGNE
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
+#EXTINF:0,TÉBÉO TV
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+#EXTINF:0,TVR RENNES
+#EXTVLCOPT:network-caching=1000
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:0,TÉLÉ NANTES
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
+#EXTINF:0,TÉLÉ NANTES
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:0,TV VENDÉE
+#EXTVLCOPT:network-caching=1000
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+#EXTINF:0,TV 78
+#EXTVLCOPT:network-caching=1000
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:0,7A LIMOGES
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
+#EXTINF:0,ALPE D'HUEZ TV
+#EXTVLCOPT:network-caching=1000
+https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:0,BIP TV
+#EXTVLCOPT:network-caching=1000
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:0,CANAL 32
+#EXTVLCOPT:network-caching=1000
+http://canal32.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+#EXTINF:0,IL TV
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:0,MOSELLE TV
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:0,TV7 BORDEAUX
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index.m3u8
+#EXTINF:0,TV7 COLMAR
+#EXTVLCOPT:network-caching=1000
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:0,TV 3V
+#EXTVLCOPT:network-caching=1000
+https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
+#EXTINF:0,VIA MATÉLÉ
+#EXTVLCOPT:network-caching=1000
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:0,VIA OCCITANIE
+#EXTVLCOPT:network-caching=1000
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:0,VIA OCCITANIE
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/9c424a1c-d202-465c-84e1-3efb89a43fee/index.m3u8
+#EXTINF:0,VIA TELEPAESE
+#EXTVLCOPT:network-caching=1000
+https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
+#EXTINF:0,VOSGES TV
+#EXTVLCOPT:network-caching=1000
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:0,WÉO NORD
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:0,WÉO PICARDIE
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
+#EXTINF:0,NANCY WEB TV
+#EXTVLCOPT:network-caching=1000
+https://edge12.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
+#EXTINF:0,MAURIENNE TV
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UCva-htH2wvmKsG6SkcEJ4Vw/live.m3u8
+#EXTINF:0,LA CHAÎNE 32
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
+#EXTINF:0,TÉLÉ GOHELLE
+#EXTVLCOPT:network-caching=1000
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:0,TVPI BAYONNE
+#EXTVLCOPT:network-caching=1000
+https://ythls-v3.onrender.com/video/yTOjGPiFseY.m3u8
+#EXTINF:0,TVPI BAYONNE
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
+#EXTINF:0,TVPI BAYONNE
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8
+#EXTINF:0,PUISSANCE TÉLÉVISION
+#EXTVLCOPT:network-caching=1000
+https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:0,NA TV
+#EXTVLCOPT:network-caching=1000
+https://edge11.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
+#EXTINF:0,KANAL DUDE
+#EXTVLCOPT:network-caching=1000
+https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/manifest.m3u8
+#EXTINF:0,CANNES LÉRINS TV
+#EXTVLCOPT:network-caching=1000
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:0,LITTORAL TV
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:0,TV TARN
+#EXTVLCOPT:network-caching=1000
+https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
+#EXTINF:0,MOSAIK CRISTAL TV
+#EXTVLCOPT:network-caching=1000
+https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
+#EXTINF:0,TV8 MONTBLANC
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+#EXTINF:0,TV8 MONTBLANC
+#EXTVLCOPT:network-caching=1000
+https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
+#EXTINF:0,TVT TOURS
+#EXTVLCOPT:network-caching=1000
+https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
+#EXTINF:0,ANGERS TÉLÉ
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:0,LYON CAPITALE TV
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:0,TL CHOLETAIS
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
+#EXTINF:0,BRIONNAIS TV
+#EXTVLCOPT:network-caching=1000
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:0,BRIONNAIS TV
+#EXTVLCOPT:network-caching=1000
+https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
+#EXTINF:0,VALLOIRE TV 
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
+#EXTINF:0,N31
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
+#EXTINF:0,TÉLÉ GRENOBLE
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+#EXTINF:0,LM TV SARTHE
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+#EXTINF:0,ASTV
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+#EXTINF:0,TL7 LOIRE
+#EXTVLCOPT:network-caching=1000
+https://x5ct4nu/
+#EXTINF:0,MARITIMA TV
+#EXTVLCOPT:network-caching=1000
+https://indisponible
+#EXTINF:0,TÉLÉ BOCAL
+#EXTVLCOPT:network-caching=1000
+https://indisponible
+#EXTINF:0,--- |FR:#EXTVLCOPT:network-caching=1000
+https://section
+#EXTINF:0,UBIZNEWS OM5TV
+#EXTVLCOPT:network-caching=1000
+https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/ubiznews.m3u8
+#EXTINF:0,MADRAS FM TV
+#EXTVLCOPT:network-caching=1000
+https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:0,ANTENNE RÉUNION
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/antreu.m3u8
+#EXTINF:0,ANTENNE RÉUNION
+#EXTVLCOPT:network-caching=1000
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:0,LA BRISE HAÏTI
+#EXTVLCOPT:network-caching=1000
+http://lakay.online/public/telelabrise/playlist.m3u8
+#EXTINF:0,TNTV
+#EXTVLCOPT:network-caching=1000
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:0,ETV GUADELOUPE
+#EXTVLCOPT:network-caching=1000
+https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:0,LA 1ÈRE MARTINIQUE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1mar.m3u8
+#EXTINF:0,LA 1ÈRE GUADELOUPE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1gua.m3u8
+#EXTINF:0,LA 1ÈRE GUYANE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guy.m3u8
+#EXTINF:0,LA 1ÈRE MAYOTTE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1may.m3u8
+#EXTINF:0,LA 1ÈRE RÉUNION [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reu.m3u8
+#EXTINF:0,LA 1ÈRE N.CALÉDONIE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1nc.m3u8
+#EXTINF:0,LA 1ÈRE POLYNÉSIE [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1pol.m3u8
+#EXTINF:0,LA 1ÈRE WALLIS FUTUNA [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wf.m3u8
+#EXTINF:0,LA 1ÈRE SAINT-PIERRE MIQUELON [geo-area]
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
+#EXTINF:0,LA 1ÈRE MARTINIQUE (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1marm.m3u8
+#EXTINF:0,LA 1ÈRE GUADELOUPE (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guam.m3u8
+#EXTINF:0,LA 1ÈRE GUYANE (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guym.m3u8
+#EXTINF:0,LA 1ÈRE MAYOTTE (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1maym.m3u8
+#EXTINF:0,LA 1ÈRE RÉUNION (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reum.m3u8
+#EXTINF:0,LA 1ÈRE N.CALÉDONIE (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1ncm.m3u8
+#EXTINF:0,LA 1ÈRE POLYNÉSIE (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1polm.m3u8
+#EXTINF:0,LA 1ÈRE WALLIS FUTUNA (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wfm.m3u8
+#EXTINF:0,LA 1ÈRE SAINT-PIERRE MIQUELON (news only)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spmm.m3u8
+#EXTINF:0,--- |MC:#EXTVLCOPT:network-caching=1000
+https://section
+#EXTINF:0,TV MONACO
+#EXTVLCOPT:network-caching=1000
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:0,RTP I
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:0,RTP 1
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:0,RTP 2
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:0,RTP 3
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:0,EURONEWS PT
+#EXTVLCOPT:network-caching=1000
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,CNN PORTUGAL
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:0,SIC NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0,SIC
+#EXTVLCOPT:network-caching=1000
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0,TVI
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:0,TVI INT
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:0,TVI V+
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:0,TVI REALITY
+#EXTVLCOPT:network-caching=1000
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:0,SIC NOVELAS
+#EXTVLCOPT:network-caching=1000
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
+#EXTINF:0,SIC REPLAY
+#EXTVLCOPT:network-caching=1000
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:0,SIC HD ALTA DEFINIÇÃO
+#EXTVLCOPT:network-caching=1000
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:0,PORTO CANAL
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist.m3u8
+#EXTINF:0,TVI AFRICA
+#EXTVLCOPT:network-caching=1000
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0,RTP AFRICA
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:0,RTP ACORES
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+#EXTINF:0,RTP MADEIRA
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:0,RTP MEMORIA
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:0,AR PARLAMENTO
+#EXTVLCOPT:network-caching=1000
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:0,ADB TV
+#EXTVLCOPT:network-caching=1000
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
+#EXTINF:0,MCA
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
+#EXTINF:0,FAMA FM TV
+#EXTVLCOPT:network-caching=1000
+https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
+#EXTINF:0,KURIAKOS CINE
+#EXTVLCOPT:network-caching=1000
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:0,KURIAKOS KIDS
+#EXTVLCOPT:network-caching=1000
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:0,TRACE BRAZUCA
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:0,RTP 1 (backup sd)
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
+#EXTINF:0,RTP 2 (backup sd)
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
+#EXTINF:0,RTP 3 (backup sd)
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
+#EXTINF:0,RTP 3 (tvhlsdvr)
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0,RTP 3 (tvhlsdvr_HD)
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0,RTP ACORES (backup)
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
+#EXTINF:0,EURONEWS PT (backup)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0,EURONEWS PT (backup)
+#EXTVLCOPT:network-caching=1000
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-pt_EuroNewsLive/playlist.m3u8
+#EXTINF:0,EURONEWS PT (backup)
+#EXTVLCOPT:network-caching=1000
+https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
+#EXTINF:0,EURONEWS PT (backup)
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:0,CNN PORTUGAL (backup)
+#EXTVLCOPT:network-caching=1000
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal&m3u8
+#EXTINF:0,SIC NOTICIAS (backup)
+#EXTVLCOPT:network-caching=1000
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:0,SIC NOVELAS (backup)
+#EXTVLCOPT:network-caching=1000
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:0,TVI V+ (ex-TVI FICCAO)
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:0,SIC [geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:0,SIC INT [geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://sic.live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:0,SIC NOTICIAS [geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:0,CNN PORTUGAL [find-host]
+#EXTVLCOPT:network-caching=1000
+https://PuthereYourserverHostaddress/cnnpcurlua.php?m3u8
+#EXTINF:0,TVI [find-host]
+#EXTVLCOPT:network-caching=1000
+https://PuthereYourserverHostaddress/tvicurlua.php?m3u8
+#EXTINF:0,TVI INT [find-host]
+#EXTVLCOPT:network-caching=1000
+https://PuthereYourserverHostaddress/tviintcurlua.php?m3u8
+#EXTINF:0,CNN PORTUGAL [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth7.iol.pt/edge_servers/cnn-720p/playlist.m3u8
+#EXTINF:0,TVI [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8
+#EXTINF:0,TVI INT [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8
+#EXTINF:0,TVI FICCAO [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=
+#EXTINF:0,TVI FICCAO [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:0,TVI REALITY [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8?wmsAuthSign=
+#EXTINF:0,TVI REALITY [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=
+#EXTINF:0,TVI REALITY [tkn-blocked]
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:0,SIC [offline]
+#EXTVLCOPT:network-caching=1000
+https://eventos.live.impresa.pt/opto_in1.m3u8
+#EXTINF:0,SIC NOVELAS [offline]
+#EXTVLCOPT:network-caching=1000
+https://eventos.live.impresa.pt/opto_in2.m3u8
+#EXTINF:0,SIC NOVELAS [offline]
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
