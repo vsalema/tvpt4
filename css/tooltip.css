@@ -1,0 +1,112 @@
+<style>
+.visGroup {
+				margin: 0px 245px 0px 225px;
+				/* values for: top, right, bottom, left (per: https://www.w3schools.com/css/css_margin.asp  ) */
+				position: absolute;
+				width: 256px;
+				height: 144px;
+				/* bottom: 105px;  */
+				bottom: 25%;
+				left: -120px;
+				/* (this value is over-ridden in the javascript, since it needs dynamic adjustment) */
+				display: none;
+			}
+
+			.hero__headline__name {
+				
+			font-family: 'Courier New';
+				
+				
+				/* Using "absolute" correctly moves the name INSIDE player, rather than OUTSIDE / ALONGSIDE, and keeps player CENTERed */
+				color: white;
+				font-size: 19px;
+				text-shadow: 2px 2px DarkSlateGrey;
+	}
+	
+
+	</style>
+
+<style>
+	
+	body {
+	margin: 0
+
+	  }
+.player {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.content {
+  display: flex;
+  justify-content: left;
+  position: relative;
+}
+
+		
+		
+	.video-js {
+	position: absolute;
+	left: 1px;
+	top: 5px;
+}	
+		
+		
+		.js-video-hidden {
+  z-index: -1;
+}
+		
+		.video-container {
+	position: relative;
+}
+.video-control {
+	position: absolute;
+	left: 2px;
+	top: 6px;
+	min-width: 4.5em;
+	}
+.video-control:not(.playing) .video-control-pause,
+.video-control.playing .video-control-play {
+	display: none;
+}
+#transition-toggle {
+  border: none;
+  font-size: .8rem;
+  padding: 0px;
+  
+  cursor: pointer;
+  background: #00000000;
+  color: white;
+  transition: background-color 0.1s ease-in-out;
+
+	  }
+ a.tooltip {
+        text-decoration: none;
+      }
+      a.tooltip:hover {
+        cursor: help;
+        position: relative;
+      }
+      a.tooltip span {
+        display: none;
+      }
+      a.tooltip:hover span {
+        
+        padding: 0px 0px 0px 0px;
+        display: block;
+        z-index: 100;
+       
+        left: 0px;
+        margin-top: 0px;
+        width: 150px;
+        position: absolute;
+        top: 0px;
+        text-decoration: none;
+        }
+    h3 {
+  background-color: none;
+  color: white;
+}
+	
+	</style>
