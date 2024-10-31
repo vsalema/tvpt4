@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,Converting rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:sout=#transcode{vcodec=h264,vb=3500,width=1920,height=1080,acodec=mp3,ab=192,channels=2,samplerate=44100,scodec=none}:std{access=file{no-overwrite},mux=mp4,dst='C:/Users/victo/Downloads/cmtv8.m3u'}
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
+#EXTINF:0,Converting rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
+#EXTINF:0,rtsp://mafreebox.freebox.fr/fbxtv_pub/stream
+#EXTVLCOPT:network-caching=1000
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
