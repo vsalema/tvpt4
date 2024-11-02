@@ -15,7 +15,7 @@
   
   
   <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
   
 
@@ -88,7 +88,8 @@ li.menu-item {
   
   
   </style>
-  <style>
+<style>
+  
   body{
   padding: 0 2%;
   color: #2e3e50;
@@ -223,8 +224,7 @@ ul {
   </div>
         <h2>Easy Web Tv</h2>
     </div>
-          
-        <video autoplay id="my-video" class="video-js" controls preload="auto" poster="" data-setup="{}">
+          <video autoplay id="my-video" class="video-js" controls preload="auto" poster="" data-setup="{}">
           <source src="https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 " type="application/x-mpegURL" />
           <p class="vjs-no-js">
@@ -264,44 +264,6 @@ ul {
             player.play();
         });
     </script>
-<script src="https://cdn.jsdelivr.net/npm/videojs-contrib-hls@latest/es5/videojs-contrib-hls.min.js"></script>
-      <script>
-            var x=document.URL;
-	        var res=x.split("?");
-	        //alert(res.length);
-	        if ( res.length==1 )
-	        {
-		        //alert("no video url!");
-	        }
-	        else
-	        {
-		        var videourl=decodeURIComponent(res[1]);
-		        if ( videourl.length === 0 )
-		        {
-			        //alert("no video url!");
-		        }
-                else
-                {
-                    // alert(videourl);
-                }
-	        }
-            function setupVideo() {
-                
-                var player = videojs('my-video');
-                $("#geturl").attr("href", videourl);
-                $("#geturl").text(videourl);
-                player.src({
-                    src: videourl                    
-                });
-                player.responsive(true);
-                player.play();
-            }
-
-        </script>
-      
-      
-      
-      
-      </body>
+</body>
 
 </html>
