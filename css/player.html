@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+    <head>
+         <meta name="robots" content="noindex">
+        <meta name="googlebot" content="noindex">
+        <title>play m3u8 video</title>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video-js.min.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video.min.js"></script>
+        
+   
+        <script src="https://cdn.jsdelivr.net/npm/videojs-contrib-hls@latest/es5/videojs-contrib-hls.min.js"></script>
+        <script>
+            var x=document.URL;
+	        var res=x.split("?");
+	        //alert(res.length);
+	        if ( res.length==1 )
+	        {
+		        //alert("no video url!");
+	        }
+	        else
+	        {
+		        var videourl=decodeURIComponent(res[1]);
+		        if ( videourl.length === 0 )
+		        {
+			        //alert("no video url!");
+		        }
+                else
+                {
+                    // alert(videourl);
+                }
+	        }
+            function setupVideo() {
+                
+                var player = videojs('videoPlayer');
+                $("#geturl").attr("href", videourl);
+                $("#geturl").text(videourl);
+                player.src({
+                    src: videourl                    
+                });
+                player.responsive(true);
+                player.play();
+            }
+
+        </script>
+       <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L8LVDVPRC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5L8LVDVPRC');
+</script>
+    </head>
+            
+ 
+    <body oncontextmenu="return false" style="background-color:#444444;" onload="setupVideo()">
+        <br>
+        <!--<a id="geturl" href="" target="_blank">kkkk</a>-->
+    
+        <div style='width:100%;'>
+            <video id="videoPlayer" width="800" height="auto" class="video-js vjs-default-skin vjs-responsive  vjs-big-play-centered" controls>
+                
+            </video>
+        </div>
+        
+        
+        
+    </body>
+</html>
