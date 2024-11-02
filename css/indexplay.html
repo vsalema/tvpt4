@@ -85,12 +85,9 @@ li.menu-item {
   color: red;
   
 }
-  
-  
   </style>
 <style>
-  
-  body{
+body{
   padding: 0 2%;
   color: #2e3e50;
   background: #d8dddd;
@@ -123,7 +120,7 @@ li{
   padding: 0;
   text-align: center;
   margin-left: -83px;
-  margin-top: -55px;
+  margin-top: -1px;
 }
 .SG .sgLi{
   min-width: 24%;
@@ -208,7 +205,7 @@ ul {
 }
 
   </style>
-<body>
+  <body>
     <!-- Top Bar -->
    
     <!-- The element where the player will be placed -->
@@ -219,8 +216,8 @@ ul {
       <div id="top-bar">
         <div class="container">
           
-          <div class="channel-list" id="List"><p>Channels IPTV:<img src="https://www.zupimages.net/up/24/44/defy.png" width=2% height=25%/></p>
-    <ul class="five SG" id="container"></ul>
+          <div class="channel-list" id="List">
+    <ul class="five SG" id="container">Channels IPTV<img src="https://www.zupimages.net/up/24/44/defy.png" width=2% height=25%/></ul>
   </div>
         <h2>Easy Web Tv</h2>
     </div>
@@ -241,7 +238,7 @@ ul {
     <script>
         $.ajax({
                 type: "GET",
-                url: 'https://vsalema.github.io/tvpt4/css/mundo.m3u',
+                url: 'https://vsalema.github.io/tvpt4/css/playfrpt.m3u',
                 success: function(message, text,data,headers,complete,processData, response) {
                  
                   
