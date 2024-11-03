@@ -11,8 +11,8 @@
   <meta name="applicable-device" content="pc,mobile" />
   <meta content="yes" name="apple-mobile-web-app-capable" />
   <meta property="og:locale" content="en_US" />
-  <link rel="canonical" href="https://anym3u8player.com/tv/p.php" />
-  <meta property="og:url" content="https://anym3u8player.com/tv/p.php" />
+  <link rel="canonical" href="https://vsalema.github.io/tvpt4/css/sporttv1.php" />
+  <meta property="og:url" content="https://vsalema.github.io/tvpt4/css/sporttv1.php" />
   <meta property="og:image" content="https://anym3u8player.com/live.gif" />
   <meta property="og:image:secure_url" content="https://anym3u8player.com/live.gif" />
   <meta property="og:type" content="video" />
@@ -20,15 +20,15 @@
   <meta property="og:description" content=" live, M3U8 Player Online |  M3u8 streaming player |  HLS player |  Player" />
   <meta property="og:site_name" content="anym3u8player.com" />
   <meta property="og:video:type" content="text/html" />
-  <meta property="og:video" content="https://anym3u8player.com/tv/p.php" />
-  <meta property="og:video:secure_url" content="https://anym3u8player.com/tv/p.php" />
+  <meta property="og:video" content="https://vsalema.github.io/tvpt4/css/sporttv1.php" />
+  <meta property="og:video:secure_url" content="https://vsalema.github.io/tvpt4/css/sporttv1.php" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@anym3u8player" />
-  <meta name="twitter:url" content="https://anym3u8player.com/tv/p.php" />
+  <meta name="twitter:url" content="https://vsalema.github.io/tvpt4/css/sporttv1.php" />
   <meta name="twitter:title" content=" - live streaming" />
   <meta name="twitter:description" content=" live, M3U8 Player Online |  M3u8 streaming player |  HLS player |  Player" />
   <meta name="twitter:image" content="https://anym3u8player.com/og_video.png" />
-  <meta name="twitter:player" content="https://anym3u8player.com/tv/p.php" />
+  <meta name="twitter:player" content="https://vsalema.github.io/tvpt4/css/sporttv1.php" />
   <meta itemprop="thumbnailUrl" content="https://anym3u8player.com/live.gif" />
   <link rel="image_src" href="https://anym3u8player.com/live.gif" />
   <meta http-equiv="expires" content="0" />
