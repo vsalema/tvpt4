@@ -1,0 +1,16 @@
+[{
+	"Host raw": "https://vsalema.github.io/",
+	"Name raw": "twk_idm_key",
+	"Path raw": "/",
+	"Content raw": "9jQAdD2EOS157kMVBu3bk",
+	"Expires": "At the end of the session",
+	"Expires raw": "0",
+	"Send for": "Encrypted connections only",
+	"Send for raw": "true",
+	"HTTP only raw": "false",
+	"SameSite raw": "lax",
+	"This domain only": "Valid for host only",
+	"This domain only raw": "true",
+	"Store raw": "firefox-default",
+	"First Party Domain": ""
+}]
