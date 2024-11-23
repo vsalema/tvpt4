@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="0" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/tOwd1kLWFeQXwrtCnSQrIMmrX6V.jpg" group-title="Arcane"
-#EXTINF:-1 tvg-chno="1" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/AKzTyLJkQEuftVNIuh0gcJCbDl.jpg" group-title="Arcane",(s02e01) 
+#EXTINF:-1 tvg-chno="1" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/tOwd1kLWFeQXwrtCnSQrIMmrX6V.jpg" group-title="Arcane"
+#EXTINF:-1 tvg-chno="2" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/AKzTyLJkQEuftVNIuh0gcJCbDl.jpg" group-title="Arcane",(s02e01) 
 https://up36.darkibox.com/hls2/01/00838/0r5hg9o5swnd_x/index-v1-a1.m3u8?t=ur7Uvku18cL8ZOchXyQ9vgZJsvdYc6RZfqWmXFRg6Pc&s=1732370996&e=43200&f=4190117&i=0.0&sp=0&fr=0r5hg9o5swnd
-#EXTINF:-1 tvg-chno="2" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/yDpaib3Oh7ZAHdH82XVhOUYPab4.jpg" group-title="Arcane",(s02e02)
+#EXTINF:-1 tvg-chno="3" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/yDpaib3Oh7ZAHdH82XVhOUYPab4.jpg" group-title="Arcane",(s02e02)
 https://dl33.darkibox.com/hls2/04/00838/qd22joqrzm3c_x/index-v1-a1.m3u8?t=AEaYVTnRqA-ysbkrCNsHgLnzVlMEZgr0CN_tJkM2KdY&s=1732378000&e=43200&f=4190569&i=0.0&sp=0&fr=qd22joqrzm3c
-#EXTINF:-1 tvg-chno="3" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/zu2OCxZIJq3gDtXfcUc68mJJyiD.jpg" group-title="Arcane",(s02e03)
+#EXTINF:-1 tvg-chno="4" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/zu2OCxZIJq3gDtXfcUc68mJJyiD.jpg" group-title="Arcane",(s02e03)
 https://dl30.darkibox.com/hls2/09/00623/8zpx93ais1mv_x/index-v1-a1.m3u8?t=oTZM2TVGxlWDzPzmqKGfSniaqNeFuU1ZdzORPUFxIus&s=1732382926&e=43200&f=3117523&i=0.0&sp=0&fr=8zpx93ais1mv
-#EXTINF:-1 tvg-chno="4" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/66ZXA49SlSLv6OBUsXhUjeDVyca.jpg" group-title="Arcane",(s02e04)
+#EXTINF:-1 tvg-chno="5" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/66ZXA49SlSLv6OBUsXhUjeDVyca.jpg" group-title="Arcane",(s02e04)
 https://dl30.darkibox.com/hls2/04/00623/243d3amuhyg3_x/index-v1-a1.m3u8?t=ScSBxkn2Og0FZA5beXSWfmEAZnFIbOdVfFdyEjJk5os&s=1732383011&e=43200&f=3117524&i=0.0&sp=0&fr=243d3amuhyg3
-#EXTINF:-1 tvg-chno="5" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/3mhMhwHlZQQiB2otufCLZteRPMZ.jpg" group-title="Arcane",(s02e05)
+#EXTINF:-1 tvg-chno="6" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/3mhMhwHlZQQiB2otufCLZteRPMZ.jpg" group-title="Arcane",(s02e05)
 https://dl30.darkibox.com/hls2/01/00623/etkw41dsgj6w_x/index-v1-a1.m3u8?t=cwgeXVgzry4eniEP7BT0jQK2JyZ8HkZYr8TNKdFoKaY&s=1732383049&e=43200&f=3117529&i=0.0&sp=0&fr=etkw41dsgj6w
-#EXTINF:-1 tvg-chno="6" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/iRj7h5bykrWcoin2s1YN7uDNoUt.jpg" group-title="Arcane",(s02e06)
+#EXTINF:-1 tvg-chno="7" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/iRj7h5bykrWcoin2s1YN7uDNoUt.jpg" group-title="Arcane",(s02e06)
 https://dl33.darkibox.com/hls2/11/00623/a01ufhou6mew_x/index-v1-a1.m3u8?t=qvIOc06um1oCHAkMAccmabBjSbnLXU_JgAueuYHE-xU&s=1732383088&e=43200&f=3117531&i=0.0&sp=0&fr=a01ufhou6mew
-#EXTINF:-1 tvg-chno="7" tvg-id="Arcane" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/2DpHvlhBVYwnncHEPwXJajZSxjs.jpg" group-title="Arcane",(s02e07)
+#EXTINF:-1 tvg-chno="8" tvg-id="Arcane" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/2DpHvlhBVYwnncHEPwXJajZSxjs.jpg" group-title="Arcane",(s02e07)
 https://dl34.darkibox.com/hls2/15/00623/jb4k8ubfqc79_x/index-v1-a1.m3u8?t=h9vk3logAMpiB2VN7YYIpv-_YVsTGp3HFKrQQzfX95A&s=1732383141&e=43200&f=3117532&i=0.0&sp=0&fr=jb4k8ubfqc79
-#EXTINF:-1 tvg-chno="8" tvg-id="Arcane" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/qspn6A3mmrJ4JFYC4EzAz59h29C.jpg" group-title="Arcane",(s02e08)
+#EXTINF:-1 tvg-chno="9" tvg-id="Arcane" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/qspn6A3mmrJ4JFYC4EzAz59h29C.jpg" group-title="Arcane",(s02e08)
 https://dl33.darkibox.com/hls2/08/00623/t11yewfyjdrb_x/index-v1-a1.m3u8?t=QdavaMfUgWgpjkZLBrpAO72bqhtelrEcMIYkgKx8b6A&s=1732383240&e=43200&f=3117534&i=0.0&sp=0&fr=t11yewfyjdrb
-#EXTINF:-1 tvg-chno="9" tvg-id="Arcane" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/7wYoQZAdbB6e3CFDDYvxQY1sM7.jpg" group-title="Arcane",(s02e09)
+#EXTINF:-1 tvg-chno="10" tvg-id="Arcane" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/7wYoQZAdbB6e3CFDDYvxQY1sM7.jpg" group-title="Arcane",(s02e09)
 https://dl34.darkibox.com/hls2/11/00623/5x65uwlap4vk_x/index-v1-a1.m3u8?t=l2NMXACm-jg7wgHEcfFgoaehot_Ga_8b20weXXGbz2s&s=1732383280&e=43200&f=3117545&i=0.0&sp=0&fr=5x65uwlap4vk
 
