@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/tOwd1kLWFeQXwrtCnSQrIMmrX6V.jpg" group-title="Arcane"
+#EXTINF:-1 tvg-chno="0" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/tOwd1kLWFeQXwrtCnSQrIMmrX6V.jpg" group-title="Arcane"
 #EXTINF:-1 tvg-chno="1" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/AKzTyLJkQEuftVNIuh0gcJCbDl.jpg" group-title="Arcane",(s02e01) 
 https://up36.darkibox.com/hls2/01/00838/0r5hg9o5swnd_x/index-v1-a1.m3u8?t=ur7Uvku18cL8ZOchXyQ9vgZJsvdYc6RZfqWmXFRg6Pc&s=1732370996&e=43200&f=4190117&i=0.0&sp=0&fr=0r5hg9o5swnd
 #EXTINF:-1 tvg-chno="2" tvg-id="Arcane" tvg-logo="https://image.tmdb.org/t/p/original/yDpaib3Oh7ZAHdH82XVhOUYPab4.jpg" group-title="Arcane",(s02e02)
