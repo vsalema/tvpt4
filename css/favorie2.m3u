@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
-https://up36.darkibox.com/hls2/01/00838/0r5hg9o5swnd_x/index-v1-a1.m3u8?t=ur7Uvku18cL8ZOchXyQ9vgZJsvdYc6RZfqWmXFRg6Pc&s=1732370996&e=43200&f=4190117&i=0.0&sp=0&fr=0r5hg9o5swnd
+https://cdnapisec.kaltura.com/p/4201983/sp/4201983/playManifest/entryId/1_f937jiu8/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?ks=djJ8NDIwMTk4M3w-YFJiL5nzy6fiaftlIAWMYrr2JIrrLACHlwvRLB6P0_gXk-Q9K_0j4FPVdwt4ufs87DjZvSLidBNO9-lSB__BwWbLVmstKwKjHtezrXD1oz8KPFZY2LejYLvFCbgbZm7fGBsE5D_g-sRfC-8MqpR3oOpw2CejSsC0c3EJTDvIfQ==&playSessionId=c93748a4-1ed9-9130-32a7-ac3e2857a065:e735f78d-8cc0-5175-c29b-be8535fcee4d&referrer=aHR0cHM6Ly9rbWMua2FsdHVyYS5jb20v&clientTag=html5:v7.139
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="TNT",FRANCE 3
