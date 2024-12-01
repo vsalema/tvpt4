@@ -742,6 +742,7 @@ margin-top: -10px
           </div>
           <div style="position: fixed; z-index: 9999; inset: 16px; pointer-events: none;" bis_skin_checked="1"></div><img src="/img/player/back-arrow.svg" class="back-button">
         </div><img src="" alt="" style="display: none;"><video src="" style="display: none;"></video>
+      <button onclick="toggle()">Plein écran</button>
       </div>
       <div class="LiveChannels" bis_skin_checked="1">
         <div class="LiveChannelRowContainer selected" bis_skin_checked="1">
@@ -1608,7 +1609,11 @@ async function load()
 }
 load();
 </script>
-	
+	 <script>
+  function toggle() {
+    document.querySelector('iframe').requestFullscreen();
+  }
+</script>
 	
 	<!--End of Tawk.to Script-->
 </body>
