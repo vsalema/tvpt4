@@ -3,7 +3,6 @@
 //
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png" group-title="Généraliste",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+  (plages en clair)" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-768x432.png" group-title="Généraliste",Canal+  (plages en clair)
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv6be.m3u8
 #EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-name="CGTN Français  (CN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_français.png/640px-CGTN_-_français.png" group-title="Généraliste",CGTN Français  (CN)
