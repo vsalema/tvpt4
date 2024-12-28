@@ -212,7 +212,7 @@ https://d37aiu112stb78.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/southpark-fr.m3u8
 #EXTINF:-1 tvg-id="Les simpson.fr" tvg-name="Les simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Les_simpson_logo_France.png" group-title="Jeunesse",Les simpson
 https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/simpsonsfr.m3u8
-#EXTINF:-1 tvg-id="Dragon Ball.fr" tvg-name="Dragon Ball" tvg-logo="https://fr.wikipedia.org/wiki/Dragon_Ball#/media/Fichier:Dragon_Ball_Logo.png" group-title="Jeunesse",Dragon Ball
+#EXTINF:-1 tvg-id="Dragon Ball.fr" tvg-name="Dragon Ball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Jeunesse",Dragon Ball
 https://sv0.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/sangoku.m3u8
 #EXTINF:-1 tvg-id="Family Guy.fr" tvg-name="Family Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/768px-Family_Guy_Logo.svg.png" group-title="Jeunesse",Family Guy
 https://sv0.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/familyguyfr.m3u8
