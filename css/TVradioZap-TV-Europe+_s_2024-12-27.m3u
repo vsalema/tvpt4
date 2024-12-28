@@ -141,7 +141,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio
 #EXTINF:-1 tvg-id="TempoAfric.fr" tvg-name="Tempo Afric (US)" tvg-logo="https://www.tempoafrictv.com/wp-content/uploads/2024/05/cropped-Youtube-Chanel-Tv-Logo.png" group-title="Divertissement",Tempo Afric (US)
 https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/768px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="Divertissement",TF1 Séries Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/seriefilmes.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="Divertissement",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="UbiznewsOM5.fr" tvg-name="Ubiznews OM5" tvg-logo="https://ubiznewstv.com/wp-content/uploads/elementor/thumbs/cropped-UBIZOM5_logo-couleur-light-pbtanvgo7bgr8jkqqzwv305jfeiqfmvc3a3wqrjgp2.png" group-title="Divertissement",Ubiznews OM5
