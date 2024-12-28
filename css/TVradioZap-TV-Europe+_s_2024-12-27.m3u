@@ -105,7 +105,11 @@ https://5421175365ea3.streamlock.net/live/switch.smil/playlist.m3u8
 #EXTINF:-1,-------------- Divertissement
 //
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_C8_2016.svg/800px-Logo_C8_2016.svg.png" group-title="Divertissement",C8
-https://tvradiozap.eu/tools/dm-m3u8.php/720/x5gv5rr.m3u8
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/d8france.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/langfr-263px-W9_2018.svg.png" group-title="Divertissement",W9
+https://sv7.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/w9france.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/langfr-225px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Divertissement",M6
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/m6france.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-name="Carac1 (CH)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/74/CARAC1_logo_2023.svg" group-title="Divertissement",Carac1 (CH)
 https://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac2.ch" tvg-name="Carac2 (CH)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e8/CARAC2_logo_2023.svg" group-title="Divertissement",Carac2 (CH)
@@ -115,7 +119,7 @@ https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Chérie 25" tvg-logo="https://i.pinimg.com/originals/54/51/1d/54511dd619f6b10fad2af8b22ee6e9f8.png" group-title="Divertissement",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://app.ladn-data.eu/storage/uploads/companies/a70beb63-7a59-40c0-b097-b6428b18cd36.jpg" group-title="Divertissement",CStar
-https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5v0.m3u8
+https://sv7.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/cstars-france.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/France_4_2018.svg" group-title="Divertissement",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 #EXTINF:-1 tvg-id="Kajoutv.fr" tvg-name="Kajou TV (US HT)" tvg-logo="https://tinyurl.com/4zvt28ta" group-title="Divertissement",Kajou TV (US HT)
@@ -202,6 +206,18 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-name="Caillou" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/Caillou_Type_B_circle_1000x1000.png" group-title="Jeunesse",Caillou
 https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="SuperToons.fr" tvg-name="SuperToons" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/SuperToons_Logo.png?20240417032921" group-title="Jeunesse",SuperToons
+https://d37aiu112stb78.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l64mdrsnz9wn3/87972c11-f6c2-4677-b4cf-f7423a3f256c/0.m3u8
+#EXTINF:-1 tvg-id="South Park.fr" tvg-name="South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Park_sign_logo.png/330px-South_Park_sign_logo.png" group-title="Jeunesse",South Park
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/southpark-fr.m3u8
+#EXTINF:-1 tvg-id="Les simpson.fr" tvg-name="Les simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Les_simpson_logo_France.png" group-title="Jeunesse",Les simpson
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/simpsonsfr.m3u8
+#EXTINF:-1 tvg-id="Dragon Ball.fr" tvg-name="Dragon Ball" tvg-logo="https://fr.wikipedia.org/wiki/Dragon_Ball#/media/Fichier:Dragon_Ball_Logo.png" group-title="Jeunesse",Dragon Ball
+https://sv0.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/sangoku.m3u8
+#EXTINF:-1 tvg-id="Family Guy.fr" tvg-name="Family Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/768px-Family_Guy_Logo.svg.png" group-title="Jeunesse",Family Guy
+https://sv0.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/familyguyfr.m3u8
+#EXTINF:-1 tvg-id="Futurama.fr" tvg-name="Futurama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Jeunesse",Futurama
+https://sv0.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/futurama-fr.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Jeunesse",Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-id="japanime.be" tvg-name="JapanimTV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Jeunesse",JapanimTV
