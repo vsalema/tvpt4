@@ -146,6 +146,10 @@ https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a9
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="UbiznewsOM5.fr" tvg-name="Ubiznews OM5" tvg-logo="https://ubiznewstv.com/wp-content/uploads/elementor/thumbs/cropped-UBIZOM5_logo-couleur-light-pbtanvgo7bgr8jkqqzwv305jfeiqfmvc3a3wqrjgp2.png" group-title="Divertissement",Ubiznews OM5
 https://tvradiozap.eu/tools/dm-m3u8.php/x8dicii.m3u8
+#EXTINF:-1 tvg-id="Un Gars Une fille.fr" tvg-name="Un Gars Une fille" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="Divertissement",Un Gars Une fille
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 tvg-id="UbiznewsOM5.fr" tvg-name="Ubiznews OM5" tvg-logo="https://www.stream4free.tv//images/avatars/garsfille.jpg" group-title="Divertissement",Ubiznews OM5
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/ungarsunefille.m3u8
 #EXTINF:-1,-------------- Documentaires
 //
 #EXTINF:-1 tvg-id="100docs.fr" tvg-name="100% Docs" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/12870917-15e4-4030-87f1-3e44a786e858-width200-quality90.jpeg" group-title="Documentaires",100% Docs
