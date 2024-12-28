@@ -179,9 +179,9 @@ https://tvradiozap.eu/tools/yt-m3u8.php/UCX4py0rkBIdjUqNJCH_JQDw.m3u8
 #EXTINF:-1 tvg-id="FigaroLive.fr" tvg-name="Figaro Live" tvg-logo="https://i.f1g.fr/media/cms/1200x630_crop/2022/07/01/56c2aa1bdd0afe4366b6bca8d6d31b044052bd0653c41b916efc438990f1cf6a.png" group-title="Info",Figaro Live
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/France_24_logo.png" group-title="Info",France 24
-https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
+https://sv7.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/france24.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info" tvg-logo="https://img.20mn.fr/0Gkk_u0qS22pBMK_ysg7kQ/1200x768_logo-chaine-france-info" group-title="Info",France Info
-https://tvradiozap.eu/tools/yt-m3u8.php/@franceinfo.m3u8
+https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/francetvinfo.m3u8
 #EXTINF:-1 tvg-id="I24News.il" tvg-name="I24NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/225px-LOGO_i24NEWS.png" group-title="Info",I24NEWS
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-name="Ici RDI  (CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Info",Ici RDI  (CA)
