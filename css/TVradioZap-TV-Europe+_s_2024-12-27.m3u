@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,-------------- Généraliste
+#EXTINF:-1,-------------- Généraliste🇫🇷
 //
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png" group-title="Généraliste",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
@@ -36,7 +36,7 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 #EXTINF:-1 tvg-id="TV5MondeFBS.fr" tvg-name="TV5Monde FBS" tvg-logo="https://i.imgur.com/uGs4HSL.png" group-title="Généraliste",TV5Monde FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 
-#EXTINF:-1,-------------- Archives
+#EXTINF:-1,-------------- Archives🇫🇷
 //
 #EXTINF:-1 tvg-id="INA70.fr" tvg-name="INA 70" tvg-logo="https://images.pluto.tv/series/651fe0613099fc00084bd30e/featuredImage.jpg" group-title="Archives",INA 70
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_ir_video1_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
@@ -54,7 +54,7 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-name="Voyages et Saveurs" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20241022T051726SQUARE.png&h=250" group-title="Art de vivre",Voyages et Saveurs
 https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8
-#EXTINF:-1,-------------- Cinéma
+#EXTINF:-1,-------------- Cinéma🇫🇷
 //
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e87ece78-2a31-4a08-a673-6d08bb8f8a06-films-d-action-rakuten-tv-1621956489.png" group-title="Cinéma",Action
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
@@ -94,7 +94,7 @@ https://amg01821-lovetvchannels-lovemagazinefr-samsungfr-3s8nt.amagi.tv/playlist
 https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="WildsideTV.fr" tvg-name="Wildside TV" tvg-logo="https://revusetcorriges.com/wp-content/uploads/2017/11/boite-logo-wild-side.png" group-title="Cinéma",Wildside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,-------------- Culture
+#EXTINF:-1,-------------- Culture🇫🇷
 //
 #EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://images.squarespace-cdn.com/content/v1/553f926ce4b0a46bddb4baf6/1561374992682-AQP12A8997URCIOMDY5I/ARTE-seul-2.png" group-title="Culture",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8
@@ -110,7 +110,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8
 #EXTINF:-1 tvg-id="TVFrancophonie.fr" tvg-name="TV Francophonie" tvg-logo="https://tvfrancophonie.org/templates/tvf-3-5-titre-centre/images/header.jpg" group-title="Culture",TV Francophonie
 https://5421175365ea3.streamlock.net/live/switch.smil/playlist.m3u8
-#EXTINF:-1,-------------- Divertissement
+#EXTINF:-1,-------------- Divertissement🇫🇷
 //
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-name="Carac1 (CH)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/74/CARAC1_logo_2023.svg" group-title="Divertissement",Carac1 (CH)
 https://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
@@ -148,7 +148,7 @@ https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a9
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="Un Gars Une fille.fr" tvg-name="Un Gars Une fille" tvg-logo="https://www.stream4free.tv//images/avatars/garsfille.jpg" group-title="Divertissement",Un Gars Une fille
 https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/ungarsunefille.m3u8
-#EXTINF:-1,-------------- Documentaires
+#EXTINF:-1,-------------- Documentaires🇫🇷
 //
 #EXTINF:-1 tvg-id="100docs.fr" tvg-name="100% Docs" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/12870917-15e4-4030-87f1-3e44a786e858-width200-quality90.jpeg" group-title="Documentaires",100% Docs
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/ea5a09d7-3850-4df0-ac4a-f0905c1c9b82/playlist.m3u8
@@ -158,7 +158,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?star
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 #EXTINF:-1 tvg-id="RMCWow.fr" tvg-name="RMC Wow" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCWowmin.jpg" group-title="Documentaires",RMC Wow
 https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1,-------------- Economie
+#EXTINF:-1,-------------- Economie🇫🇷
 //
 #EXTINF:-1 tvg-id="BSMART.fr" tvg-name="B SMART" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/225px-B_SMART_logo.png" group-title="Economie",B SMART
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
@@ -166,7 +166,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsma
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="FinanceTV.fr" tvg-name="Finance TV" tvg-logo="https://rsrc.s3wfg.com/web/img/logos/tw-financal.png" group-title="Economie",Finance TV
 https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
-#EXTINF:-1,-------------- Info
+#EXTINF:-1,-------------- Info🇫🇷
 //
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmtvcouleurs.png" group-title="Info",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -202,7 +202,7 @@ https://webtv.monacoinfo.com/live/prod/index.m3u8
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Info",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1,-------------- Jeunesse
+#EXTINF:-1,-------------- Jeunesse🇫🇷
 //
 #EXTINF:-1 tvg-id="adn.fr" tvg-name="ADN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
@@ -228,7 +228,7 @@ https://foxkidstv.be:3369/stream/play.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
 #EXTINF:-1 tvg-id="France.fr" tvg-name="Xilam TV" tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_177x90.png" group-title="Jeunesse",Xilam TV
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,-------------- Local
+#EXTINF:-1,-------------- Local🇫🇷
 //
 #EXTINF:-1 tvg-id="7ALimoges.fr" tvg-name="7A Limoges" tvg-logo="https://www.7alimoges.tv/photo/titre_4350949.jpg" group-title="Local",7A Limoges
 https://tvradiozap.eu/tools/yt-m3u8.php/@7alimoges964.m3u8
@@ -266,7 +266,7 @@ https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ValloireTV.fr" tvg-name="Valloire TV" tvg-logo="https://tvradiozap.eu/tv/logos/valloiretv.png" group-title="Local",Valloire TV
 https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u8
-#EXTINF:-1,-------------- Musique
+#EXTINF:-1,-------------- Musique🇫🇷
 //
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="Clubbing TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Clubbing_TV.png/225px-Clubbing_TV.png" group-title="Musique",Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
@@ -304,7 +304,7 @@ https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 #EXTINF:-1 tvg-id="zoukla.fm" tvg-name="Zoukla" tvg-logo="https://www.telezoukla.com/gallery_gen/6d4a9194d48a7ee753a9d5810901fd90_472x204_fit.png" group-title="Musique",Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1,-------------- Nature
+#EXTINF:-1,-------------- Nature🇫🇷
 //
 #EXTINF:-1 tvg-id="Documentaires.fr" tvg-name="BBC Earth (GB)" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png" group-title="Nature",BBC Earth (GB)
 https://amg00793-amg00793c22-samsung-fr-4776.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthfrance-samsungfr/playlist.m3u8
@@ -314,7 +314,7 @@ https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="Naturetime.fr" tvg-name="Nature time" tvg-logo="https://images.samsung.com/is/image/samsung/assets/be_fr/smart-tv/samsung-tv-plus/all-channels/NatureTime_circle_1000x1000.png?$330_186_PNG$" group-title="Nature",Nature time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1,-------------- Régional
+#EXTINF:-1,-------------- Régional🇫🇷
 //
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-name="20 Minutes TV  (IdF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="Régional",20 Minutes TV  (IdF)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -448,13 +448,13 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-id="WeoTV.fr" tvg-name="Weo TV (Hauts de France)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/WEO_BLEU_NPDC_TV_JAUNE_AVEC_BASELINE.jpg/300px-WEO_BLEU_NPDC_TV_JAUNE_AVEC_BASELINE.jpg" group-title="Régional",Weo TV (Hauts de France)
 https://live-weo.digiteka.com/1189023466/tracks-v3a1/mono.m3u8
-#EXTINF:-1,-------------- Reportages
+#EXTINF:-1,-------------- Reportages🇫🇷
 //
 #EXTINF:-1 tvg-id=" EnquetesdeChoc.fr" tvg-name="Enquêtes de Choc" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png" group-title="Reportages",Enquêtes de Choc
 https://amg01796-fastmediabackbo-enquetesdechoc-samsungfr-s0s2i.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-name="RMC Alerte Secours" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCAlertesecours.jpg" group-title="Reportages",RMC Alerte Secours
 https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
-#EXTINF:-1,-------------- Sciences
+#EXTINF:-1,-------------- Sciences🇫🇷
 //
 #EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-name="L'Esprit Sorcier TV" tvg-logo="https://i.imgur.com/zyh8yub.png" group-title="Sciences",L'Esprit Sorcier TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
@@ -462,7 +462,7 @@ https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd91
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="TopSanteTV.fr" tvg-name="Top Santé" tvg-logo="https://www.topsante.com/wp-content/themes/topsante/assets/images/main-logo.svg" group-title="Sciences",Top Santé
 https://tvradiozap.eu/tools/dm-m3u8.php/720/x89yjnn.m3u8
-#EXTINF:-1,-------------- Séries
+#EXTINF:-1,-------------- Séries🇫🇷
 //
 #EXTINF:-1 tvg-id="Crime.fr" tvg-name="Crime" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cd5a6bd-da75-4977-94fe-7c18e4c74b08-width308-quality100.jpeg" group-title="Séries",Crime
 https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
@@ -472,7 +472,7 @@ https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleNovela.fr" tvg-name="Télé Novela" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20220511T011743SQUARE.png_20220511011745.png&h=250" group-title="Séries",Télé Novela
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,-------------- Sociétal
+#EXTINF:-1,-------------- Sociétal🇫🇷
 //
 #EXTINF:-1 tvg-id="BAM.be" tvg-name="BAM (BE)" tvg-logo="https://le-de.cdn-website.com/894133b4cadc4c66aa2a5f508c2b66fd/dms3rep/multi/opt/LogoBAM-1920w.png" group-title="Sociétal",BAM (BE)
 https://goccn.cloud/hls/belafrikatv/index.m3u8
@@ -488,7 +488,7 @@ https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
 #EXTINF:-1 tvg-id="SQOOL.fr" tvg-name="SQOOL" tvg-logo="https://www.sqooltv.com/app/themes/sqool-tv/assets/img/SQOOLTV_LOGO_2x.png" group-title="Sociétal",SQOOL
 https://tvradiozap.eu/tools/yt-m3u8.php/@sqooltv.m3u8
-#EXTINF:-1,-------------- Sport
+#EXTINF:-1,-------------- Sport🇫🇷
 //
 #EXTINF:-1 tvg-id="BordoTV.fr" tvg-name="Bordo TV Sport" tvg-logo="https://bordofm.com/wp-content/uploads/2023/03/LOGO-BORDO-MEDIA-GROUP-BLANC-ET-ROUGE-RECTANGULAIRE.png" group-title="Sport",Bordo TV Sport
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
@@ -508,7 +508,7 @@ https://d1j1h1zdadb91f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="Sport en France" tvg-logo="https://www.ffsnw.fr/wp-content/uploads/2022/04/logo-Sport-en-France.jpg" group-title="Sport",Sport en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1,-------------- Voyage
+#EXTINF:-1,-------------- Voyage🇫🇷
 //
 #EXTINF:-1 tvg-id="Echappeesbelles.fr" tvg-name="Echappées belles" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/eedf4ae4-7170-48f2-a686-98e80d0d463f-width308-quality100.jpeg" group-title="Voyage",Echappées belles
 https://amg02232-botravail-amg02232c1-samsung-fr-308.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-samsungfr/playlist.m3u8
