@@ -1574,65 +1574,7 @@ margin-top: -10px
       $('#hamburger-menu').click();
     });
   </script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/671273c92480f5b4f58f9960/1iag18j4d';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
 <script>
-function insertTHAndTD(tr,b)
-{
-// tr est ici un élément html <tr>
-// b est un tableau de 2 éléments, le 1er est un libellé et le 2e une valeur
-// on crée un <th>
-	let th=document.createElement("TH");
-// on crée un <td>
-	let td=document.createElement("TD");
-// on met le 1re élément de b dans le <th>
-	th.appendChild(document.createTextNode(b[0]));
-// on ajoute le <th> au <tr>
-	tr.appendChild(th);
-// on met le 2e élément de b dans le <td>
-	td.appendChild(document.createTextNode(b[1])); 
-// on ajoute le <td> au <tr>
-	tr.appendChild(td);
-}
-
-function insertTR(table,a)
-{
-// table est ici un élément html <table>
-// a est un tableau dont chaque élément est lui-même un tableau de 2 éléments, le 1er élément étant un libellé et le 2e une valeur
-// on crée un élément <tr>
-	let tr=document.createElement("TR");
-// pour chaque élément de a (ces éléments contiennent à ce stade un libellé et une valeur), on ajoute un <th> et un <td>
-	a.forEach(b=>insertTHAndTD(tr,b));
-// on ajoute le <tr> dans l'élément <table>
-	table.appendChild(tr);
-}
-
-async function load()
-{
-	let u='https://vsalema.github.io/tvpt4/css/cookies.json';
-// on lit le json
-	let o=await (await fetch(u)).json();
-// on crée un élément <table>
-	let table=document.createElement("TABLE");
-// pour chaque ligne du json, on ajoute une balise <tr> dans l'élément <table>
-// au passage, on transforme chaque objet du json en tableau
-	o.forEach(a=>insertTR(table,Object.entries(a)));
-// on ajoute <table> dans la <div> ayant pour id "container"
-	document.getElementById("container").appendChild(table);
-}
-load();
-</script>
-	 <script>
   function toggle() {
     document.querySelector('iframe').requestFullscreen();
   }
@@ -1684,7 +1626,7 @@ function tick() {
 tick()
 setInterval(tick, 1000)
 </script>
-	<!--End of Tawk.to Script-->
+	
 </body>
 </html>
 
