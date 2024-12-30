@@ -28,7 +28,7 @@
   <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <link rel="stylesheet" href="/oqq.css">
+  <link rel="stylesheet" href="https://vsalema.github.io/tvpt4/css/oqq.css">
   
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/scss/_nav.scss">
   
@@ -548,7 +548,28 @@ margin-top: -10px
 {
     background-color: #1c1c1c;
 }
-  
+ #clock {
+  width: 50px;
+  height: 50px;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 90%;
+  top: 120%;
+}
+.clock-date {
+  color: #20a8f8;
+  font-weight: bold;
+  padding-top: 35px;
+  font-size: 20px;
+  line-height: 20px;
+  margin-right: 135px;
+} 
   </style>
 </head>
 
@@ -742,7 +763,10 @@ margin-top: -10px
           </div>
           <div style="position: fixed; z-index: 9999; inset: 16px; pointer-events: none;" bis_skin_checked="1"></div><img src="/img/player/back-arrow.svg" class="back-button">
         </div><img src="" alt="" style="display: none;"><video src="" style="display: none;"></video>
-      <button onclick="toggle()">&#x26F6;Plein écran</button>
+      <button onclick="toggle()">&#x26F6;Plein écran</button><div id="clock">
+  <!-- Affichez l'heure -->
+  <p id="time"></p><div id="date" class="clock-date"></div>
+</div>
       </div>
       <div class="LiveChannels" bis_skin_checked="1">
         <div class="LiveChannelRowContainer selected" bis_skin_checked="1">
@@ -1613,7 +1637,53 @@ load();
     document.querySelector('iframe').requestFullscreen();
   }
 </script>
-	
+<script>
+// Récupérez l'élément de temps
+var timeElement = document.getElementById("time");
+
+// Mettre à jour l'heure toutes les 1000 ms (1 seconde)
+setInterval(function() {
+  // Obtenez l'heure actuelle
+  var currentTime = new Date();
+  // Formatez l'heure sous forme de chaîne
+  var timeString = currentTime.toLocaleTimeString();
+  // Mettez à jour le contenu de l'élément de temps
+  timeElement.innerHTML = timeString;
+}, 1000);
+var date = document.getElementById('date')
+
+var d, currentDate, currentTime, lastDate, lastTime;
+
+function tick() {
+  d = new Date()
+  
+  currentDate = d.toLocaleDateString('fr-FR', { 
+    weekday: 'long', 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric' 
+  })
+  
+ 
+  
+  if (lastDate !== currentDate) {
+    console.log('Update Date DOM')
+    date.textContent = currentDate
+    lastDate = currentDate
+  }
+  
+  if (lastTime !== currentTime) {
+    console.log('Update Time DOM')
+    
+    var meridian = currentTime.substr(currentTime.length-2);
+    time.innerHTML = currentTime.substr(0, currentTime.length-3) + '<small>'+ meridian +'</small>';
+    lastTime = currentTime
+  }
+}
+
+tick()
+setInterval(tick, 1000)
+</script>
 	<!--End of Tawk.to Script-->
 </body>
 </html>
