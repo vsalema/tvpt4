@@ -31,7 +31,7 @@
   <link rel="stylesheet" href="https://vsalema.github.io/tvpt4/css/oqq.css">
   
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/scss/_nav.scss">
-  
+ <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> 
   <style>
     .dineuron-menu {
       width: 100%;
@@ -548,28 +548,54 @@ margin-top: -10px
 {
     background-color: #1c1c1c;
 }
-#clock {
-  width: 50px;
-  height: 50px;
-  color: #ffffff;
-  font-size: 40px;
-  text-align: center;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: fixed;
-  left: 60%;
-  top: 90%;
+#test{
+    text-align:center;
+    font-family:serif; 
+    color:white;
+    letter-spacing:2px;
+    font-size:70px;
+    text-shadow:5px 3px 25px white;
+    padding:5px;
+    
+    
 }
-.clock-date {
-  color: #20a8f8;
-  font-weight: bold;
-  padding-top: 10px;
-  font-size: 20px;
-  line-height: 20px;
-  margin-right: 416px;
-  position: fixed;
+
+
+#test {
+  text-align: center;
+  font-family: serif;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 30px;
+  text-shadow: 5px 3px 25px white;
+  padding: 5px;
+}
+#text2{
+    margin-top:10%;
+    text-align:center;
+    font-family:Arial;
+    color:white;
+    letter-spacing:3px;
+    word-spacing:4px;
+    
+    
+}
+#b1{
+    text-align:center;
+    font-weight:bold;
+}
+#ttt {
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-family: serif;
+  margin-top: -42px;
+  margin-left: 248px;
+}
+#all {
+  padding: 5px;
+  font-family: serif;
+  margin-top: -42px;
 }
   </style>
 </head>
@@ -764,10 +790,10 @@ margin-top: -10px
           </div>
           <div style="position: fixed; z-index: 9999; inset: 16px; pointer-events: none;" bis_skin_checked="1"></div><img src="/img/player/back-arrow.svg" class="back-button">
         </div><img src="" alt="" style="display: none;"><video src="" style="display: none;"></video>
-      <button onclick="toggle()">&#x26F6;Plein écran</button><div id="clock">
-  <!-- Affichez l'heure -->
-  <p id="time"></p><div id="date" class="clock-date"></div>
-</div>
+      <button onclick="toggle()">&#x26F6;Plein écran</button><form id="all">
+        <div id="test"></div>
+        <div id="ttt"></div>
+        </form>
       </div>
       <div class="LiveChannels" bis_skin_checked="1">
         <div class="LiveChannelRowContainer selected" bis_skin_checked="1">
@@ -1581,53 +1607,64 @@ margin-top: -10px
   }
 </script>
 <script>
-// Récupérez l'élément de temps
-var timeElement = document.getElementById("time");
-
-// Mettre à jour l'heure toutes les 1000 ms (1 seconde)
-setInterval(function() {
-  // Obtenez l'heure actuelle
-  var currentTime = new Date();
-  // Formatez l'heure sous forme de chaîne
-  var timeString = currentTime.toLocaleTimeString();
-  // Mettez à jour le contenu de l'élément de temps
-  timeElement.innerHTML = timeString;
-}, 1000);
-var date = document.getElementById('date')
-
-var d, currentDate, currentTime, lastDate, lastTime;
-
-function tick() {
-  d = new Date()
-  
-  currentDate = d.toLocaleDateString('fr-FR', { 
-    weekday: 'long', 
-    year: 'numeric', 
-    month: 'long', 
-    day: 'numeric' 
-  })
-  
- 
-  
-  if (lastDate !== currentDate) {
-    console.log('Update Date DOM')
-    date.textContent = currentDate
-    lastDate = currentDate
-  }
-  
-  if (lastTime !== currentTime) {
-    console.log('Update Time DOM')
+//Made By Boujjou Achraf
+function printTime() {
+    var d = new Date();
+    var hours = d.getHours();
+    var mins = d.getMinutes();
+    var secs = d.getSeconds();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
     
-    var meridian = currentTime.substr(currentTime.length-2);
-    time.innerHTML = currentTime.substr(0, currentTime.length-3) + '<small>'+ meridian +'</small>';
-    lastTime = currentTime
-  }
-}
+        switch (day){
+        
+            case 0:
+                day = "Lundi";
+                break;
+            case 1:
+                day = "Mardi";
+                break;
+            case 2:
+                day = "Mercredi";
+                break;
+            case 3:
+                day = "Jeudi";
+                break;
+            case 4:
+                day = "Vendredi";
+                break;
+            case 5:
+                day = "Samedi";
+                break;
+            case 6:
+                day = "Dimanche";
+                break;
+           }
+    
+    
+        if(hours<10){
+            hours = "0" + hours;
+        }
+        if(mins<10){
+            
+            mins = "0" + mins;
+        }
+        if(secs<10){
 
-tick()
-setInterval(tick, 1000)
+            secs = "0" + secs;
+        }
+   
+   month = month + 1; document.getElementById("test").innerHTML = hours+":"+mins+":"+secs;
+document.getElementById("ttt").innerHTML = day + ", " + date + "." + month + "." + year;
+}
+setTimeout(printTime, 1);
+setInterval(printTime, 1000);
+
 </script>
-	
+	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous">
+  </script>
 </body>
 </html>
 
