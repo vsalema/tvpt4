@@ -145,7 +145,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Tahitiwebradio
 #EXTINF:-1 tvg-id="TempoAfric.fr" tvg-name="Tempo Afric (US)" tvg-logo="https://www.tempoafrictv.com/wp-content/uploads/2024/05/cropped-Youtube-Chanel-Tv-Logo.png" group-title="Divertissement",Tempo Afric (US)
 https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/768px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="Divertissement",TF1 Séries Films
-https://sv1.data-stream.top/04913fbdefbc8b558d4e0f6471670d50df42f9a7d00296b8f747f97a476db4a9/hls/seriefilmes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="Divertissement",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="Un Gars Une fille.fr" tvg-name="Un Gars Une fille" tvg-logo="https://www.stream4free.tv//images/avatars/garsfille.jpg" group-title="Divertissement",Un Gars Une fille
