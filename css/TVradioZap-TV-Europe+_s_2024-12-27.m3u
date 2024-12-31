@@ -2,8 +2,7 @@
 #EXTINF:-1,-------------- Généraliste🇫🇷
 //
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png" group-title="Généraliste",TF1
-https://sv7.data-stream.top:8443/live/tf3-HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
-https://sv7.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/tf3-HD.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/langfr-225px-France_2_2018.svg.png" group-title="Généraliste",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/langfr-1920px-France_3_2018.svg.png" group-title="Généraliste",France 3
