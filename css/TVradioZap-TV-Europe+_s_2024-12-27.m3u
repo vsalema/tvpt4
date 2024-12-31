@@ -149,7 +149,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-se
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="Divertissement",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="Un Gars Une fille.fr" tvg-name="Un Gars Une fille" tvg-logo="https://www.stream4free.tv//images/avatars/garsfille.jpg" group-title="Divertissement",Un Gars Une fille
-https://sv1.data-stream.top/11bbe5b033d4605336099a853fd62b6358dad1a25ebf1d0547a95daf8c4df273/hls/ungarsunefille.m3u8
+https://sv1.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/ungarsunefille.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1,-------------- Documentaires🇫🇷
 //
 #EXTINF:-1 tvg-id="100docs.fr" tvg-name="100% Docs" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/12870917-15e4-4030-87f1-3e44a786e858-width200-quality90.jpeg" group-title="Documentaires",100% Docs
