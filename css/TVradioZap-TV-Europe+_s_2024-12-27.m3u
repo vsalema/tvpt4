@@ -211,15 +211,15 @@ https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="SuperToons.fr" tvg-name="SuperToons" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/SuperToons_Logo.png?20240417032921" group-title="Jeunesse",SuperToons
 https://d37aiu112stb78.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l64mdrsnz9wn3/87972c11-f6c2-4677-b4cf-f7423a3f256c/0.m3u8
 #EXTINF:-1 tvg-id="South Park.fr" tvg-name="South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Park_sign_logo.png/330px-South_Park_sign_logo.png" group-title="Jeunesse",South Park
-https://sv1.data-stream.top/30c28086d8d12365a6b167aefa0a8037e0d761f5ef2f1d7174eb18745be22e30/hls/southpark-fr.m3u8
+https://sv1.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/southpark-fr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="Les simpson.fr" tvg-name="Les simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Les_simpson_logo_France.png" group-title="Jeunesse",Les simpson
-https://sv1.data-stream.top/30c28086d8d12365a6b167aefa0a8037e0d761f5ef2f1d7174eb18745be22e30/hls/simpsonsfr.m3u8
+https://sv1.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/simpsonsfr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="Dragon Ball.fr" tvg-name="Dragon Ball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Jeunesse",Dragon Ball
-https://sv0.data-stream.top/30c28086d8d12365a6b167aefa0a8037e0d761f5ef2f1d7174eb18745be22e30/hls/sangoku.m3u8
+https://sv0.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/sangoku.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="Family Guy.fr" tvg-name="Family Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/768px-Family_Guy_Logo.svg.png" group-title="Jeunesse",Family Guy
-https://sv0.data-stream.top/30c28086d8d12365a6b167aefa0a8037e0d761f5ef2f1d7174eb18745be22e30/hls/familyguyfr.m3u8
+https://sv0.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/familyguyfr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="Futurama.fr" tvg-name="Futurama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Jeunesse",Futurama
-https://sv0.data-stream.top/30c28086d8d12365a6b167aefa0a8037e0d761f5ef2f1d7174eb18745be22e30/hls/futurama-fr.m3u8
+https://sv0.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/futurama-fr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Jeunesse",Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-id="japanime.be" tvg-name="JapanimTV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Jeunesse",JapanimTV
