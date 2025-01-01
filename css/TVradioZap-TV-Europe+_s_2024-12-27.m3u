@@ -234,6 +234,11 @@ https://foxkidstv.be:3369/stream/play.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x6nkjg1.m3u8
 #EXTINF:-1 tvg-id="France.fr" tvg-name="Xilam TV" tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_177x90.png" group-title="Jeunesse",Xilam TV
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Beyblade.fr" tvg-name="Beyblade TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/eb57f7ea-895a-4a74-a3ae-f3c506f1661c-width200-quality90.jpeg" group-title="Jeunesse",Beyblade TV
+https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
+
+
+
 #EXTINF:-1,-------------- Local🇫🇷
 //
 #EXTINF:-1 tvg-id="7ALimoges.fr" tvg-name="7A Limoges" tvg-logo="https://www.7alimoges.tv/photo/titre_4350949.jpg" group-title="Local",7A Limoges
