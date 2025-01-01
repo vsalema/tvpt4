@@ -1,67 +1,69 @@
 #EXTM3U
 #EXTINF:0, group-title="radio",FIP 
 https://stream.radiofrance.fr/fip/fip_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP électro 
+#EXTINF:0, group-title="radio",FIP électro 
 https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP groove 
+#EXTINF:0, group-title="radio",FIP groove 
 https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP Jazz 
+#EXTINF:0, group-title="radio",FIP Jazz 
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
-#EXTINF:0,group-title="radio",FIP Jazz 
+#EXTINF:0, group-title="radio",FIP Jazz 
 http://direct.fipradio.fr/live/fip-webradio2.mp3
-#EXTINF:0,group-title="radio",FIP jazz 
+#EXTINF:0, group-title="radio",FIP jazz 
 https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP Monde 
+#EXTINF:0, group-title="radio",FIP Monde 
 http://direct.fipradio.fr/live/fip-webradio4.mp3
-#EXTINF:0,group-title="radio",FIP monde 
+#EXTINF:0, group-title="radio",FIP monde 
 https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP Nouveauté 
+#EXTINF:0, group-title="radio",FIP Nouveauté 
 http://direct.fipradio.fr/live/fip-webradio5.mp3
-#EXTINF:0,group-title="radio",FIP pop 
+#EXTINF:0, group-title="radio",FIP pop 
 https://stream.radiofrance.fr/fippop/fippop_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP reggae 
+#EXTINF:0, group-title="radio",FIP reggae 
 https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8
-#EXTINF:0,group-title="radio",FIP Rock 
+#EXTINF:0, group-title="radio",FIP Rock 
 http://icecast.radiofrance.fr/fiprock-hifi.aac
-#EXTINF:0,group-title="radio",FIP rock 
+#EXTINF:0, group-title="radio",FIP rock 
 https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8
-#EXTINF:0,group-title="radio",France Bleu - Alsace 
+#EXTINF:0, group-title="radio",France Bleu - Alsace 
 https://stream.radiofrance.fr/fbalsace/fbalsace_midfi.m3u8
-#EXTINF:0,group-title="radio",France Bleu - Paris 
+#EXTINF:0, group-title="radio",France Bleu - Paris 
 https://stream.radiofrance.fr/fb1071/fb1071_hifi.m3u8
-#EXTINF:0,group-title="radio",France Bleu - Pays Basque 
-#EXTINF:0,group-title="radio",France Musique - Classique Eeasy 
+#EXTINF:0, group-title="radio",France Bleu - Pays Basque 
+#EXTINF:0, group-title="radio",France Musique - Classique Eeasy 
 https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8
-#EXTINF:0,group-title="radio",France Musique - Classique Plus 
+#EXTINF:0, group-title="radio",France Musique - Classique Plus 
 https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8
-#EXTINF:0,group-title="radio",France Musique - Concerts Radio France 
+#EXTINF:0, group-title="radio",France Musique - Concerts Radio France 
 http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
-#EXTINF:0,group-title="radio",France Musique - La Baroque 
+#EXTINF:0, group-title="radio",France Musique - La Baroque 
 https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8
-#EXTINF:0,group-title="radio",France Musique - La Contemporaine 
+#EXTINF:0, group-title="radio",France Musique - La Contemporaine 
 https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8
-#EXTINF:0,group-title="radio",France Musique - La Jazz 
+#EXTINF:0, group-title="radio",France Musique - La Jazz 
 https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8
-#EXTINF:0,group-title="radio",France Musique - Ocora - Musiques du monde 
+#EXTINF:0, group-title="radio",France Musique - Ocora - Musiques du monde 
 http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3
-#EXTINF:0,group-title="radio",France Musique - Ocora - Musiques du monde 
+#EXTINF:0, group-title="radio",France Musique - Ocora - Musiques du monde 
 https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8
-#EXTINF:0,group-title="radio",France Musique - Opéra 
+#EXTINF:0, group-title="radio",France Musique - Opéra 
 https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8
-#EXTINF:0,group-title="radio",France-Bleue-107.1 
-#EXTINF:0,group-title="radio",Mouv' 
+#EXTINF:0, group-title="radio",France-Bleue-107.1 
+#EXTINF:0, group-title="radio",Mouv' 
 https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8
-#EXTINF:0,group-title="radio",Mouv' 100 percent mix 
+#EXTINF:0, group-title="radio",Mouv' 100 percent mix 
 https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix_hifi.m3u8
-#EXTINF:0,Mouv' Classics 
+#EXTINF:0, Mouv' Classics 
 https://stream.radiofrance.fr/mouvclassics/mouvclassics_hifi.m3u8
-#EXTINF:0,group-title="radio",Mouv' Dancehall 
+#EXTINF:0, group-title="radio",Mouv' Dancehall 
 https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8
-#EXTINF:0,group-title="radio",Mouv' Kids 'n Family 
+#EXTINF:0, group-title="radio",Mouv' Kids 'n Family 
 https://stream.radiofrance.fr/mouvkidsnfamily/mouvkidsnfamily_hifi.m3u8
-#EXTINF:0,group-title="radio",Mouv' R'N'B 
+#EXTINF:0, group-title="radio",Mouv' R'N'B 
 https://stream.radiofrance.fr/mouvrnb/mouvrnb_hifi.m3u8
-#EXTINF:0,group-title="radio",Mouv' Rap Français 
+#EXTINF:0, group-title="radio",Mouv' Rap Français 
 https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8
-#EXTINF:0,group-title="radio",Mouv' Rap US 
+#EXTINF:0, group-title="radio",Mouv' Rap US 
 https://stream.radiofranc
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/langfr-195px-France_Inter_logo_2021.svg.png" group-title="radio",Franceinter
+https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
