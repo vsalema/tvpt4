@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,FIP
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8
+#EXTINF:0,FIP électro
+https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8
+#EXTINF:0,FIP groove
+https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8
+#EXTINF:0,FIP Jazz
+http://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:0,FIP Jazz
+http://direct.fipradio.fr/live/fip-webradio2.mp3
+#EXTINF:0,FIP jazz
+https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8
+#EXTINF:0,FIP Monde
+http://direct.fipradio.fr/live/fip-webradio4.mp3
+#EXTINF:0,FIP monde
+https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8
+#EXTINF:0,FIP Nouveauté
+http://direct.fipradio.fr/live/fip-webradio5.mp3
+#EXTINF:0,FIP pop
+https://stream.radiofrance.fr/fippop/fippop_hifi.m3u8
+#EXTINF:0,FIP reggae
+https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8
+#EXTINF:0,FIP Rock
+http://icecast.radiofrance.fr/fiprock-hifi.aac
+#EXTINF:0,FIP rock
+https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8
+#EXTINF:0,France Bleu - Alsace
+https://stream.radiofrance.fr/fbalsace/fbalsace_midfi.m3u8
+#EXTINF:0,France Bleu - Paris
+https://stream.radiofrance.fr/fb1071/fb1071_hifi.m3u8
+#EXTINF:0,France Bleu - Pays Basque
+#EXTINF:0,France Musique - Classique Eeasy
+https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8
+#EXTINF:0,France Musique - Classique Plus
+https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8
+#EXTINF:0,France Musique - Concerts Radio France
+http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
+#EXTINF:0,France Musique - La Baroque
+https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8
+#EXTINF:0,France Musique - La Contemporaine
+https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8
+#EXTINF:0,France Musique - La Jazz
+https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8
+#EXTINF:0,France Musique - Ocora - Musiques du monde
+http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3
+#EXTINF:0,France Musique - Ocora - Musiques du monde
+https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8
+#EXTINF:0,France Musique - Opéra
+https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8
+#EXTINF:0,France-Bleue-107.1
+#EXTINF:0,Mouv'
+https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8
+#EXTINF:0,Mouv' 100 percent mix
+https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix_hifi.m3u8
+#EXTINF:0,Mouv' Classics
+https://stream.radiofrance.fr/mouvclassics/mouvclassics_hifi.m3u8
+#EXTINF:0,Mouv' Dancehall
+https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8
+#EXTINF:0,Mouv' Kids 'n Family
+https://stream.radiofrance.fr/mouvkidsnfamily/mouvkidsnfamily_hifi.m3u8
+#EXTINF:0,Mouv' R'N'B
+https://stream.radiofrance.fr/mouvrnb/mouvrnb_hifi.m3u8
+#EXTINF:0,Mouv' Rap Français
+https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8
+#EXTINF:0,Mouv' Rap US
+https://stream.radiofrance.fr/mouvrapus/mouvrapus_hifi.m3u8
