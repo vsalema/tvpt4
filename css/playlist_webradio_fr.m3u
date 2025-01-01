@@ -1,29 +1,27 @@
 #EXTM3U
-#EXTINF:0, group-title="radio",FIP 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP 
 https://stream.radiofrance.fr/fip/fip_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP électro 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP électro 
 https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP groove 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP groove 
 https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP Jazz 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP Jazz 
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
-#EXTINF:0, group-title="radio",FIP Jazz 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP Jazz 
 http://direct.fipradio.fr/live/fip-webradio2.mp3
-#EXTINF:0, group-title="radio",FIP jazz 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP jazz 
 https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP Monde 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP Monde 
 http://direct.fipradio.fr/live/fip-webradio4.mp3
-#EXTINF:0, group-title="radio",FIP monde 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP monde 
 https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP Nouveauté 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP Nouveauté 
 http://direct.fipradio.fr/live/fip-webradio5.mp3
-#EXTINF:0, group-title="radio",FIP pop 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP pop 
 https://stream.radiofrance.fr/fippop/fippop_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP reggae 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP reggae 
 https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8
-#EXTINF:0, group-title="radio",FIP Rock 
-http://icecast.radiofrance.fr/fiprock-hifi.aac
-#EXTINF:0, group-title="radio",FIP rock 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/langfr-165px-FIP_logo_2021.svg.png" group-title="radio",FIP rock 
 https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8
 #EXTINF:0, group-title="radio",France Bleu - Alsace 
 https://stream.radiofrance.fr/fbalsace/fbalsace_midfi.m3u8
@@ -53,7 +51,7 @@ https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8
 https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8
 #EXTINF:0, group-title="radio",Mouv' 100 percent mix 
 https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix_hifi.m3u8
-#EXTINF:0, Mouv' Classics 
+#EXTINF:0, group-title="radio",Mouv' Classics 
 https://stream.radiofrance.fr/mouvclassics/mouvclassics_hifi.m3u8
 #EXTINF:0, group-title="radio",Mouv' Dancehall 
 https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8
@@ -67,3 +65,6 @@ https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8
 https://stream.radiofranc
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/langfr-195px-France_Inter_logo_2021.svg.png" group-title="radio",Franceinter
 https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
+
+
+
