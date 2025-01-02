@@ -210,6 +210,35 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1,-------------- Jeunesse🇫🇷
 //
+#EXTINF:-1 tvg-chno="775" tvg-id="FRBA3300028VI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300028VI_20241015T035848SQUARE.png" tvg-country="FR" group-title="Jeunesse",775. Caillou
+https://jmp2.uk/sam-FRBA3300028VI.m3u8
+#EXTINF:-1 tvg-chno="776" tvg-id="FR700001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20241106T142559SQUARE.png" tvg-country="FR" group-title="Jeunesse",776. Pocoyo
+https://jmp2.uk/sam-FR700001VJ.m3u8
+#EXTINF:-1 tvg-chno="777" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20241210T052718SQUARE.png" tvg-country="FR" group-title="Jeunesse",777. Garfield
+https://jmp2.uk/sam-FRBB4600001MQ.m3u8
+#EXTINF:-1 tvg-chno="778" tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241112T093119SQUARE.png" tvg-country="FR" group-title="Jeunesse",778. Xilam TV
+https://jmp2.uk/sam-FRBA3300018I9.m3u8
+#EXTINF:-1 tvg-chno="779" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20241106T142548SQUARE.png" tvg-country="FR" group-title="Jeunesse",779. Les Lapins Crétins: Invasion
+https://jmp2.uk/sam-FRBD2300002CM.m3u8
+#EXTINF:-1 tvg-chno="780" tvg-id="FR90000160" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20241106T142601SQUARE.png" tvg-country="FR" group-title="Jeunesse",780. Mr Bean Animated
+https://jmp2.uk/sam-FR90000160.m3u8
+#EXTINF:-1 tvg-chno="781" tvg-id="FRBA3300046W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300046W4_20241015T042901SQUARE.png" tvg-country="FR" group-title="Jeunesse",781. Tortues Ninja
+https://jmp2.uk/sam-FRBA3300046W4.m3u8
+#EXTINF:-1 tvg-chno="782" tvg-id="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20241015T040231SQUARE.png" tvg-country="FR" group-title="Jeunesse",782. Charlotte aux Fraises
+https://jmp2.uk/sam-FRBD1900012T7.m3u8
+#EXTINF:-1 tvg-chno="783" tvg-id="FRBD5100002NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20241030T154340SQUARE.png" tvg-country="FR" group-title="Jeunesse",783. SuperToons TV
+https://jmp2.uk/sam-FRBD5100002NL.m3u8
+#EXTINF:-1 tvg-chno="784" tvg-id="FRAJ3800010QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20241106T142544SQUARE.png" tvg-country="FR" group-title="Jeunesse",784. Bob L'eponge
+https://jmp2.uk/sam-FRAJ3800010QO.m3u8
+#EXTINF:-1 tvg-chno="785" tvg-id="FRAJ38000035M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000035M_20241015T042548SQUARE.png" tvg-country="FR" group-title="Jeunesse",785. Pluto TV Kids Séries
+https://jmp2.uk/sam-FRAJ38000035M.m3u8
+#EXTINF:-1 tvg-chno="786" tvg-id="FRAJ38000061J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png" tvg-country="FR" group-title="Jeunesse",786. iCarly
+https://jmp2.uk/sam-FRAJ38000061J.m3u8
+#EXTINF:-1 tvg-chno="787" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20241126T043131SQUARE.png" tvg-country="FR" group-title="Jeunesse",787. 100% Noël - Rakuten TV
+https://jmp2.uk/sam-FR2600001PI.m3u8
+#EXTINF:-1 tvg-chno="1844" tvg-id="FR1800002C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20241210T052800SQUARE.png" tvg-country="FR" group-title="Jeunesse",1844. Wonderland Kids TV
+https://jmp2.uk/sam-FR1800002C4.m3u8
+
 #EXTINF:-1 tvg-id="adn.fr" tvg-name="ADN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-name="Caillou" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/Caillou_Type_B_circle_1000x1000.png" group-title="Jeunesse",Caillou
