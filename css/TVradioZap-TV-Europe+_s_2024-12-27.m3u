@@ -127,7 +127,7 @@ https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Chérie 25" tvg-logo="https://i.pinimg.com/originals/54/51/1d/54511dd619f6b10fad2af8b22ee6e9f8.png" group-title="Divertissement",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://app.ladn-data.eu/storage/uploads/companies/a70beb63-7a59-40c0-b097-b6428b18cd36.jpg" group-title="Divertissement",CStar
-https://sv7.data-stream.top/ea5f430850d177b241ab6c9a65367d320e286e6715019518dc324364c0958290/hls/cstars-france.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
+https://sv7.data-stream.top/74acf6277f4cdab9e0026f75b453c55542d58bf9ee04e54be3914cb5e3164989/hls/cstars-france.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/France_4_2018.svg" group-title="Divertissement",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 #EXTINF:-1 tvg-id="Kajoutv.fr" tvg-name="Kajou TV (US HT)" tvg-logo="https://tinyurl.com/4zvt28ta" group-title="Divertissement",Kajou TV (US HT)
