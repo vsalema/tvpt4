@@ -16,13 +16,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/langfr-1920px-France_5_2018.svg.png" group-title="Généraliste",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/248px-6ter_2012.png" group-title="Généraliste",6ter
-https://sv1.data-stream.top/74acf6277f4cdab9e0026f75b453c55542d58bf9ee04e54be3914cb5e3164989/hls/6ter.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_C8_2016.svg/800px-Logo_C8_2016.svg.png" group-title="Généraliste",C8
 https://sv1.data-stream.top/74acf6277f4cdab9e0026f75b453c55542d58bf9ee04e54be3914cb5e3164989/hls/d8france.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/langfr-263px-W9_2018.svg.png" group-title="Généraliste",W9
-https://sv7.data-stream.top/74acf6277f4cdab9e0026f75b453c55542d58bf9ee04e54be3914cb5e3164989/hls/w9france.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/langfr-225px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",M6
-https://sv1.data-stream.top/74acf6277f4cdab9e0026f75b453c55542d58bf9ee04e54be3914cb5e3164989/hls/m6france.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCAzOjIwOjI4IFBNJmhhc2hfdmFsdWU9K01ET1JkZmFKSzVZVXdvRk9uOVpOUT09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xMQ==
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+  (plages en clair)" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-768x432.png" group-title="Généraliste",Canal+  (plages en clair)
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv6be.m3u8
 #EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-name="CGTN Français  (CN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_français.png/640px-CGTN_-_français.png" group-title="Généraliste",CGTN Français  (CN)
