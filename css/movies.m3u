@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg" group-title="Entertainment", Lilo & Stitch (2025) 
+https://dl34.darkibox.com/hls2/39/01391/,da3bw6wwhbzf_x,lang/eng/da3bw6wwhbzf_eng,lang/fre/da3bw6wwhbzf_fre,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/sG8OzfUmYna4YrkTFwxDICgEwUd.jpg" group-title="Entertainment",Dangerous Animals (2025)
+https://dl34.darkibox.com/hls2/15/01399/,hlth2yn1ehj2_x,lang/eng/hlth2yn1ehj2_eng,lang/fre/hlth2yn1ehj2_fre,.urlset/master.m3u8
 #EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/vKZ4vwyf6b2slxLiinqSvaNfjnC.jpg" group-title="Entertainment",Jurassic World : Renaissance (2025)
 https://dl34.darkibox.com/hls2/31/01422/,zm2tfvb19tk8_x,lang/eng/zm2tfvb19tk8_eng,lang/fre/zm2tfvb19tk8_fre,.urlset/master.m3u8
 #EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/33rzfa95s30FkbLSumn10EgDigz.jpg" group-title="Entertainment",28 Ans plus tard (2025)
@@ -40,9 +44,8 @@ https://dl34.darkibox.com/hls2/42/01209/,htoudc043abd_x,lang/eng/htoudc043abd_en
 #EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/6JrLIdGlkDiGP60gfTyBmtItEMe.jpg" group-title="Entertainment",Captain America : Brave New World (2025)
 https://share32140.sharecloudy.com/files/aa/8GaVvKglPctvdwTRYKgs8FjzmTaTOhiXXtSp.m3u8
 
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",
 
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",
+
 
 #EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",
 
