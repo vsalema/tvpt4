@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,-------------- Généraliste🇫🇷
 //
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png" tvg-country="FR" group-title="Généraliste",754. Au coin du feu
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png" tvg-country="FR" group-title="Généraliste",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="tf1 séries films" tvg-name="tf1 séries films" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png" group-title="Généraliste",tf1 séries films
 https://live-tsf-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xNjQuMTM4LjM1IiwiY21jZCI6IiIsImV4cCI6MTc1NDI3MDIxNSwiZ2lkIjoiZWIzNTJlNzY4ZjIyNDZmNzlhMjU3NzllNWE4YTczNTMiLCJpYXQiOjE3NTQyNTU4MTUsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvZmQ5MjFiZjlhZmExNDFiYzk0MTFjNWRjMzUxNGI1ZjciLCJzdWIiOiJlYjM1MmU3NjhmMjI0NmY3OWEyNTc3OWU1YThhNzM1MyJ9.gOkjTQ1sQW6Z22NCORzmCRg3TvBoTMuY7vgXMLbgZSg/out/v1/fd921bf9afa141bc9411c5dc3514b5f7/index.mpd
