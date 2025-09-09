@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/wthIJFejrtGmrmQFqWPLRy7DsiO.jpg" group-title="Entertainment",tvg-name="Thunderbolts",  Thunderbolts* (2025)  
+#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/wthIJFejrtGmrmQFqWPLRy7DsiO.jpg" group-title="Entertainment" tvg-name="Thunderbolts",  Thunderbolts* (2025)  
 https://dl34.darkibox.com/hls2/37/01406/,b43pqzis56kf_x,lang/eng/b43pqzis56kf_eng,lang/fre/b43pqzis56kf_fre,.urlset/master.m3u8
 #EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg" group-title="Entertainment", Lilo & Stitch (2025) 
 https://dl34.darkibox.com/hls2/39/01391/,da3bw6wwhbzf_x,lang/eng/da3bw6wwhbzf_eng,lang/fre/da3bw6wwhbzf_fre,.urlset/master.m3u8
