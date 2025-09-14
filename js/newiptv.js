@@ -465,7 +465,7 @@ const OTHER_FEEDS = [
  */
 document.addEventListener('DOMContentLoaded', () => {
   // Get references to DOM elements
-  videoPlayerElement = document.getElementById('Player');
+  videoPlayerElement = document.getElementById('player');
   channelListDiv = document.getElementById('channel-list');
   showGeoLockedCheckbox = document.getElementById('showGeoLocked');
   searchInput = document.getElementById('searchInput');
@@ -882,3 +882,16 @@ renderContent = function () {
   origRenderContent.apply(this, arguments);
   setupPrevNextNavigation();
 };
+
+$(document).ready(function () {
+  $("#showSimpleModal").click(function () {
+    $("div#simpleModal").addClass("show");
+    return false;
+  });
+
+  $("#closeSimple").click(function () {
+    $("div#simpleModal").removeClass("show");
+    return false;
+  });
+}); 
+  
