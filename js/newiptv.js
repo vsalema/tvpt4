@@ -24,7 +24,7 @@ let currentIndex = -1;
 // Define the IPTV categories and their M3U URLs
 const IPTV_CATEGORIES = [
 { name: 'All Categories', url: 'https://iptv-org.github.io/iptv/index.category.m3u' },
-{ name: 'Animation', url: 'https://iptv-org.github.io/iptv/categories/animation.m3u' },
+{ name: 'Animation', url: 'https://vsalema.github.io/tvpt4/css/animation.m3u' },
 { name: 'Auto', url: 'https://iptv-org.github.io/iptv/categories/auto.m3u' },
 { name: 'Business', url: 'https://iptv-org.github.io/iptv/categories/business.m3u' },
 { name: 'Classic', url: 'https://iptv-org.github.io/iptv/categories/classic.m3u' },
@@ -40,6 +40,7 @@ const IPTV_CATEGORIES = [
 { name: 'Legislative', url: 'https://iptv-org.github.io/iptv/categories/legislative.m3u' },
 { name: 'Lifestyle', url: 'https://iptv-org.github.io/iptv/categories/lifestyle.m3u' },
 { name: 'Movies', url: 'https://vsalema.github.io/tvpt4/css/movies.m3u' },
+{ name: 'Movies2', url: 'https://iptv-org.github.io/iptv/categories/movies.m3u' },
 { name: 'Music', url: 'https://iptv-org.github.io/iptv/categories/music.m3u' },
 { name: 'News', url: 'https://iptv-org.github.io/iptv/categories/news.m3u' },
 { name: 'Outdoor', url: 'https://iptv-org.github.io/iptv/categories/outdoor.m3u' },
@@ -895,3 +896,4 @@ $(document).ready(function () {
   });
 }); 
   
+
