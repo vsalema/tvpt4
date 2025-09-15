@@ -52,7 +52,7 @@ const IPTV_CATEGORIES = [
 { name: 'Sports', url: 'https://iptv-org.github.io/iptv/categories/sports.m3u' },
 { name: 'Travel', url: 'https://iptv-org.github.io/iptv/categories/travel.m3u' },
 { name: 'Weather', url: 'https://iptv-org.github.io/iptv/categories/weather.m3u' },
-{ name: 'XXX', url: 'https://raw.githubusercontent.com/yxcqr/viptv-work-iptv/refs/heads/main/XXXTV.m3u' },
+{ name: 'XXX', url: 'https://raw.githubusercontent.com/vsalema/tvpt4/refs/heads/main/css/XXXTV.m3u' },
 { name: 'Undefined', url: 'https://iptv-org.github.io/iptv/categories/undefined.m3u' }];
 
 
@@ -896,5 +896,6 @@ $(document).ready(function () {
   });
 }); 
   
+
 
 
