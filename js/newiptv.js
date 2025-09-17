@@ -670,7 +670,7 @@ function renderContent() {
     const img = document.createElement('img');
     img.src = item.logo || 'https://placehold.co/40x40/374151/d1d5db?text=IMG'; // Use specific logo or generic
     img.alt = `${item.name} logo`;
-    img.className = 'w-60 h-20  mr-3 object-cover';
+    img.className = 'w-10 h-10 rounded-full mr-3 object-cover';
     img.onerror = function () {
       this.onerror = null;
       this.src = 'https://placehold.co/40x40/374151/d1d5db?text=IMG'; // Fallback for broken image links
