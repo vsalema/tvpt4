@@ -1,0 +1,15 @@
+ #menu-right-toggle {
+  position:absolute; top:10px; z-index:1000; background:rgba(0, 0, 0, 0); border:none; color:#fff;
+  font-size:24px; cursor:pointer; padding:5px 10px; border-radius:4px;
+}
+
+#menu-right-toggle {right:10px;}
+ #menu-right {
+  position:absolute; top:0; z-index:999; width:320px; height:100%; background:rgba(20, 20, 20, 0.44);
+  box-sizing:border-box; transition:.3s ease; overflow-y:auto; font-size:14px; box-shadow:2px 0 5px rgba(0,0,0,0.5); padding:10px;
+}
+
+
+#menu-right {right:-320px;}
+#menu-right.visible {transform:translateX(-320px);}
+#menu-right select, #menu-right input, #menu-left 
