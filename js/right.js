@@ -468,11 +468,12 @@ const OTHER_FEEDS = [
 document.addEventListener('DOMContentLoaded', () => {
   // Get references to DOM elements
   videoPlayerElement = document.getElementById('player');
-  channelListDiv = document.getElementById('channel-list');
+  channelListDiv = document.getElementById('channel-list2');
   showGeoLockedCheckbox = document.getElementById('showGeoLocked');
-  searchInput = document.getElementById('searchInput');
-  categorySelect = document.getElementById('categorySelect');
+  searchInput = document.getElementById('searchInput2');
+  categorySelect = document.getElementById('categorySelect2');
   currentChannelNameDisplay = document.getElementById('current-channel-name');
+  videoLoadingIndicator = document.getElementById('video-loading-indicator');
   channelLoadingIndicator = document.getElementById('channel-loading-indicator');
   iptvControlsDiv = document.getElementById('iptvControls'); // Get reference to IPTV controls div
   modeIptvButton = document.getElementById('modeIptv');
@@ -737,7 +738,7 @@ function parseM3UContent(m3uText) {
  */
 function loadVideo(url, itemName) {
   currentChannelNameDisplay.textContent = ` ${itemName}`;
-  videoLoadingIndicator.classList.remove('hidden'); // Show loading indicator
+   // Show loading indicator
 
   // Remove any existing fallback image
   const fallback = document.getElementById('video-fallback-img');
