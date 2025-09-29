@@ -456,7 +456,10 @@ const WEBCAMS = [
 
 // New: Other Feeds
 const OTHER_FEEDS = [
-{ name: 'Superman', url: 'https://dl34.darkibox.com/hls2/07/01444/,8oz75loenbrs_x,lang/fre/8oz75loenbrs_fre,.urlset/master.m3u8', logo: 'https://image.tmdb.org/t/p/original/qJSlDqri6ytqSlTm8sLDVFsGiLe.jpg' },
+
+  
+  { name: 'Ed Sheeran - Azizam (Pink Heart Video)', url: 'https://www.youtube.com/watch?v=q_48vyHWls4&list=RDq_48vyHWls4&start_radio=1', logo: 'https://images.filmibeat.com/img/2025/03/edsheeran-azizamd-1743414844.jpg' },
+  { name: 'Superman', url: 'https://dl34.darkibox.com/hls2/07/01444/,8oz75loenbrs_x,lang/fre/8oz75loenbrs_fre,.urlset/master.m3u8', logo: 'https://image.tmdb.org/t/p/original/qJSlDqri6ytqSlTm8sLDVFsGiLe.jpg' },
 { name: 'Blender Test Stream', url: 'https://ireplay.tv/test/blender.m3u8', logo: 'https://placehold.co/40x40/374151/d1d5db?text=BL' },
 { name: 'NASA TV Live', url: 'http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on', logo: 'https://placehold.co/40x40/374151/d1d5db?text=NASA' }];
 
