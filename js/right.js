@@ -16,7 +16,7 @@ let modeWebcamsButton; // Webcams mode button
 let modeOtherFeedsButton; // New: Other Feeds mode button
 
 let allChannels = []; // Stores all parsed channels/webcams/other feeds
-let currentM3uUrl = 'https://vsalema.github.io/tvpt4/css/movies.m3u'; // Default IPTV URL
+let currentM3uUrl = 'https://iptv-org.github.io/iptv/index.category.m3u'; // Default IPTV URL
 let currentMode = 'iptv'; // 'iptv', 'webcams', or 'otherFeeds'
 
 // Track the currently selected index in the filtered list
@@ -25,7 +25,7 @@ let currentIndex = -1;
 
 // Define the IPTV categories and their M3U URLs
 const IPTV_CATEGORIES = [
-{ name: 'Movies', url: 'https://vsalema.github.io/tvpt4/css/movies.m3u' },
+
 { name: 'All Categories', url: 'https://iptv-org.github.io/iptv/index.category.m3u' },
 { name: 'Animation', url: 'https://iptv-org.github.io/iptv/categories/animation.m3u' },
 { name: 'Auto', url: 'https://iptv-org.github.io/iptv/categories/auto.m3u' },
@@ -42,6 +42,7 @@ const IPTV_CATEGORIES = [
 { name: 'Kids', url: 'https://iptv-org.github.io/iptv/categories/kids.m3u' },
 { name: 'Legislative', url: 'https://iptv-org.github.io/iptv/categories/legislative.m3u' },
 { name: 'Lifestyle', url: 'https://iptv-org.github.io/iptv/categories/lifestyle.m3u' },
+{ name: 'Movies', url: 'https://vsalema.github.io/tvpt4/css/movies.m3u' },
 { name: 'Movies2', url: 'https://iptv-org.github.io/iptv/categories/movies.m3u' },
 { name: 'Music', url: 'https://iptv-org.github.io/iptv/categories/music.m3u' },
 { name: 'News', url: 'https://iptv-org.github.io/iptv/categories/news.m3u' },
