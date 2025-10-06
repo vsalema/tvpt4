@@ -1,3 +1,5 @@
+(function() {
+  // code isolé ici
 const PLAYER_POSTER = "https://cdn.futura-sciences.com/sources/images/iptv.jpeg";
 const DEFAULT_LOGO = "https://bugsfreecdn.netlify.app/BugsfreeDefault/logo.png";
 
@@ -901,4 +903,6 @@ document.addEventListener('keydown', (event) => {
         player.volume = newVolume;
         showPlayerNotification(`Volume: ${Math.round(newVolume * 100)}%`, 1500);
     }
+
 });
+    })();
