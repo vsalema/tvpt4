@@ -480,7 +480,7 @@ const OTHER_FEEDS = [
  */
 document.addEventListener('DOMContentLoaded', () => {
   // Get references to DOM elements
-  videoPlayerElement = document.getElementById('videoPlayer');
+  videoPlayerElement = document.getElementById('player');
   channelListDiv = document.getElementById('channel-list');
   showGeoLockedCheckbox = document.getElementById('showGeoLocked');
   searchInput = document.getElementById('searchInput');
@@ -899,3 +899,4 @@ renderContent = function () {
 
 };
   })();
+
