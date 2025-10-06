@@ -1,3 +1,5 @@
+(function() {
+  // code isolé ici
 var menu_btn = document.querySelector("#menu-btn");
 var sidebar = document.querySelector("#sidebar");
 var container = document.querySelector(".my-container");
@@ -894,4 +896,6 @@ const origRenderContent = renderContent;
 renderContent = function () {
   origRenderContent.apply(this, arguments);
   setupPrevNextNavigation();
+
 };
+  })();
