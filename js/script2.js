@@ -1,18 +1,5 @@
 (function() {
   // code isolé ici
-var menu_btn = document.querySelector("#menu-btn");
-var sidebar = document.querySelector("#sidebar");
-var container = document.querySelector(".my-container");
-menu_btn.addEventListener("click", () => {
-  sidebar.classList.toggle("active-nav");
-  container.classList.toggle("active-cont");
-});
-jQuery(document).ready(function ($) {
-  $('#btn-menu-secundary-open, #btn-menu-secundary-close').click(function () {
-    $('#primary, #secundary, #btn-menu-secundary-open, #btn-menu-secundary-close').toggleClass('menu-secundary-active');
-  });
-});
-
 // Global variables for DOM elements and data
 let videoPlayerElement;
 let videoJsPlayer;
@@ -487,7 +474,7 @@ document.addEventListener('DOMContentLoaded', () => {
   categorySelect = document.getElementById('categorySelect');
   currentChannelNameDisplay = document.getElementById('current-channel-name');
   videoLoadingIndicator = document.getElementById('video-loading-indicator');
-  document.getElementById('channel-loading-indicator');
+  channelLoadingIndicator = document.getElementById('channel-loading-indicator');
   iptvControlsDiv = document.getElementById('iptvControls'); // Get reference to IPTV controls div
   modeIptvButton = document.getElementById('modeIptv');
   modeWebcamsButton = document.getElementById('modeWebcams');
@@ -896,9 +883,9 @@ const origRenderContent = renderContent;
 renderContent = function () {
   origRenderContent.apply(this, arguments);
   setupPrevNextNavigation();
-
 };
   })();
+
 
 
 
