@@ -487,7 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
   categorySelect = document.getElementById('categorySelect');
   currentChannelNameDisplay = document.getElementById('current-channel-name');
   videoLoadingIndicator = document.getElementById('video-loading-indicator');
-  
+  document.getElementById('channel-loading-indicator');
   iptvControlsDiv = document.getElementById('iptvControls'); // Get reference to IPTV controls div
   modeIptvButton = document.getElementById('modeIptv');
   modeWebcamsButton = document.getElementById('modeWebcams');
@@ -605,7 +605,7 @@ function populateCategoryDropdown() {
  * Fetches and renders content based on the current mode (IPTV or Webcams).
  */
 async function fetchAndRenderContent() {
-  channelLoadingIndicator.classList.remove('hidden'); // Show loading indicator
+  channelLoadingIndicator.classList.remove('Show'); // Show loading indicator
   allChannels = []; // Clear previous channels
 
   if (currentMode === 'iptv') {
@@ -637,7 +637,7 @@ async function fetchAndRenderContent() {
     }));
   }
   renderContent(); // Render content after fetching/preparing
-  channelLoadingIndicator.classList.add('hidden'); // Hide loading indicator
+  channelLoadingIndicator.classList.add('Show'); // Hide loading indicator
 }
 
 /**
@@ -899,5 +899,6 @@ renderContent = function () {
 
 };
   })();
+
 
 
