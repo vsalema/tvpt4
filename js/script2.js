@@ -605,7 +605,7 @@ function populateCategoryDropdown() {
  * Fetches and renders content based on the current mode (IPTV or Webcams).
  */
 async function fetchAndRenderContent() {
-  channelLoadingIndicator.classList.remove('Show'); // Show loading indicator
+  channelLoadingIndicator.classList.remove('hidden'); // Show loading indicator
   allChannels = []; // Clear previous channels
 
   if (currentMode === 'iptv') {
@@ -637,7 +637,7 @@ async function fetchAndRenderContent() {
     }));
   }
   renderContent(); // Render content after fetching/preparing
-  channelLoadingIndicator.classList.add('Show'); // Hide loading indicator
+  channelLoadingIndicator.classList.add('hidden'); // Hide loading indicator
 }
 
 /**
@@ -899,6 +899,7 @@ renderContent = function () {
 
 };
   })();
+
 
 
 
