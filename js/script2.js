@@ -487,7 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
   categorySelect = document.getElementById('categorySelect');
   currentChannelNameDisplay = document.getElementById('current-channel-name');
   videoLoadingIndicator = document.getElementById('video-loading-indicator');
-  channelLoadingIndicator = document.getElementById('channel-loading-indicator');
+  
   iptvControlsDiv = document.getElementById('iptvControls'); // Get reference to IPTV controls div
   modeIptvButton = document.getElementById('modeIptv');
   modeWebcamsButton = document.getElementById('modeWebcams');
@@ -899,4 +899,5 @@ renderContent = function () {
 
 };
   })();
+
 
