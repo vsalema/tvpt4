@@ -1,59 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="movies" tvg-name="Les 4 Fantastiques : Premiers pas" tvg-logo="https://image.tmdb.org/t/p/original/7u80OGgz2NytCjSuKonxM8VTuZI.jpg" group-title="Entertainment",  
-Les 4 Fantastiques : (2025)
+#EXTINF:-1 tvg-id="movies" tvg-name="Les 4 Fantastiques : Premiers pas (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7u80OGgz2NytCjSuKonxM8VTuZI.jpg" group-title="Entertainment",Les 4 Fantastiques : Premiers pas (2025)
 https://dl34.darkibox.com/hls2/10/01542/,o4hjcz8njvz9_x,lang/eng/o4hjcz8njvz9_eng,lang/fre/o4hjcz8njvz9_fre,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-name="Thunderbolts" tvg-logo="https://image.tmdb.org/t/p/original/wthIJFejrtGmrmQFqWPLRy7DsiO.jpg" group-title="Entertainment",  Thunderbolts* (2025)  
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Thunderbolts (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wthIJFejrtGmrmQFqWPLRy7DsiO.jpg" group-title="Entertainment",Thunderbolts (2025)
 https://dl34.darkibox.com/hls2/37/01406/,b43pqzis56kf_x,lang/eng/b43pqzis56kf_eng,lang/fre/b43pqzis56kf_fre,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg" group-title="Entertainment", Lilo & Stitch (2025) 
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Lilo & Stitch (2025)" tvg-logo="https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg" group-title="Entertainment",Lilo & Stitch (2025)
 https://dl34.darkibox.com/hls2/39/01391/,da3bw6wwhbzf_x,lang/eng/da3bw6wwhbzf_eng,lang/fre/da3bw6wwhbzf_fre,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/sG8OzfUmYna4YrkTFwxDICgEwUd.jpg" group-title="Entertainment",Dangerous Animals (2025)
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Dangerous Animals (2025)" tvg-logo="https://image.tmdb.org/t/p/original/sG8OzfUmYna4YrkTFwxDICgEwUd.jpg" group-title="Entertainment",Dangerous Animals (2025)
 https://dl34.darkibox.com/hls2/15/01399/,hlth2yn1ehj2_x,lang/eng/hlth2yn1ehj2_eng,lang/fre/hlth2yn1ehj2_fre,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/vKZ4vwyf6b2slxLiinqSvaNfjnC.jpg" group-title="Entertainment",Jurassic World : Renaissance (2025)
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Jurassic World : Renaissance (2025)" tvg-logo="https://image.tmdb.org/t/p/original/vKZ4vwyf6b2slxLiinqSvaNfjnC.jpg" group-title="Entertainment",Jurassic World : Renaissance (2025)
 https://dl34.darkibox.com/hls2/31/01422/,zm2tfvb19tk8_x,lang/eng/zm2tfvb19tk8_eng,lang/fre/zm2tfvb19tk8_fre,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/33rzfa95s30FkbLSumn10EgDigz.jpg" group-title="Entertainment",28 Ans plus tard (2025)
+
+#EXTINF:-1 tvg-id="movies" tvg-name="28 Ans plus tard (2025)" tvg-logo="https://image.tmdb.org/t/p/original/33rzfa95s30FkbLSumn10EgDigz.jpg" group-title="Entertainment",28 Ans plus tard (2025)
 https://dl34.darkibox.com/hls2/45/01407/,1s3x8jnqc9r5_x,lang/eng/1s3x8jnqc9r5_eng,lang/fre/1s3x8jnqc9r5_fre,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/68LlC1D6CThvrDiLvaqAmlz3wLp.jpg" group-title="Entertainment",Kraven The Hunter.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Kraven The Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/original/68LlC1D6CThvrDiLvaqAmlz3wLp.jpg" group-title="Entertainment",Kraven The Hunter (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_w274c3qy/flavorIds/1_14a96vl0,1_7nchj22w,1_6lyrv5bd,1_j1utfai5,1_sfa3d3rr,1_0wlgirsp,1_ky7gntd8/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/3mpZ5NA53V2Y4wmwcQI4sdc3jmy.jpg" group-title="Entertainment",Venom: The Last Dance.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Venom: The Last Dance (2024)" tvg-logo="https://image.tmdb.org/t/p/original/3mpZ5NA53V2Y4wmwcQI4sdc3jmy.jpg" group-title="Entertainment",Venom: The Last Dance (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_1z9lf6cc/flavorIds/1_7ps0xoei,1_uu2xj6cr,1_sei70zok,1_pgoa0o8n,1_rrakj151,1_xp9atgi3,1_7t61dt0d/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/e71BRC7iapxU6HQzC97Q5w9piG9.jpg" group-title="Entertainment",Gladiator II.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Gladiator II (2024)" tvg-logo="https://image.tmdb.org/t/p/original/e71BRC7iapxU6HQzC97Q5w9piG9.jpg" group-title="Entertainment",Gladiator II (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_63u9vurh/flavorIds/1_ctknq1tp,1_kfz8iy4u,1_55xvqjtf,1_6xb2agyq,1_2gj0vsw6,1_7q9hb32f,1_tc982fks,1_0pu3hexa/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/lNS4qXwSwiMNQx9HV2wxSjRo46X.jpg" group-title="Entertainment",Furiosa.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Furiosa (2024)" tvg-logo="https://image.tmdb.org/t/p/original/lNS4qXwSwiMNQx9HV2wxSjRo46X.jpg" group-title="Entertainment",Furiosa (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_b7041f2h/flavorIds/1_83rv9927,1_t6vd3kyh,1_q886jlh3,1_rm62rb40,1_3un7rvqv,1_pbloesxq,1_enr1rhm3,1_8i9x0x6s/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/sY1zjxxCjOgv2RdY7VxW9co37Qn.jpg" group-title="Entertainment",La Planète des singes : Le Nouveau Royaume.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="La Planète des singes : Le Nouveau Royaume (2024)" tvg-logo="https://image.tmdb.org/t/p/original/sY1zjxxCjOgv2RdY7VxW9co37Qn.jpg" group-title="Entertainment",La Planète des singes : Le Nouveau Royaume (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_08ls2dnr/flavorIds/1_8y16j3a7,1_6d5u8e2s,1_zg9zd8g7,1_rg5su71d,1_1mt3ujhh,1_r1em03t6,1_7cx83ckb/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/zQHJbVuQbsHYwRT1WQ1IVDuCt9x.jpg" group-title="Entertainment",Godzilla x Kong : Le Nouvel Empire.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Godzilla x Kong : Le Nouvel Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/original/zQHJbVuQbsHYwRT1WQ1IVDuCt9x.jpg" group-title="Entertainment",Godzilla x Kong : Le Nouvel Empire (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_8ygj77wc/flavorIds/1_v3pxkwoh,1_kv4bkrq1,1_zncgzbmv,1_iod3ggsn,1_3zet3ifw,1_0hwpp7gm,1_yvg0njqi,1_uv3hk66s/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/vgtU0aW1lrWnV8rhTBPAELXkNYX.jpg" group-title="Entertainment",Sans un bruit : Jour 1.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Sans un bruit : Jour 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/original/vgtU0aW1lrWnV8rhTBPAELXkNYX.jpg" group-title="Entertainment",Sans un bruit : Jour 1 (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_wjwotw6k/flavorIds/1_7p81jbx9,1_r9cu0uqp,1_zwoq96fe,1_m8tnlyh2,1_6489xnae,1_fbtq7v6m/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/qoDTPSF0vCV9NAFl1EKn9AGsOny.jpg" group-title="Entertainment",Le Flic de Beverly Hills : Axel F.2024
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Le Flic de Beverly Hills : Axel F (2024)" tvg-logo="https://image.tmdb.org/t/p/original/qoDTPSF0vCV9NAFl1EKn9AGsOny.jpg" group-title="Entertainment",Le Flic de Beverly Hills : Axel F (2024)
 https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_ba1a8dhx/flavorIds/1_j57fpv3o,1_g4t5r1aa,1_cf07yp80,1_8uv6rtla,1_yirgrlmt,1_13y5vwoq,1_pbixv09c,1_row73x8i/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/uJVGCcquEGwaZKOhYEycEnkE4to.jpg" group-title="Entertainment",Monkey Man.2024
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_9h082aik/flavorIds/1_0sg390do,1_5fpkpnz1,1_dmkmyidp,1_0py4vfs2,1_fsvw4zml,1_1i9wgfca/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1hcWs9GGLos3QznUvnaHwvLU0Xl.jpg" group-title="Entertainment",Descendants : L’Ascension de Red.2024
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_3flj2xnm/flavorIds/1_vpsnzrd0,1_ms9k64w2,1_n6agnpj7,1_svo8aypj,1_6gl8m4xp,1_ucaf7vlh,1_hup0skht,1_f30sppe2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/tDMfuKHjgyzlpi3tH5m1CKe8uWj.jpg" group-title="Entertainment",Mothers' Instinct.2024 
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_jeymbhoh/flavorIds/1_v7xu9i7d,1_qk51q7d4,1_s2ut1n2m,1_hb0uwc7f,1_xylaogyl,1_sfx6a4d6,1_ntv164lm/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",Apocalypse Z : Le début de la fin.2024 
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_rfalyud3/flavorIds/1_ct25vo6h,1_issvbdqf,1_m6g0ynvf,1_ge7q2c32,1_ih64n6so,1_ab9ir9nf/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/57ayhfwMZHjSg7KjCQUhOtyCFwc.jpg" group-title="Entertainment",Kill.2024 
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_zbxxjd9f/flavorIds/1_drp0n86y,1_xzo8jacx,1_ka6x49u0,1_8tra56k9,1_sp6b0ykg,1_z6pbl1sh/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/oUFwYtgbkvfdeFu5YG19GMsI8AL.jpg" group-title="Entertainment",The Crow.2024
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_6r0fjn4l/flavorIds/1_q84dcdk5,1_iktmkm6o,1_a7lhu22d,1_0k8i823o,1_j232xhvs,1_meepzs94,1_yw240h1i/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/2nHP1iPfPMhWeYsLuaiN1VdV4C3.jpg" group-title="Entertainment",City of Darkness.2024
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_5qgnfft4/flavorIds/1_d61pqcfy,1_3pmku0xm,1_mg709u3x,1_wdviru6i,1_w3c18jqu,1_2ggcunli/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/ziT93zNlyUgDM8s7MK7nSxb5yLa.jpg" group-title="Entertainment",Die Alone.2024
-https://cdnapisec.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_pfzcnv2l/flavorIds/1_ez44ux5p,1_85ypgh11,1_i49phz58,1_ojhr6pl2,1_v4j9gwz1,1_8giowe5e,1_b8cvrkb1,1_2i09o0hr/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/tlXNfP0FFzicHiDfq0aGzRYOfPt.jpg" group-title="Entertainment",Blanche Neige (2025)
-https://dl34.darkibox.com/hls2/42/01209/,htoudc043abd_x,lang/eng/htoudc043abd_eng,lang/fre/htoudc043abd_fre,.urlset/master.m3u8?t=vQSsAK3BwwubF-uH0YeJ-nr41NLYjpmusNMUxS8r01Y&s=1749931712&e=43200&f=6049669&i=0.0&sp=0&fr=htoudc043abd
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/6JrLIdGlkDiGP60gfTyBmtItEMe.jpg" group-title="Entertainment",Captain America : Brave New World (2025)
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Captain America : Brave New World (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6JrLIdGlkDiGP60gfTyBmtItEMe.jpg" group-title="Entertainment",Captain America : Brave New World (2025)
 https://share32140.sharecloudy.com/files/aa/8GaVvKglPctvdwTRYKgs8FjzmTaTOhiXXtSp.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",
-
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",
-
-#EXTINF:-1 tvg-id="movies" tvg-logo="https://image.tmdb.org/t/p/original/1ZbOMoc3q9jyDYu1FiZPpEDf4aP.jpg" group-title="Entertainment",
