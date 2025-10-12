@@ -3,7 +3,102 @@
 <html lang='en' class=''>
 
 <head>
-  <meta charset='UTF-8'>
+  <script>
+// === Bloqueur de publicités externes (version locale) ===
+// Auteur : ChatGPT (GPT-5)
+// Objectif : supprimer les éléments publicitaires connus depuis une liste locale.
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  // Liste locale de domaines publicitaires (tu peux l’enrichir)
+  const pubDomains = [
+    "popcdn.day",
+    "doubleclick.net",
+    "googlesyndication.com",
+    "adnxs.com",
+    "taboola.com",
+    "outbrain.com",
+    "criteo.com",
+    "revcontent.com",
+    "adform.net",
+    "zedo.com",
+    "rubiconproject.com"
+	"doubleclick.net",
+    "googlesyndication.com",
+    "googletagservices.com",
+    "taboola.com",
+    "outbrain.com",
+    "adnxs.com",
+    "adform.net",
+    "criteo.com",
+    "revcontent.com",
+    "zedo.com",
+    "rubiconproject.com",
+    "openx.net",
+    "yieldmanager.com",
+    "serving-sys.com",
+    "media.net",
+    "bidgear.com",
+    "pubmatic.com",
+    "contextweb.com",
+    "smartadserver.com"
+  ];
+
+  // Fonction de suppression des éléments publicitaires
+  function blockAds() {
+    const elements = document.querySelectorAll("iframe, script, img, div");
+
+    elements.forEach(el => {
+      const src = el.src || el.dataset.src || "";
+      if (pubDomains.some(domain => src.includes(domain))) {
+        console.log("🚫 Pub externe bloquée :", src);
+        el.remove();
+      }
+    });
+  }
+
+  // Blocage initial au chargement
+  blockAds();
+
+  // Surveillance des nouveaux éléments ajoutés (pubs dynamiques)
+  const observer = new MutationObserver(() => blockAds());
+  observer.observe(document.body, { childList: true, subtree: true });
+
+});
+</script>
+<script>
+// Bloqueur de contenu externe pour ton propre site
+document.addEventListener("DOMContentLoaded", () => {
+  const blockedDomains = ["popcdn.day"];
+
+  // Supprime ou bloque les iframes, scripts et images venant de ces domaines
+  document.querySelectorAll("iframe, script, img").forEach(el => {
+    const src = el.src || "";
+    if (blockedDomains.some(domain => src.includes(domain))) {
+      console.warn("Blocage d’un élément externe :", src);
+      el.remove();
+    }
+  });
+
+  // Surveille les ajouts dynamiques (pubs injectées)
+  const observer = new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+      mutation.addedNodes.forEach(node => {
+        if (node.tagName) {
+          const src = node.src || "";
+          if (blockedDomains.some(domain => src.includes(domain))) {
+            console.warn("Blocage dynamique :", src);
+            node.remove();
+          }
+        }
+      });
+    });
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+});
+</script>
+	<meta charset='UTF-8'>
   <title>TVPT</title>
   <meta name="robots" content="noindex">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -1744,107 +1839,14 @@ setInterval(printTime, 1000);
 </script>
 	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous">
   </script>
-<script>
-// === Bloqueur de publicités externes (version locale) ===
-// Auteur : ChatGPT (GPT-5)
-// Objectif : supprimer les éléments publicitaires connus depuis une liste locale.
 
-document.addEventListener("DOMContentLoaded", () => {
-
-  // Liste locale de domaines publicitaires (tu peux l’enrichir)
-  const pubDomains = [
-    "popcdn.day",
-    "doubleclick.net",
-    "googlesyndication.com",
-    "adnxs.com",
-    "taboola.com",
-    "outbrain.com",
-    "criteo.com",
-    "revcontent.com",
-    "adform.net",
-    "zedo.com",
-    "rubiconproject.com"
-	"doubleclick.net",
-    "googlesyndication.com",
-    "googletagservices.com",
-    "taboola.com",
-    "outbrain.com",
-    "adnxs.com",
-    "adform.net",
-    "criteo.com",
-    "revcontent.com",
-    "zedo.com",
-    "rubiconproject.com",
-    "openx.net",
-    "yieldmanager.com",
-    "serving-sys.com",
-    "media.net",
-    "bidgear.com",
-    "pubmatic.com",
-    "contextweb.com",
-    "smartadserver.com"
-  ];
-
-  // Fonction de suppression des éléments publicitaires
-  function blockAds() {
-    const elements = document.querySelectorAll("iframe, script, img, div");
-
-    elements.forEach(el => {
-      const src = el.src || el.dataset.src || "";
-      if (pubDomains.some(domain => src.includes(domain))) {
-        console.log("🚫 Pub externe bloquée :", src);
-        el.remove();
-      }
-    });
-  }
-
-  // Blocage initial au chargement
-  blockAds();
-
-  // Surveillance des nouveaux éléments ajoutés (pubs dynamiques)
-  const observer = new MutationObserver(() => blockAds());
-  observer.observe(document.body, { childList: true, subtree: true });
-
-});
-</script>
-<script>
-// Bloqueur de contenu externe pour ton propre site
-document.addEventListener("DOMContentLoaded", () => {
-  const blockedDomains = ["popcdn.day"];
-
-  // Supprime ou bloque les iframes, scripts et images venant de ces domaines
-  document.querySelectorAll("iframe, script, img").forEach(el => {
-    const src = el.src || "";
-    if (blockedDomains.some(domain => src.includes(domain))) {
-      console.warn("Blocage d’un élément externe :", src);
-      el.remove();
-    }
-  });
-
-  // Surveille les ajouts dynamiques (pubs injectées)
-  const observer = new MutationObserver(mutations => {
-    mutations.forEach(mutation => {
-      mutation.addedNodes.forEach(node => {
-        if (node.tagName) {
-          const src = node.src || "";
-          if (blockedDomains.some(domain => src.includes(domain))) {
-            console.warn("Blocage dynamique :", src);
-            node.remove();
-          }
-        }
-      });
-    });
-  });
-
-  observer.observe(document.body, { childList: true, subtree: true });
-});
-</script>
 
 </body>
 </html>
 
   
   
+
 
 
 
