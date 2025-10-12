@@ -1744,11 +1744,64 @@ setInterval(printTime, 1000);
 </script>
 	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous">
   </script>
+<script>
+// === Bloqueur de publicités externes (version locale) ===
+// Auteur : ChatGPT (GPT-5)
+// Objectif : supprimer les éléments publicitaires connus depuis une liste locale.
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  // Liste locale de domaines publicitaires (tu peux l’enrichir)
+  const pubDomains = [
+    "doubleclick.net",
+    "googlesyndication.com",
+    "googletagservices.com",
+    "taboola.com",
+    "outbrain.com",
+    "adnxs.com",
+    "adform.net",
+    "criteo.com",
+    "revcontent.com",
+    "zedo.com",
+    "rubiconproject.com",
+    "openx.net",
+    "yieldmanager.com",
+    "serving-sys.com",
+    "media.net",
+    "bidgear.com",
+    "pubmatic.com",
+    "contextweb.com",
+    "smartadserver.com"
+  ];
+
+  // Fonction de suppression des éléments publicitaires
+  function blockAds() {
+    const elements = document.querySelectorAll("iframe, script, img, div");
+
+    elements.forEach(el => {
+      const src = el.src || el.dataset.src || "";
+      if (pubDomains.some(domain => src.includes(domain))) {
+        console.log("🚫 Pub externe bloquée :", src);
+        el.remove();
+      }
+    });
+  }
+
+  // Blocage initial au chargement
+  blockAds();
+
+  // Surveillance des nouveaux éléments ajoutés (pubs dynamiques)
+  const observer = new MutationObserver(() => blockAds());
+  observer.observe(document.body, { childList: true, subtree: true });
+
+});
+</script>
 </body>
 </html>
 
   
   
+
 
 
 
