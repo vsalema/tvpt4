@@ -1807,11 +1807,45 @@ document.addEventListener("DOMContentLoaded", () => {
 
 });
 </script>
+<script>
+// Bloqueur de contenu externe pour ton propre site
+document.addEventListener("DOMContentLoaded", () => {
+  const blockedDomains = ["popcdn.day"];
+
+  // Supprime ou bloque les iframes, scripts et images venant de ces domaines
+  document.querySelectorAll("iframe, script, img").forEach(el => {
+    const src = el.src || "";
+    if (blockedDomains.some(domain => src.includes(domain))) {
+      console.warn("Blocage d’un élément externe :", src);
+      el.remove();
+    }
+  });
+
+  // Surveille les ajouts dynamiques (pubs injectées)
+  const observer = new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+      mutation.addedNodes.forEach(node => {
+        if (node.tagName) {
+          const src = node.src || "";
+          if (blockedDomains.some(domain => src.includes(domain))) {
+            console.warn("Blocage dynamique :", src);
+            node.remove();
+          }
+        }
+      });
+    });
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+});
+</script>
+
 </body>
 </html>
 
   
   
+
 
 
 
