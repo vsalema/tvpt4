@@ -1,4 +1,4 @@
- <script>
+
     // ————————————————
     // Helpers
     // ————————————————
@@ -755,10 +755,10 @@ function closePanel(){
 
     document.getElementById('btnCheckLinks')?.addEventListener('click', startLinkCheck);
     document.getElementById('btnCheckLinks2')?.addEventListener('click', startLinkCheck);
-  </script>
+  
 
   <!-- ⭐ Module favoris pour playlists (sources M3U) -->
-<script>
+
 (() => {
   // utilise le helper $ déjà défini
 
@@ -900,11 +900,6 @@ function closePanel(){
   autoLoadIfFav(sel2, document.getElementById('btnLoadM3U2'));
   */
 })();
-</script>
-
-
-
-<script>
 (() => {
   // Utilise #channelList2 comme conteneur d’affichage dans le panneau
   const listEl = document.getElementById('channelList2');
@@ -1209,12 +1204,6 @@ const cat2 = document.getElementById('categorySelect2');
     window.__openPanelListMode('history');
   });
 })();
-
-</script>
-
-  </script>
-
-<script>
 (() => {
   // ---- Sélecteurs
   const btnExport = document.getElementById('btnExportData');
@@ -1370,12 +1359,6 @@ const cat2 = document.getElementById('categorySelect2');
     }
   });
 })();
-</script>
-
-
-
-
-<script>
 // ===== Inline Panel helpers =====
 function openInlinePanel(){
   const p = document.getElementById('inlinePanel');
@@ -1488,4 +1471,3 @@ function closePanel(){
     }
   })();
 })();
-</script>
