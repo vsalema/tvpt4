@@ -1,0 +1,75 @@
+/* -------------------------------------------------------
+   Navbar responsive like Zapbar
+   File: nav-responsive.css
+   Load AFTER glass-theme.css
+--------------------------------------------------------*/
+
+/* Base: 3 zones on one line, allow wrapping when needed */
+.navbar > .container-fluid{
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between; /* sensible default */
+  gap: .5rem;
+  flex-wrap: wrap;                /* allow wrap on smaller viewports */
+}
+
+.nav-left,
+.nav-right,
+.nav-center{ min-width: 0; }      /* let items actually shrink (flex quirk) */
+
+.nav-left,
+.nav-right{ flex: 0 0 auto; }
+
+/* Right cluster may wrap horizontally if crowded */
+.nav-right{
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+
+.nav-right .btn{ flex: 0 1 auto; }
+
+/* Center area holds the form and expands */
+.nav-center{
+  flex: 1 1 520px;                /* grows and can shrink */
+  display: flex;
+  align-items: center;
+  justify-content: center;        /* center the form */
+  gap: .5rem;
+}
+
+.nav-center .topbar-url{
+  flex: 1 1 280px;                /* stretch input, but allow shrink */
+  min-width: 0;                   /* avoid overflow; enables text-truncate */
+}
+
+/* ---------- Breakpoints (Bootstrap v5 aligned) ---------- */
+/* ≥ LG (≥992px): keep on one line, brand left, actions right, form grows */
+@media (min-width: 992px){
+  .navbar > .container-fluid{ flex-wrap: nowrap; }
+  .nav-left{ order: 1; }
+  .nav-center{ order: 2; }
+  .nav-right{ order: 3; margin-left: auto; }
+}
+
+/* < LG (<992px): stack form on its own row, buttons stay next to brand */
+@media (max-width: 991.98px){
+  .nav-left{ order: 1; }
+  .nav-right{ order: 2; margin-left: auto; }
+  .nav-center{
+    order: 3;
+    flex: 1 0 100%;               /* take full row */
+    justify-content: stretch;
+  }
+  .nav-center .topbar-url{ flex-basis: 0; } /* allow full fluid growth */
+  .navbar > .container-fluid{ gap: .4rem; }
+}
+
+/* Very small screens: tighten spacing further */
+@media (max-width: 576px){
+  .nav-right{ gap: .4rem; }
+  .nav-center{ gap: .4rem; }
+  .topbar-url{ max-width: 100%; }
+}
