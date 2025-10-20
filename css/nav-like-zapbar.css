@@ -1,0 +1,43 @@
+/* -------------------------------------------------------
+   Navbar ≈ Zapbar (pure flex layout)
+   Place this AFTER glass-theme.css
+--------------------------------------------------------*/
+
+/* Container uses flex like zapbar */
+.navbar > .container-fluid{
+  position: static !important;           /* cancel previous centering trick */
+  display: flex !important;
+  align-items: center;
+  justify-content: center;               /* center the whole group */
+  gap: .5rem;
+}
+
+/* Left / right stop being absolutely positioned */
+.nav-left,
+.nav-right{
+  position: static !important;
+  top: auto; transform: none;
+  flex: 0 0 auto;
+}
+
+/* Center area flexes and truly centers its contents like zapbar */
+.nav-center{
+  flex: 1 1 auto;                        /* take remaining space */
+  display: flex;
+  align-items: center;
+  justify-content: center;               /* center the form */
+  gap: .5rem;
+  min-width: 0;                          /* allow children to shrink */
+}
+
+/* Make the URL input behave nicely inside flex */
+.nav-center .topbar-url{
+  flex: 0 1 clamp(180px, 42vw, 316px);   /* same clamp as before */
+}
+
+/* Keep buttons compact on small screens */
+@media (max-width: 576px){
+  .nav-right .d-sm-inline,
+  .nav-left .d-sm-inline{ display:none !important; }
+  .navbar > .container-fluid{ gap: .4rem; }
+}
