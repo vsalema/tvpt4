@@ -1,23 +1,22 @@
-/*
- * json-playlist.js — prise en charge des playlists JSON & méta‑listes
+/* 
+ * json-playlist.js — playlists JSON & méta-listes (.m3u) sans dépendre de loadSource
  *
- * ➤ Intégration : placez ce fichier APRÈS `scriptiptv.js` dans la page.
- *    <script src="https://vsalema.github.io/tvpt4/js/scriptiptv.js" defer></script>
+ * ➤ Intégration : placez APRÈS `scriptiptv.js` (ou seul) :
  *    <script src="/js/json-playlist.js" defer></script>
  *
- * ➤ Utilisation :
- *   - Option .json dans vos <select> OU coller une URL .json dans "Lire une URL".
- *   - Accepte : {meta,categories,channels}, tableau direct de chaînes, ou
- *     méta‑listes { playlists: [{ name, url }...] } (chaque URL .m3u sera chargée via loadSource).
+ * ➤ Prend en charge :
+ *    - JSON { meta, categories, channels }
+ *    - Tableau direct de chaînes [{ name, url, ... }]
+ *    - Méta-listes { playlists: [{ name, url(.m3u|.m3u8|.mpd|.mp4|.mp3|YouTube) }] }
+ *      • Si l'URL est .m3u → on télécharge et on PARSE nous-mêmes la M3U
+ *
+ * ➤ Le bouton "Lire" accepte aussi une URL .json
  */
-
 (() => {
   'use strict';
 
   // ===== Helpers & éléments =====
-  const qs = (s, r = document) => r.querySelector(s);
   const qsa = (s, r = document) => Array.from(r.querySelectorAll(s));
-
   const el = {
     player: document.getElementById('player'),
     nowbar: document.getElementById('nowbar'),
@@ -27,28 +26,23 @@
     zapTitle: document.getElementById('zapTitle'),
     btnPrev: document.getElementById('btnPrev'),
     btnNext: document.getElementById('btnNext'),
-
     // Catégories
     cat: document.getElementById('categorySelect'),
     cat2: document.getElementById('categorySelect2'),
     inlineCat: document.getElementById('inlineCategorySelect'),
-
     // Listes
     list: document.getElementById('channelList'),
     list2: document.getElementById('channelList2'),
     inlineList: document.getElementById('inlineChannelList'),
-
     // Recherches
     search: document.getElementById('search'),
     search2: document.getElementById('search2'),
     inlineSearch: document.getElementById('inlineSearch'),
-
     // Sources + boutons
     sourceSel: document.getElementById('sourceSelect'),
     sourceSel2: document.getElementById('sourceSelect2'),
     btnLoadM3U: document.getElementById('btnLoadM3U'),
     btnLoadM3U2: document.getElementById('btnLoadM3U2'),
-
     inputUrl: document.getElementById('inputUrl'),
     btnPlay: document.getElementById('btnPlay'),
   };
@@ -69,10 +63,9 @@
   // ===== Détection de type =====
   function guessType(url) {
     if (!url) return '';
-    // Playlist M3U (à charger via loadSource, pas jouable directement)
-    if (/\.m3u(\?|#|$)/i.test(url) && !/\.m3u8(\?|#|$)/i.test(url)) return 'm3u-list';
     if (/^yt:|youtube\.com|youtu\.be/i.test(url)) return 'youtube';
     if (/\.m3u8(\?|#|$)/i.test(url)) return 'hls';
+    if (/\.m3u(\?|#|$)/i.test(url)) return 'm3u-list';
     if (/\.mpd(\?|#|$)/i.test(url)) return 'dash';
     if (/\.mp4(\?|#|$)/i.test(url)) return 'mp4';
     if (/\.mp3(\?|#|$)/i.test(url)) return 'mp3';
@@ -136,7 +129,7 @@
       return { meta: meta0, channels, categories };
     }
 
-    // 2) Méta‑listes & variantes courantes
+    // 2) Méta-listes & variantes courantes
     const buckets = [];
 
     // a) { playlists: [ { name/title, url/link, logo, category } ] }
@@ -168,7 +161,7 @@
     const generic = obj?.items || obj?.list || obj?.streams || obj?.lives;
     if (Array.isArray(generic)) buckets.push({ key: 'Autres', items: generic });
 
-    // Normalisation
+    // Normalisation → chaque item devient un "canal" cliquable (même si c'est .m3u)
     const flat = buckets.flatMap((b) => (b.items || []).map((c) => ({ ...c, category: c.category || b.key })));
     const channels = flat
       .filter((c) => (c.url || c.src || c.link || c.stream || c.stream_url || c.play || c.playurl) && (c.name || c.title || c.channel || c.label))
@@ -179,237 +172,12 @@
     return { meta, channels, categories };
   }
 
-  // ===== Rendu UI =====
-  function renderCategories() {
-    const options = state.categories.map((c) => `<option value="${c.id}">${c.label}</option>`).join('');
-    [el.cat, el.cat2, el.inlineCat].forEach((sel) => { if (sel) sel.innerHTML = options; });
-  }
+  // ===== Parser M3U =====
+  function parseM3U(text) {
+    const lines = (text || '').split(/\r?\n/);
+    const out = [];
+    let cur = null;
+    const attrRe = /(\w[\w-]*)="([^"]*)"/g; // tvg-id, tvg-logo, group-title, etc.
 
-  function filterChannels() {
-    const q = (el.search?.value || el.search2?.value || el.inlineSearch?.value || '').trim().toLowerCase();
-    const cat = el.cat?.value || el.cat2?.value || el.inlineCat?.value || '*';
-    state.filtered = state.channels.filter((c) => {
-      const inCat = cat === '*' || (c.category || '').toString().toLowerCase() === cat;
-      if (!q) return inCat;
-      const hay = `${c.name} ${c.group} ${c.category} ${c.url}`.toLowerCase();
-      return inCat && hay.includes(q);
-    });
-  }
-
-  function renderChannelLists() {
-    filterChannels();
-    const makeItem = (ch, idx) => {
-      const logo = ch.logo ? `<img src="${ch.logo}" class="me-2" alt="" style="width:24px;height:24px;object-fit:contain">` : '';
-      const badge = ch.type === 'm3u-list' ? '<span class="badge text-bg-secondary ms-2">M3U</span>' : '';
-      return `<button class="list-group-item list-group-item-action d-flex align-items-center" data-idx="${idx}">${logo}<span class="flex-grow-1 text-truncate">${ch.name}</span>${badge}</button>`;
-    };
-    const html = state.filtered.map(makeItem).join('') || `<div class="text-muted small p-2">Aucune chaîne</div>`;
-    [el.list, el.list2, el.inlineList].forEach((list) => list && (list.innerHTML = html));
-
-    qsa('[data-idx]').forEach((btn) => {
-      btn.addEventListener('click', (ev) => {
-        const idx = Number(ev.currentTarget.getAttribute('data-idx'));
-        playByFilteredIndex(idx);
-      });
-    });
-
-    el.zapTitle && (el.zapTitle.textContent = state.filtered[currentIndexInFiltered()]?.name || '—');
-  }
-
-  function currentIndexInFiltered() {
-    const id = state.channels[state.index]?.id;
-    return state.filtered.findIndex((c) => c.id === id);
-  }
-
-  function playByFilteredIndex(idx) {
-    const ch = state.filtered[idx];
-    if (!ch) return;
-    const realIndex = state.channels.findIndex((c) => c.id === ch.id);
-    playAt(realIndex);
-  }
-
-  // ===== Lecture =====
-  function playAt(index) {
-    const ch = state.channels[index];
-    if (!ch) return;
-    state.index = index;
-
-    // Playlist M3U → déléguer à loadSource (charge et remplit les chaînes)
-    if (ch.type === 'm3u-list') {
-      if (typeof window.loadSource === 'function') {
-        window.loadSource(ch.url);
-      } else {
-        alert('Entrée de type playlist M3U — impossible de la jouer directement.');
-      }
-      return;
-    }
-
-    const src = srcForPlayer(ch);
-
-    if (vjs) {
-      vjs.src(src);
-      vjs.play().catch(() => {});
-    } else if (el.player) {
-      if (src && typeof src === 'object') el.player.src = src.src || '';
-      else el.player.src = (src && src.src) || ch.url || '';
-      el.player.play?.().catch(() => {});
-    }
-
-    // NOWBAR
-    if (el.nowbar) el.nowbar.classList.remove('d-none');
-    if (el.channelLogo) {
-      if (ch.logo) { el.channelLogo.src = ch.logo; el.channelLogo.classList.remove('d-none'); }
-      else { el.channelLogo.src = ''; el.channelLogo.classList.add('d-none'); }
-    }
-    el.nowPlaying && (el.nowPlaying.textContent = ch.name || 'Lecture');
-    el.nowUrl && (el.nowUrl.textContent = ch.url || '');
-    el.zapTitle && (el.zapTitle.textContent = ch.name || '—');
-  }
-
-  // ===== Chargement JSON =====
-  async function loadJsonFromUrl(url) {
-    const resp = await fetch(url, { credentials: 'omit' });
-    const text = await resp.text();
-    const obj = JSON.parse(text);
-    const parsed = parseJsonPlaylist(obj);
-    state.meta = parsed.meta;
-    state.channels = parsed.channels;
-    state.categories = parsed.categories;
-    renderCategories();
-    renderChannelLists();
-    playAt(0);
-  }
-
-  // ===== Intégration UI existante =====
-  function wireNav() {
-    el.btnPrev && el.btnPrev.addEventListener('click', () => {
-      const i = currentIndexInFiltered();
-      const prev = i > 0 ? i - 1 : state.filtered.length - 1;
-      playByFilteredIndex(prev);
-    });
-    el.btnNext && el.btnNext.addEventListener('click', () => {
-      const i = currentIndexInFiltered();
-      const next = i >= 0 ? (i + 1) % state.filtered.length : 0;
-      playByFilteredIndex(next);
-    });
-
-    [el.search, el.search2, el.inlineSearch].forEach((inp) => inp && inp.addEventListener('input', renderChannelLists));
-    [el.cat, el.cat2, el.inlineCat].forEach((sel) => sel && sel.addEventListener('change', renderChannelLists));
-
-    // Bouton "Lire" — accepte aussi une URL .json
-    el.btnPlay && el.btnPlay.addEventListener('click', () => {
-      const v = el.inputUrl?.value?.trim();
-      if (!v) return;
-      if (isJsonUrl(v)) loadJsonFromUrl(v);
-      else {
-        const ch = { id: 'single', name: v, url: v, type: guessType(v) };
-        state.channels = [ch];
-        state.categories = [{ id: '*', label: 'Toutes' }];
-        renderCategories();
-        renderChannelLists();
-        playAt(0);
-      }
-    });
-  }
-
-  function interceptSourceButtons() {
-    const handle = (ev, sel) => {
-      const url = sel?.value;
-      if (url && isJsonUrl(url)) {
-        ev.preventDefault();
-        ev.stopImmediatePropagation();
-        loadJsonFromUrl(url).catch((err) => alert('Échec du chargement JSON: ' + err.message));
-      }
-    };
-    el.btnLoadM3U && el.btnLoadM3U.addEventListener('click', (ev) => handle(ev, el.sourceSel), true);
-    el.btnLoadM3U2 && el.btnLoadM3U2.addEventListener('click', (ev) => handle(ev, el.sourceSel2), true);
-  }
-
-  // Import .json via bouton "Importer"
-  const importInput = document.getElementById('importFile');
-  if (importInput) {
-    importInput.addEventListener('change', async (e) => {
-      const file = e.target.files?.[0];
-      if (!file) return;
-      if (!/\.json$/i.test(file.name)) return; // laisser l'autre logique gérer les backups
-      try {
-        const text = await file.text();
-        const obj = JSON.parse(text);
-        if (Array.isArray(obj.channels) || Array.isArray(obj) || Array.isArray(obj.playlists)) {
-          e.stopImmediatePropagation();
-          const parsed = parseJsonPlaylist(obj);
-          state.meta = parsed.meta;
-          state.channels = parsed.channels;
-          state.categories = parsed.categories;
-          renderCategories();
-          renderChannelLists();
-          playAt(0);
-        }
-      } catch (err) {
-        console.error(err);
-        alert('Fichier JSON invalide.');
-      }
-    }, true);
-  }
-
-  // ===== Init =====
-  wireNav();
-  interceptSourceButtons();
-
-  // API debug
-  window.IPTV_JSON = {
-    load: loadJsonFromUrl,
-    parse: parseJsonPlaylist,
-    state: () => ({ ...state }),
-  };
-})();
-
-/*
-====================
-Exemples de playlists
-====================
-
-1) Schéma complet
-------------------
-{
-  "meta": { "name": "France — Démo", "updated": "2025-10-22" },
-  "categories": [
-    { "id": "tnt", "label": "TNT" },
-    { "id": "info", "label": "Infos" }
-  ],
-  "channels": [
-    {
-      "id": "fr2",
-      "name": "France 2",
-      "url": "https://example.com/fr2/index.m3u8",
-      "logo": "https://example.com/logos/fr2.png",
-      "category": "tnt",
-      "type": "hls"
-    },
-    {
-      "id": "bfm",
-      "name": "BFM TV (YouTube)",
-      "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "logo": "https://example.com/logos/bfm.png",
-      "category": "info",
-      "type": "youtube"
-    }
-  ]
-}
-
-2) Variante courte (tableau de chaînes)
---------------------------------------
-[
-  { "name": "Chill Radio", "url": "https://example.com/live/stream.mp3" },
-  { "name": "Demo VOD", "url": "https://example.com/videos/trailer.mp4" }
-]
-
-3) Méta‑liste (comme ton fichier)
----------------------------------
-{
-  "playlists": [
-    { "name": "France TV 🇫🇷", "url": "https://…/france.m3u" },
-    { "name": "Sports", "url": "https://…/sports.m3u" }
-  ]
-}
-*/
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
