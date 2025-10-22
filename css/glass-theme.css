@@ -587,3 +587,9 @@ main.container{ min-height: calc(100svh - var(--navH)); }
   border-radius: 10px;
 }
 .ctx-menu button:hover{ background: rgba(255,255,255,.08); }
+.video-js .vjs-big-play-button {
+  font-size: 3em;
+  line-height: 1.5em;
+  cursor: pointer;
+  visibility: hidden !important;
+}
