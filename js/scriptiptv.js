@@ -1258,6 +1258,7 @@ const cat2 = document.getElementById('categorySelect2');
     if (!file) return;
     try {
       const text = await file.text();
+      updateM3UTotal(text);
       const json = JSON.parse(text);
 
       // validation légère
