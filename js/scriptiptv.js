@@ -465,7 +465,6 @@ function closePanel(){
       const file = input.files?.[0];
       if (!file) return;
       const txt = await file.text();
-      updateM3UTotal(text);
       channels = await parseM3U(txt);
       renderCategories(channels, $('#categorySelect'), $('#categorySelect2'));
       renderChannels(channels, $('#channelList'), $('#channelList2'));
@@ -1259,7 +1258,6 @@ const cat2 = document.getElementById('categorySelect2');
     if (!file) return;
     try {
       const text = await file.text();
-      updateM3UTotal(text);
       const json = JSON.parse(text);
 
       // validation légère
