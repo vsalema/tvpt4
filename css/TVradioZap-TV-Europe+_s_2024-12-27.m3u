@@ -119,7 +119,7 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 https://srv.webtvmanager.fr:3635/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png",Emotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiofusion.fr/media/cache/full_img/uploads/media/radiofusionfr/2background-neutre.jpg",Fusion TV
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/04/bbox-avec-une-xbox-chez-bouygues-telecom-2.png",Fusion TV
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://p2mtv.com/wp-content/uploads/2023/08/363501045_6914953078566949_1170508259438111981_n.jpg",P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
