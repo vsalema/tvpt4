@@ -125,11 +125,11 @@ https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Quest_2018.svg/langfr-225px-Quest_2018.svg.png",Qwest Jazz
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-latina-inprogress/wp-content/uploads/sites/53/2018/10/TRACE-LATINA-LOGO-WEB-1-1.png",Trace Latina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1200px-TRACE_Latina_Logo.png",Trace Latina
 https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png",TVM3 (CH)
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.telezoukla.com/gallery_gen/6d4a9194d48a7ee753a9d5810901fd90_472x204_fit.png",Zoukla
+#EXTINF:-1 tvg-logo="https://www.telezoukla.com/gallery/tv%20zoukla-ts1633041059.png",Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png",BBC Earth (GB)
 https://amg00793-amg00793c22-samsung-fr-4776.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthfrance-samsungfr/playlist.m3u8
