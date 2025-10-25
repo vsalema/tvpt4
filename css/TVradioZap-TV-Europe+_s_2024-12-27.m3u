@@ -27,7 +27,7 @@ https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ijbSTr.png",Leman Bleu  (CH)
 https://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Rtl-tvi-2023.svg/langfr-420px-Rtl-tvi-2023.svg.png",RTL TVI
+#EXTINF:-1 tvg-logo="https://fr.wikipedia.org/wiki/RTL_TVI#/media/Fichier:RTL-TVI_Logo_2023.svg",RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg",TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
