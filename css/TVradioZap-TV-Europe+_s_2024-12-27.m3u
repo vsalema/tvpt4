@@ -247,3 +247,7 @@ https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b1
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png",Miami TV Latino 💥
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
