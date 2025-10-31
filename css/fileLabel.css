@@ -72,3 +72,21 @@ button {
   font-weight: 600;
 }
 button:hover { opacity: 0.9; }
+.fileLabel {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: #4252ff;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  max-width: 140px;     /* limite la largeur */
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.fileLabel input[type="file"] {
+  display: none;
+}
