@@ -25,8 +25,6 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/ICI_T%C3%A9l%C3%A9_logo.svg/langfr-420px-ICI_T%C3%A9l%C3%A9_logo.svg.png",Ici Télé (CA)
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ijbSTr.png",Leman Bleu  (CH)
-https://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg",TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png",TV Monaco
@@ -109,8 +107,6 @@ https://vdo.pro-fhi.net:3060/stream/play.m3u8
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_PTV_2022.png/225px-Logo_PTV_2022.png",PTV (52+55)
 https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.teveka.net/videos/userPhoto/logo.png",Teveka
-https://www.teveka.net:8443/show/teveka/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png",TV3V (67)
 https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ueU1-Uf0-gY6ktpgJ3GE6wfcaG05ud8a6plswApnT9xiP0nKqQZICLAoo6eEJkFO4w0=w480-h960-rw",TV7 Colmar
@@ -221,8 +217,6 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://live-weo.digiteka.com/1189023466/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png",Enquêtes de Choc
 https://amg01796-fastmediabackbo-enquetesdechoc-samsungfr-s0s2i.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/novelachannel.png",Novela Channel
-https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20220511T011743SQUARE.png_20220511011745.png&h=250",Télé Novela
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c7c47_68750fba00fe48a0a09d0f03e634890c~mv2.png",Handicap TV
@@ -247,7 +241,3 @@ https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b1
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png",Miami TV Latino 💥
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="|PT|🇵🇹 PORTUGAL",RTP I
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg",RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
