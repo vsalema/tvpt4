@@ -88,7 +88,7 @@ https://live-ln24.digiteka.com/1911668011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png",Monaco Info  (MO)
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png",Gulli (720p)
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+https://tvradiozap.eu/tools/np-m3u8.php/gulli.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_177x90.png",Xilam TV
