@@ -15,7 +15,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
         // 1) On force autoplay + muted pour respecter les règles des navigateurs
         options.autoplay = 1;
-        options.muted = true;
+        options.muted = false;
 
         // Instance originale du player
         var instance = new OriginalPlayerjs(options);
