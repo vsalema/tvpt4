@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/tf1.webp" group-title="Généraliste",TF1
 https://live.streamgatos.top/hls/9508/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png",tf1 séries films
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1fs.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/france-2.webp" group-title="Généraliste",France 2
 https://live.streamgatos.top/hls/666/stream.m3u8
 
@@ -254,19 +257,19 @@ https://live.streamgatos.top/hls/4907/stream.m3u8
 
 # ===== Chaines Info =====
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/bfm-tv.webp" group-title="Info",BFMTV
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/4908/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/bfm-business.webp" group-title="Info",BFM Business
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/7853/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/euronews.webp" group-title="Info",Euronews
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/184509/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/cnews.webp" group-title="Info",CNEWS
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/10613/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/france-24.webp" group-title="Info",France 24
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/341/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/lci.webp" group-title="Info",LCI
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/2894/stream.m3u8
