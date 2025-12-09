@@ -140,6 +140,8 @@ https://live.streamgatos.top/hls/8921/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/serie-club.webp" group-title="Cinema",Serie Club
 https://live.streamgatos.top/hls/425/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9632cedb-5638-4010-9528-3ebf0071d631-screamin-1639988850-width200-quality90.jpeg" group-title="Cinema",ScreamIN
+https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin-lg/playlist.m3u8
 
 # ===== Chaines Jeunesse =====
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/disney-channel.webp" group-title="Jeunesse",Disney Channel
@@ -165,6 +167,15 @@ https://live.streamgatos.top/hls/710/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/mangas.webp" group-title="Jeunesse",Mangas
 https://live.streamgatos.top/hls/329/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/eb57f7ea-895a-4a74-a3ae-f3c506f1661c-width200-quality90.jpeg" group-title="Jeunesse",Beyblade TV
+https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Jeunesse",JapanimTV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_177x90.png" group-title="Jeunesse",Xilam TV
+https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/j-one.webp" group-title="Jeunesse",J-One
 https://live.streamgatos.top/hls/10563/stream.m3u8
