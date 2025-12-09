@@ -11,7 +11,7 @@ https://live.streamgatos.top/hls/?/stream.m3u8
 https://live.streamgatos.top/hls/?/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/canalplus.webp" group-title="Généraliste",CANAL+
-https://live.streamgatos.top/hls/?/stream.m3u8
+https://live.streamgatos.top/hls/361/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/m6.webp" group-title="Généraliste",M6
 https://live.streamgatos.top/hls/?/stream.m3u8
