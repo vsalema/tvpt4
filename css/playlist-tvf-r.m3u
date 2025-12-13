@@ -137,6 +137,15 @@ https://live.streamgatos.top/hls/135811/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/cine-plus-club.webp" group-title="Cinema",CINÉ+ Club
 https://live.streamgatos.top/hls/8921/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250415T020853SQUARE.png" group-title="Cinema",Box Office Action
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15080
+
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="Cinema",Box Office Drama
+https://dbhl9xt4ay3lq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-el0y7yl75ynke/bodrm.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png" group-title="Cinema",	Box Office Thrillers
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15078
+
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/serie-club.webp" group-title="Cinema",Serie Club
 https://live.streamgatos.top/hls/425/stream.m3u8
 
