@@ -165,6 +165,9 @@ https://live.streamgatos.top/hls/337/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/teletoon.webp" group-title="Jeunesse",Télétoon
 https://live.streamgatos.top/hls/710/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20241030T154340SQUARE.png" group-title="Jeunesse",	Supertoons
+https://d37aiu112stb78.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l64mdrsnz9wn3/feed/samsung/streams/SUPERTOONS_FR/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
+
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/mangas.webp" group-title="Jeunesse",Mangas
 https://live.streamgatos.top/hls/329/stream.m3u8
 
@@ -176,6 +179,9 @@ https://foxkidstv.be:3369/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_177x90.png" group-title="Jeunesse",Xilam TV
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/j-one.webp" group-title="Jeunesse",J-One
 https://live.streamgatos.top/hls/10563/stream.m3u8
