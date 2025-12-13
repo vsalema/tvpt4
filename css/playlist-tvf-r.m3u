@@ -183,6 +183,9 @@ https://live.streamgatos.top/hls/10563/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/tiji.webp" group-title="Jeunesse",Tiji
 https://live.streamgatos.top/hls/10666/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png" group-title="Jeunesse",Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/nickelodeon.webp" group-title="Jeunesse",Nickelodeon
 https://live.streamgatos.top/hls/2101/stream.m3u8
 
