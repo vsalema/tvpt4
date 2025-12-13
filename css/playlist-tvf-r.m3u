@@ -171,6 +171,9 @@ https://d37aiu112stb78.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/mangas.webp" group-title="Jeunesse",Mangas
 https://live.streamgatos.top/hls/329/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Yu-Gi-Oh_Logo.JPG" group-title="Jeunesse",Yu-Gi-Oh!
+https://amg01796-amg01796c16-rakuten-fr-7493.playouts.now.amagi.tv/1080p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/eb57f7ea-895a-4a74-a3ae-f3c506f1661c-width200-quality90.jpeg" group-title="Jeunesse",Beyblade TV
 https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
 
