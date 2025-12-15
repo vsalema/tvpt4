@@ -1,9 +1,6 @@
 #EXTM3U
 
 # ===== Chaines Généraliste =====
-#EXTINF:-1 tvg-logo="https://vsalema.github.io/StreamPilot-X-Studio-S/logos/cmtv.png" group-title="Généraliste",CMTV
-https://vsalema.github.io/tvpt4/css/cmtvfree.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/tf1.webp" group-title="Généraliste",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
