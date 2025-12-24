@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>NRJ Web Radio List</title>
+  <link>http://www.nrj.fr</link>
+  <item>
+    <title>NRJ</title>
+    <enclosure url="http://mp3.live.tv-radio.com/nrj/all/nrj_113225.mp3" type="audio/mpeg" />
+    <image>http://media.nrj.fr/webradio_logo/120x120/2011/02/nrj_player58384.png</image>
+    <guid>http://play.nrj.fr/nrj/nrj.html</guid>
+  </item>
+  <item>
+    <title>NRJ Hits</title>
+    <enclosure url="http://mp3.live.tv-radio.com/nrj_hits/all/nrj_150726.mp3" type="audio/mpeg" />
+    <image>http://media.nrj.fr/webradio_logo/120x120/2011/02/nrj-hits_player74563.png</image>
+    <guid>http://play.nrj.fr/nrj/nrj-hits.html</guid>
+  </item>
+  <item>
+    <title>Fun radio</title>
+    <enclosure url="http://streaming.radio.funradio.fr:80/fun-1-44-96" type="audio/mpeg" />
+    <guid>http://radio.funradio.fr/</guid>
+  </item>
+</channel>
+</rss>
