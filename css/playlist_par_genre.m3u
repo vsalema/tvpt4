@@ -656,7 +656,7 @@ https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_oo3w1vu
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gw984t14/version/100051/width/800/height/450" group-title="Science-fiction", EO
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_gw984t14/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4pw9o4e7/version/100031/width/800/height/450" group-title="Science-fiction", F1 Le Film (2025)
-https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_4pw9o4e7/format/applehttp/protocol/https/a.m3u8
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_4pw9o4e7/v/1/ev/12/flavorId/1_,dbd5l33m,8vwxahrh,9kfc27y5,b8lhxhxf,4t6pezgy,kry88qcg,08vpwdpr,m6yjtepo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd?__hdnea__=st=1766955584~exp=1766955884~acl=/s/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_4pw9o4e7/v/1/ev/12/flavorId/1_*~hmac=ec2f67872af84e7eae200638f42d89d6600c8c35cc675a034cb02391530604c2
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_foxjdyeh/version/100061/width/800/height/450" group-title="Science-fiction", Ghost Cat Anzu.2024
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_foxjdyeh/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ujevqvyx/version/100071/width/800/height/450" group-title="Science-fiction", Gigi & Nate (2023)
