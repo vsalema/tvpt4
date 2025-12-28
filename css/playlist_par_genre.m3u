@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hwwrodum/version/100051/width/800/height/450" group-title="Action", 65 - la Terre d'avant
-https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_hwwrodum/format/applehttp/protocol/https/a.m3u8
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hwwrodum/v/1,/ev/11/flavorId/1_o0lfqwrr,/ev/11/flavorId/1_tgbto5lo,/ev/11/flavorId/1_2ii6pr75,/ev/11/flavorId/1_67w5g6rm,/ev/11/flavorId/1_0hqjz0oo,/ev/11/flavorId/1_2m5bcaik,1/ev/11/flavorId/1_dgwfrbql,/.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_8qbtpe49/version/100051/width/800/height/450" group-title="Action", AKA (2023)
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_8qbtpe49/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hc6pg370/version/100041/width/800/height/450" group-title="Action", Annie Colère
