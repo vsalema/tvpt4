@@ -184,7 +184,7 @@ https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_jnccqz5
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_zdc9cnqm/version/100031/width/800/height/450" group-title="Action", Thor: Love and Thunder.2022
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_zdc9cnqm/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_pocmd0xj/version/100001/width/800/height/450" group-title="Action", Thunderbolts* (2025)
-https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_pocmd0xj/format/applehttp/protocol/https/a.m3u8
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_pocmd0xj/v/1/ev/12/flavorId/1_,x7upssmm,7a85appy,p0398epg,6jhdddhd,xr411eel,ihsh1uhb,jfvtdfhf,2qgzcmcc,sfe8wq9j,/.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ic281ee3/version/100041/width/800/height/450" group-title="Action", Tic et Tac : Les Rangers du Risque
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_ic281ee3/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_l7xyegi3/version/100071/width/800/height/450" group-title="Action", Tirailleurs (2023)
