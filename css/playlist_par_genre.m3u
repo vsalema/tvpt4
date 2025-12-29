@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ihE2FqjWIucrAYs6vVQyUrw2KAM.jpg" group-title="Action", Tron Ares.2025
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z7b3cxg8/v/1/ev/11/flavorId/1_,sirildcu,rjtjxw60,m1g3hcxk,r3hshtn8,z2n0hesl,2o8lj51h,nquyfck4,dyu1xzj7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hwwrodum/version/100051/width/800/height/450" group-title="Action", 65 - la Terre d'avant
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg" group-title="Action", Troll 2.2025
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2jcmfah7/v/1/ev/10/flavorId/1_,r4ew7d05,vdpieufz,bq229h5n,yvky242g,xajntxjj,twnmmewm,85q7etrm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ihE2FqjWIucrAYs6vVQyUrw2KAM.jpg" group-title="Science-Fiction", Tron Ares.2025
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z7b3cxg8/v/1/ev/13/flavorId/1_,sirildcu,rjtjxw60,m1g3hcxk,r3hshtn8,z2n0hesl,2o8lj51h,nquyfck4,dyu1xzj7,lsevalon,hoymgbrd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hwwrodum/v/1,/ev/11/flavorId/1_o0lfqwrr,/ev/11/flavorId/1_tgbto5lo,/ev/11/flavorId/1_2ii6pr75,/ev/11/flavorId/1_67w5g6rm,/ev/11/flavorId/1_0hqjz0oo,/ev/11/flavorId/1_2m5bcaik,1/ev/11/flavorId/1_dgwfrbql,/.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_8qbtpe49/version/100051/width/800/height/450" group-title="Action", AKA (2023)
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_8qbtpe49/format/applehttp/protocol/https/a.m3u8
