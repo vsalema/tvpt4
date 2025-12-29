@@ -7,12 +7,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_8qbtpe49/v/1/ev/11/flavorId/1_,ijkir410,staetpwj,51090v8l,5v8a9j73,pwquufue,6rront1e,o1yl1ctz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_sp7vkc3k/version/100051/width/800/height/450" group-title="Action", Ant-Man et la Guêpe : Quantumania
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_sp7vkc3k/v/1/ev/13/flavorId/1_,v03m11h6,4jtm6dz0,y8bl78ur,2lhhic3y,034a0i64,pt6vmd48,kyphzr2n,r2d0dgqp,oqyzirr9,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_rfalyud3/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ji50fb36/version/100051/width/800/height/450" group-title="Action", Atlas (2024)
-https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_ji50fb36/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cn9w3yhg/version/100011/width/800/height/450" group-title="Action", Avatar 2009
-https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_cn9w3yhg/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_onaw7u4i/version/100061/width/800/height/450" group-title="Action", Avatar : La Voie de l'eau
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ji50fb36/v/1/ev/12/flavorId/1_,7wsyvgok,2f0yemuu,vgzcwa0p,qg5313g5,yta9l9km,0l555v1v,mxxogtzp,l4bot1ln,hzq3ryej,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_onaw7u4i/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_dhxbiklc/version/100001/width/800/height/450" group-title="Action", Avengers : L'Ère d'Ultron.2015
 https://cdnapi.kaltura.com/p/3253003/sp/325300300/playManifest/entryId/1_dhxbiklc/format/applehttp/protocol/https/a.m3u8
