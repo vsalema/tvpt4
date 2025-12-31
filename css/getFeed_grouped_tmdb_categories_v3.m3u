@@ -523,7 +523,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_r6colj00/v/1/ev/11/flavorId/1_,h7z8q9l7,51fsy00l,ljuym2r2,63krhaw4,o165qaey,5c28r5vu,5r2ho4sc,vy7uhaiz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_kcdvn1yb" tvg-name="Penguin bloom" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_kcdvn1yb/version/100011/width/800/height/450" group-title="Drame",Penguin bloom
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_kcdvn1yb/v/1/ev/11/flavorId/1_,t182dbp1,cco77jq0,f6efr3zp,br2mry3e,0ns62n78,ymh2wg65,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-#EXTINF:-1 tvg-id="1_lba80kkd" tvg-name="Persuasion" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_lba80kkd/version/100031/width/800/height/450" group-title="Drame",Persuasion
+#EXTINF:-1 tvg-id="1_lba80kkd" tvg-name="Persuasion" tvg-logo="https://image.tmdb.org/t/p/original/sjfI0dQl48kdgKzBjLlR4xNeJ9S.jpg" group-title="Drame",Persuasion (2022)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_lba80kkd/v/1/ev/11/flavorId/1_,fkb0gb0i,k81wyor0,4db26jef,7tj0nzp6,4hs24u3z,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_kju98921" tvg-name="Praise This" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_kju98921/version/100061/width/800/height/450" group-title="Drame",Praise This
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_kju98921/v/1/ev/11/flavorId/1_,6b01a6og,ibmqi3q2,2vpmm6k4,cb1iw509,can1jyts,nygtf7kt,y6c5ryt3,oddy03ms,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -783,6 +783,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_g66kihf8/v/1/ev/11/flavorId/1_,8963j3l8,3evxas0k,nykzz7oo,ki3hpa91,0ld0w6pu,d6jget2l,uj0uzkuq,n3nanmaj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_k5uuho3y" tvg-name="The Nocebo Effect" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_k5uuho3y/version/100041/width/800/height/450" group-title="Thriller",The Nocebo Effect
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1/ev/11/flavorId/1_,mex3kp9n,nufky9sd,82txdw9m,pasixxyb,jf7zzf3i,wrhfprks,ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
