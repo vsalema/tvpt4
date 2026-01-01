@@ -547,6 +547,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_giieq7mp" tvg-name="Samson et Dalila .1949" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_giieq7mp/version/100001/width/800/height/450" group-title="Historique",Samson et Dalila .1949
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_giieq7mp/v/1/ev/11/flavorId/1_,q1byxjb2,6mifpxe5,69vuc57y,69gd0j6v,nxqqyck9,yvae0dey,1n1ehd00,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Horreur =====
+#EXTINF:-1 tvg-id="1_m2lb1x4r" tvg-name=" Five Nights at Freddy's 2" tvg-logo="https://image.tmdb.org/t/p/original/igxgTccNiUGmIBVO9kjivuVPp52.jpg" group-title=" Horreur", Five Nights at Freddy's 2 (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_m2lb1x4r/v/1/ev/8/flavorId/1_,z7gdm3p2,jayaifo1,giyi7tth,fl5olwnz,n8oc23pi,jba96hku,ucj7heda,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_n9werept" tvg-name="Ziam" tvg-logo="http://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_qjjazozh/version/1" group-title=" Horreur",Ziam (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_n9werept/v/1/ev/11/flavorId/1_,ws8485ch,4867gtkf,6s7skfty,xtj6n138,z17ca3yg,14lliohw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_1zugsvr4" tvg-name="Host" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_1zugsvr4/version/100051/width/800/height/450" group-title=" Horreur",Host
@@ -779,6 +781,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
