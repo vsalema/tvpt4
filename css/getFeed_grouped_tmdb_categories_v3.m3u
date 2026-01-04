@@ -495,6 +495,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_n07pv5jc" tvg-name="The Mask.1994" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_n07pv5jc/version/100001/width/800/height/450" group-title="Comédie",The Mask.1994
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_n07pv5jc/v/1/ev/11/flavorId/1_,szmya4kz,vowyu86x,di6c4box,b03q183m,78hjza49,whzi38m4,5o9a5umy,d9h1hmlu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Drame =====
+#EXTINF:-1 tvg-id="1_8z5na9um" tvg-name=" Boogie" tvg-logo="https://image.tmdb.org/t/p/original/X6wKsmJw6c96RrGXKTq9f1pAUK.jpg" group-title="Drame", Boogie (2021) 
+https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_8z5na9um/v/1/ev/9/flavorId/1_,tq0j9sw9,qbg84b9k,ivif0nw2,jr22mb3n,ngqfqx79,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hc6pg370" tvg-name="Annie Colère" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_8lh99n45/version/100041/width/800/height/450" group-title="Drame",Annie Colère
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hc6pg370/v/1/ev/11/flavorId/1_,oovrca0i,gosn3omd,zu8xsk05,6pf8skm7,uvtu4qam,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_4vv62vf8" tvg-name="Bridget Jones : Folle de lui .2025" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4vv62vf8/version/100051/width/800/height/450" group-title="Drame",Bridget Jones : Folle de lui .2025
@@ -787,6 +789,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
