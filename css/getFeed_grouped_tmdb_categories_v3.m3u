@@ -1,5 +1,7 @@
 #EXTM3U
 # ===== Action =====
+#EXTINF:-1 tvg-id="1_hjee007v" tvg-name=" The Tank" tvg-logo="https://image.tmdb.org/t/p/original/3lou6lSwNJPdiATzKD3ZeUxP2AZ.jpg" group-title="Action",The Tank (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hjee007v/v/1/ev/8/flavorId/1_,13zttra0,j86pw1yj,jw656g9q,3795cm7o,z14x7c8e,b13d7yyt,w5d3i4h5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_75huf10o" tvg-name="Running Man" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_l2b4fo7k/version/1" group-title="Action",Running Man (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_75huf10o/v/1/ev/11/flavorId/1_,lv5uuk7u,riwp4suc,vl5h703d,08wom7gx,476oqsr1,feup9hh2,bukzj89n,koqqssdu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_8qbtpe49" tvg-name="AKA (2023)" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_8qbtpe49/version/100051/width/800/height/450" group-title="Action",AKA (2023)
@@ -393,6 +395,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_xhv9q5c6" tvg-name="You Can't Take My Daughter" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_xhv9q5c6/version/100001/width/800/height/450" group-title="Autres",You Can't Take My Daughter
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_xhv9q5c6/v/1/ev/11/flavorId/1_,22su81sj,ygn4sfxj,6fu0995e,cvdh6ez6,1bba1hz8,iit4yek2,rtpx9djm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Aventure =====
+#EXTINF:-1 tvg-id="1_whc1l3uh" tvg-name=" La Légende d'Ochi" tvg-logo="https://image.tmdb.org/t/p/original/8AkphEML5QRsMGjAkSDeskDeIQG.jpg" group-title="Aventure", La Légende d'Ochi (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_whc1l3uh/v/1/ev/11/flavorId/1_,93zfj3xw,by30h56k,bsu1qlpj,ce3qckjs,q2364nuz,swr34ygy,ih877axq,w2eifj03,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_rnz58ib5" tvg-name="Captain Hook : The Cursed Tides" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_ysmlireu/version/1" group-title="Aventure",Captain Hook : The Cursed Tides (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rnz58ib5/v/1/ev/11/flavorId/1_,afh1ikqk,2ckd9zaz,yyfp8xbt,3lwfcz2e,7sfrb3xl,3km6iape,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_4tgdpwnu" tvg-name="80 for Brady" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4tgdpwnu/version/100061/width/800/height/450" group-title="Aventure",80 for Brady
@@ -781,6 +785,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
