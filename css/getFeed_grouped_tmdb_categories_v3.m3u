@@ -1,6 +1,7 @@
 #EXTM3U
 # ===== Action =====
-#EXTINF:-1 tvg-id="1_1chae0i1" tvg-name="Les Prisonniers du Ghostland" tvg-logo="https://image.tmdb.org/t/p/original/hlT998ten54fVO9gzwls6Nsj6Dn.jpg" group-title="Action", Les Prisonniers du Ghostland (2021) 
+#EXTINF:-1 tvg-id="1_jtyl3590" tvg-name="Predator: Badlands" tvg-logo="https://image.tmdb.org/t/p/original/sHjp9bSqzCimGt0fuyaQbZWolA.jpg" group-title="Action", Predator: Badlands (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_jtyl3590/v/1/ev/10/flavorId/1_,xi412s4t,81jfsij5,zt6z9plm,7t3t1fgq,ozwzhbhb,0e9yglsu,8d6tzxrr,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_1chae0i1/v/1/ev/10/flavorId/1_,evjxqz86,9lbbkwkp,n8hp0cyg,91mhe2ia,buffw5ph,452hs89b,yrka4ziz,jsej5thw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_1fwu4t34" tvg-name=" The Tank" tvg-logo="https://image.tmdb.org/t/p/original/3lou6lSwNJPdiATzKD3ZeUxP2AZ.jpg" group-title="Action",The Tank (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_1fwu4t34/v/1/ev/10/flavorId/1_,k462tubx,lncit8mq,cj53rged,ktrfxxve,8jbv4t24,y8nv3onl,psodh7s3,9ualt13s,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -492,9 +493,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_n07pv5jc" tvg-name="The Mask.1994" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_n07pv5jc/version/100001/width/800/height/450" group-title="Comédie",The Mask.1994
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_n07pv5jc/v/1/ev/11/flavorId/1_,szmya4kz,vowyu86x,di6c4box,b03q183m,78hjza49,whzi38m4,5o9a5umy,d9h1hmlu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Drame =====
-#EXTINF:-1 tvg-id="1_8z5na9um" tvg-name=" Boogie" tvg-logo="https://image.tmdb.org/t/p/original/X6wKsmJw6c96RrGXKTq9f1pAUK.jpg" group-title="Drame", Boogie (2021) 
-https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_8z5na9um/v/1/ev/9/flavorId/1_,tq0j9sw9,qbg84b9k,ivif0nw2,jr22mb3n,ngqfqx79,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-#EXTINF:-1 tvg-id="1_hc6pg370" tvg-name="Annie Colère" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_8lh99n45/version/100041/width/800/height/450" group-title="Drame",Annie Colère
+#EXTINF:-1 tvg-id="1_83ur8qd7" tvg-name=" CODA" tvg-logo="https://image.tmdb.org/t/p/original/xOzNhvKex87EU949iL9j7oGmry8.jpg" group-title="Drame", CODA (2021) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_83ur8qd7/v/1/ev/11/flavorId/1_,o5ztjlbl,8mkrodqc,lxnq5d1n,1mxu4smw,xankcxug,h2ph9k69,7ielnsrx,11dgmygo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hc6pg370/v/1/ev/11/flavorId/1_,oovrca0i,gosn3omd,zu8xsk05,6pf8skm7,uvtu4qam,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_4vv62vf8" tvg-name="Bridget Jones : Folle de lui .2025" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4vv62vf8/version/100051/width/800/height/450" group-title="Drame",Bridget Jones : Folle de lui .2025
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_4vv62vf8/v/1/ev/11/flavorId/1_,6yqfw5ng,mx3e5wl9,l2xe7n7l,j4hqw9o8,9hz9e7ha,x2frc1xx,vt06gp4e,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -786,6 +786,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
