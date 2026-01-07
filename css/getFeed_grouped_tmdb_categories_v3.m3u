@@ -6,6 +6,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_jtyl3590/v/1/ev/16/flavorId/1_,xi412s4t,81jfsij5,zt6z9plm,7t3t1fgq,ozwzhbhb,0e9yglsu,8d6tzxrr,aywxry70,3z1hphkr,rmkh11vp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_4t6jsw2f" tvg-name="Armor.2024" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4t6jsw2f/version/100051/width/800/height/450" group-title="Action",Armor.2024
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_4t6jsw2f/v/1/ev/11/flavorId/1_,x68616q5,okgk8gs7,4pkhn33n,3yonco0t,06izg2ex,zffenzaf,ynctfkyb,wfkpg397,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-id="1_75huf10o" tvg-name="Running Man" tvg-logo="https://image.tmdb.org/t/p/original/b2AzfAur9SDlBowHRi6FU60yMrg.jpg" group-title="Action", Running Man (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_75huf10o/v/1/ev/10/flavorId/1_,lv5uuk7u,riwp4suc,vl5h703d,08wom7gx,476oqsr1,feup9hh2,bukzj89n,koqqssdu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_ji50fb36" tvg-name="Atlas (2024)" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ji50fb36/version/100051/width/800/height/450" group-title="Action",Atlas (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ji50fb36/v/1/ev/11/flavorId/1_,7wsyvgok,2f0yemuu,vgzcwa0p,qg5313g5,yta9l9km,0l555v1v,mxxogtzp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_dhxbiklc" tvg-name="Avengers : L'Ère d'Ultron.2015" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_dhxbiklc/version/100001/width/800/height/450" group-title="Action",Avengers : L'Ère d'Ultron.2015
@@ -782,6 +784,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
