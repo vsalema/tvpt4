@@ -502,6 +502,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_8lh99n45/v/1/ev/11/flavorId/1_,npn1fa7e,kejfbade,1o4l65zo,3sdyisgy,iwhyr3q4,yqzn4fbj,udloikut,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_e4h78fk5" tvg-name="Didi .2024" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_e4h78fk5/version/100051/width/800/height/450" group-title="Drame",Didi .2024
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_e4h78fk5/v/1/ev/11/flavorId/1_,z0xvaa2l,al8upg4p,kji215z8,mrfiiyqv,9zmgxgfz,1ct7jf1y,egoxohcc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-id="1_tcbrl4yt" tvg-name="Ben-Hur" tvg-logo="https://image.tmdb.org/t/p/original/rynOgEDl5pph2DIJ6k7LjIBYlzK.jpg" group-title="Drame",Ben-Hur (1959) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_tcbrl4yt/v/1/ev/11/flavorId/1_,afbx6ptv,xhiuy409,nwvsfcmm,x7vrwxr7,a3c5ip1z,vp9tqohl,0pshs5nw,cy6t8u5n,73dp97dd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_azvf8urh" tvg-name="La Boum.1980" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_azvf8urh/version/100061/width/800/height/450" group-title="Drame",La Boum.1980
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_azvf8urh/v/1/ev/11/flavorId/1_,4rn23cwi,eql06cqk,irtt74gw,6qxag7so,mx8g1w1s,qppz405z,svdc9tsl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_2yttxgwn" tvg-name="Le Mauvais Camp 2.2024" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2yttxgwn/version/100051/width/800/height/450" group-title="Drame",Le Mauvais Camp 2.2024
@@ -786,6 +788,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
