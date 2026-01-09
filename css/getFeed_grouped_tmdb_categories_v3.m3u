@@ -247,6 +247,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/
 # ===== Crime =====
 #EXTINF:-1 tvg-id="1_pf9e40g8" tvg-name="Mission Hostile" tvg-logo="https://image.tmdb.org/t/p/original/F1MRW4beNjB6ioN5qcVvE28wru.jpg" group-title="Crime", Mission Hostile (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_pf9e40g8/v/1/ev/9/flavorId/1_,jwlwzjno,tgnqwm93,gf10aqt9,otnekoj4,lpsxucjt,uctrv00k,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+# ===== Animation =====
+#EXTINF:-1 tvg-id="1_jeyilk49" tvg-name="Les Bad Guys 2" tvg-logo="https://image.tmdb.org/t/p/original/fEHSQbPnkI2J1nnKTHLbXqbJrfO.jpg" group-title="Animation",Les Bad Guys 2 (2025)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_jeyilk49/v/1/ev/10/flavorId/1_,2ymm6tpx,ly4iubgk,rf1d7dab,2vf9m9ef,gyint97a,0fh1oo0m,igpmg62v,h16phhe8,sgd7dall,hu2xr7q2,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_kn8997ng" tvg-name="Sailor moon eternal the movie (2021)" tvg-logo="https://image.tmdb.org/t/p/original/fy51VW2GYTfvGJfBLkCNobE3HeL.jpg" group-title="Animation",Sailor moon eternal the movie (2021)
 https://kalhlspd-a.akamaihd.net/s/dash/p/3470713/347071300/serveFlavor/entryId/1_kn8997ng/v/1/ev/6/flavorId/1_,pn9z966m,lx23ou6e,kn15ltv0,3vk0smel,1z0xtyq7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_8bci1jw7" tvg-name="Buffalo Kids" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_hlaa8jzo/version/1" group-title="Animation",Buffalo Kids (2024)
@@ -793,6 +796,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
