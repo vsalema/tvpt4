@@ -2,7 +2,7 @@
 
 # ===== Chaines Généraliste =====
 #EXTINF:-1 tvg-logo="https://www.wawacity.irish/img/tv2/tf1.webp" group-title="Généraliste",TF1
-https://raw.githubusercontent.com/vsalema/tvpt4/refs/heads/main/css/videotf1.m3u8
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/800px-TF1_logo_1990.svg.png",tf1 séries films
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1fs.m3u8
