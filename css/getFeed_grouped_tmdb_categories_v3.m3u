@@ -1,5 +1,7 @@
 #EXTM3U
 # ===== Action =====
+#EXTINF:-1 tvg-id="1_wgr74p7p" tvg-name=" Guillaume Tell" tvg-logo="https://image.tmdb.org/t/p/original/rIA80h7plU21PIK9zzZZpXviZOA.jpg" group-title="Action",Guillaume Tell (2025)  
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_wgr74p7p/v/1/ev/11/flavorId/1_,210244zl,def2lc87,o3zh36y8,00ov7fhi,ozwohaw6,q359m7z0,sr5onz9p,obztcymf,bdiom95a,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_bj17ilzh" tvg-name="Sisu : Le Chemin de la vengeance" tvg-logo="https://image.tmdb.org/t/p/original/51a6VoMYgDn3DSugq30Kg8EXM5t.jpg" group-title="Action",Sisu : Le Chemin de la vengeance (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_bj17ilzh/v/1/ev/9/flavorId/1_,0jq681pt,vcshiuhn,7zb2glzf,5cccjxls,0usxvpv9,s3t36emq,sejyh0wc,ddqns51z,87ytv469,0fwdr1eq,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_jtyl3590" tvg-name=" Predator: Badlands" tvg-logo="https://image.tmdb.org/t/p/original/sHjp9bSqzCimGt0fuyaQbZWolA.jpg" group-title="Action",Predator: Badlands (2025) 
@@ -248,6 +250,10 @@ https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_pf9e40g8" tvg-name="Mission Hostile" tvg-logo="https://image.tmdb.org/t/p/original/F1MRW4beNjB6ioN5qcVvE28wru.jpg" group-title="Crime", Mission Hostile (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_pf9e40g8/v/1/ev/9/flavorId/1_,jwlwzjno,tgnqwm93,gf10aqt9,otnekoj4,lpsxucjt,uctrv00k,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Animation =====
+#EXTINF:-1 tvg-id="1_djuuwrmq" tvg-name="Falcon Express" tvg-logo="https://image.tmdb.org/t/p/original/rwAgVd3hovt9O5S3pPpWMq8Pwtv.jpg" group-title="Animation",Falcon Express (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_djuuwrmq/v/1/ev/10/flavorId/1_,ht7pfzdc,ymqanejy,mnu47232,pe36r72u,0nvqi7jh,jjugj7tf,dcrxgghs,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-id="1_j75qxtt5" tvg-name="Zootopie 2" tvg-logo="https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg" group-title="Animation",Zootopie 2 (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_j75qxtt5/v/1/ev/12/flavorId/1_,qc2ya0qo,clq9rnjn,jmvbr35z,4qlkmv24,wf91yv28,8zvu2pn7,6w6v90m6,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_ej4yud2t" tvg-name="Les Bad Guys 2" tvg-logo="https://image.tmdb.org/t/p/original/fEHSQbPnkI2J1nnKTHLbXqbJrfO.jpg" group-title="Animation",Les Bad Guys 2 (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ej4yud2t/v/1/ev/12/flavorId/1_,e1cgj3mm,bikq40ar,5jlc13e0,ubyel8aw,wszqtcn6,63r0lnfk,vyftupnp,l61jftc7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_kn8997ng" tvg-name="Sailor moon eternal the movie (2021)" tvg-logo="https://image.tmdb.org/t/p/original/fy51VW2GYTfvGJfBLkCNobE3HeL.jpg" group-title="Animation",Sailor moon eternal the movie (2021)
@@ -399,6 +405,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_xhv9q5c6" tvg-name="You Can't Take My Daughter" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_xhv9q5c6/version/100001/width/800/height/450" group-title="Autres",You Can't Take My Daughter
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_xhv9q5c6/v/1/ev/11/flavorId/1_,22su81sj,ygn4sfxj,6fu0995e,cvdh6ez6,1bba1hz8,iit4yek2,rtpx9djm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Aventure =====
+#EXTINF:-1 tvg-id="1_z7mwrala" tvg-name="Monster Summer" tvg-logo="https://image.tmdb.org/t/p/original/hn8Eotb1xvpPCCSyvCZ2MEuR2SH.jpg" group-title="Aventure",Monster Summer (2024) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z7mwrala/v/1/ev/13/flavorId/1_,6k6lijej,6dk8msjz,ol2yh1ao,g01gpy74,310nn3xt,xp911mss,uqek7w2s,abbfdtjg,kfcu4885,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_whc1l3uh" tvg-name=" La Légende d'Ochi" tvg-logo="https://image.tmdb.org/t/p/original/8AkphEML5QRsMGjAkSDeskDeIQG.jpg" group-title="Aventure", La Légende d'Ochi (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_whc1l3uh/v/1/ev/11/flavorId/1_,93zfj3xw,by30h56k,bsu1qlpj,ce3qckjs,q2364nuz,swr34ygy,ih877axq,w2eifj03,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_rnz58ib5" tvg-name="Captain Hook : The Cursed Tides" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_ysmlireu/version/1" group-title="Aventure",Captain Hook : The Cursed Tides (2025)
@@ -600,6 +608,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_om6mn568" tvg-name="Tchao Pantin.1983" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_om6mn568/version/100031/width/800/height/450" group-title="Policier",Tchao Pantin.1983
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_om6mn568/v/1/ev/11/flavorId/1_,27w1d5t1,rnevzlea,7ouo2h5g,we7otiu2,safv355q,cuupyg8g,d53xzikc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Science-Fiction =====
+#EXTINF:-1 tvg-id="1_7628gpso" tvg-name="Les 4 Fantastiques : Premiers pas" tvg-logo="https://media.themoviedb.org/t/p/w1000_and_h563_face/7u80OGgz2NytCjSuKonxM8VTuZI.jpg" group-title="Science-Fiction",Les 4 Fantastiques : Premiers pas (2025)  
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_7628gpso/v/1/ev/16/flavorId/1_,kkjrfoks,951zwuaq,h007soxz,ia6nmo9j,xgiq0732,54z5g2rc,q61h7pej,ta3ayesr,zarolmo0,ip5xxuxf,73kohuy9,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_2unpavum" tvg-name="Bugonia" tvg-logo="https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg" group-title="Science-Fiction",Bugonia (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2unpavum/v/1/ev/10/flavorId/1_,6pfjbmmu,9jqz8aof,ejw1dr9l,viay3s7e,zdgi4ez3,hp59olb3,o9yucfps,t7kb0ou5,iq5y1h2w,5qjs0lwc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hwwrodum" tvg-name="65 - la Terre d'avant" tvg-logo="https://image.tmdb.org/t/p/original/c4kr3hSJOT5UAcCNJdbi8iPuomV.jpg" group-title="Science-Fiction",65 - la Terre d'avant
@@ -611,6 +621,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_z7b3cxg8" tvg-name="Tron Ares.2025" tvg-logo="https://image.tmdb.org/t/p/original/ihE2FqjWIucrAYs6vVQyUrw2KAM.jpg" group-title="Science-Fiction",Tron Ares.2025
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z7b3cxg8/v/1/ev/13/flavorId/1_,sirildcu,rjtjxw60,m1g3hcxk,r3hshtn8,z2n0hesl,2o8lj51h,nquyfck4,dyu1xzj7,lsevalon,hoymgbrd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Science-fiction =====
+#EXTINF:-1 tvg-id="1_blhr9r0z" tvg-name="Osiris" tvg-logo="https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg" group-title="Science-fiction", Osiris (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_blhr9r0z/v/1/ev/10/flavorId/1_,7t1gebhn,5v3zj7u6,vpaat6qs,ckifi1dt,qjeuzuok,kx6vr0ef,7v2phwrn,m31k2xdg,yqk370zn,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_b7zxpo7q" tvg-name="47 Ronin - Le Sabre de la Vengeance" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_b7zxpo7q/version/100061/width/800/height/450" group-title="Science-fiction",47 Ronin - Le Sabre de la Vengeance
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_b7zxpo7q/v/1/ev/11/flavorId/1_,eluu4zok,cow50fw8,xcu079r2,5t48ymgo,63tq7i0c,fv4k1p25,mfcbrmos,27xflpnb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_gzyo6l9d" tvg-name="7 Guardians of the Tomb .2018" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gzyo6l9d/version/100011/width/800/height/450" group-title="Science-fiction",7 Guardians of the Tomb .2018
@@ -764,6 +776,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_69g33azw" tvg-name="Yummy 2019" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_69g33azw/version/100011/width/800/height/450" group-title="Science-fiction",Yummy 2019
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_69g33azw/v/1/ev/11/flavorId/1_,l0hog4u7,de32rb8n,c5n7a7iy,kcmo979z,mmoy1fg4,dlsvig6q,3dxpdjuw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Thriller =====
+#EXTINF:-1 tvg-id="1_rmqvdufq" tvg-name="Turbulence" tvg-logo="https://image.tmdb.org/t/p/original/hxlXnqugycl75Rov3ph7WODgLGm.jpg" group-title="Thriller",Turbulence (2025) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rmqvdufq/v/1/ev/12/flavorId/1_,1ti81sg0,7yxhhktm,eob3hv7g,1vosjdu0,nkqpuepm,112wre92,4kokohju,38whqty2,rhkxvpaq,eplhg5pe,15qlriwm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_rzoizs1m" tvg-name="Insaisissables 3" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_s2tqnx2t/version/1" group-title="Thriller",Insaisissables 3 (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rzoizs1m/v/1/ev/5/flavorId/1_,yo567e84,a25t53vf,5dy88144,pmbz89ef,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_zvt9t8ge" tvg-name="Échec et mort.2024" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_zvt9t8ge/version/100051/width/800/height/450" group-title="Thriller",Échec et mort.2024
@@ -796,6 +810,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-id="1_hw84jofb" tvg-name=" The Big Ugly" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" group-title="Thriller", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
