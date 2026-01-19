@@ -552,7 +552,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 tvg-id="1_egvvpsis" tvg-name="Un bal pour Harvard" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_egvvpsis/version/100041/width/800/height/450" group-title="Drame",Un bal pour Harvard
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_egvvpsis/v/1/ev/11/flavorId/1_,rxc3069l,2by8n9mh,y00py49h,3tbd7a6v,l3rksdou,vinw69v0,i87pwby9,ihaalp0f,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Famille =====
-#EXTINF:-1 tvg-id="tmdb:638597" tvg-name="Yes Day (2021)" tmdb-id="638597" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_yt17c7hu/version/100011/width/800/height/450" group-title="Famille",Yes Day (2021)
+#EXTINF:-1 tvg-id="1_yt17c7hu" tvg-name="Yes Day (2021)" tmdb-id="638597" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_yt17c7hu/version/100011/width/800/height/450" group-title="Famille",Yes Day (2021)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_yt17c7hu/v/1/ev/11/flavorId/1_,z7nyrwlk,wvrghwqz,68u6f6oj,fhmabcbd,qkmla6xb,d4c623bz,uhtgvw85,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Fantasy =====
 #EXTINF:-1 tvg-id="1_g0rrx8jt" tvg-name="La Princesse et le monstre charmant" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_g0rrx8jt/version/100061/width/800/height/450" group-title="Fantasy",La Princesse et le monstre charmant
