@@ -724,6 +724,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Comédie" tvg-name="Un prince à New York 2" tmdb-id="484718" tvg-id="1_svu3s6or" tvg-logo="https://image.tmdb.org/t/p/original/g4JxfzxYUSBlU8hdzUGxNGF5yJm.jpg",Un prince à New York 2 (2021)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z8elv6tm/v/1/ev/11/flavorId/1_,sk28rvd7,0dizeosx,brfcipk2,5buqlbdg,woad22xh,nnxadsxl,nr6b4y9d,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title="Comédie" tvg-name="La Soupe aux choux (1981)" tmdb-id="9317" tvg-id="1_2q96w3xy" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2q96w3xy/version/100061/width/800/height/450",La Soupe aux choux (1981) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2q96w3xy/v/1/ev/11/flavorId/1_,stlqt1h3,vo4gior4,a7i5xn78,w663013l,g45xe62a,h4ilw2qy,ahl4cd3m,g8msf8aw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 # ===== Crime =====
 #EXTINF:-1 group-title="Crime" tvg-name="Mission Hostile" tmdb-id="1512912" tvg-id="1_pf9e40g8" tvg-logo="https://image.tmdb.org/t/p/original/F1MRW4beNjB6ioN5qcVvE28wru.jpg",Mission Hostile (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_pf9e40g8/v/1/ev/9/flavorId/1_,jwlwzjno,tgnqwm93,gf10aqt9,otnekoj4,lpsxucjt,uctrv00k,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1070,141 +1073,139 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Madame Web (2024)" tmdb-id="634492" tvg-id="1_opim8ne6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_opim8ne6/version/100001/width/800/height/450",Madame Web (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_opim8ne6/v/1/ev/11/flavorId/1_,dc7j9cvl,mdikcugv,9frl506a,6muw36uh,60t1y3d4,c0q5ybxi,atqqnxhc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Megalopolis(2024)" tmdb-id="592831" tvg-id="1_9zjp7fje" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9zjp7fje/version/100051/width/800/height/450",Megalopolis(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Megalopolis (2024)" tmdb-id="592831" tvg-id="1_9zjp7fje" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9zjp7fje/version/100051/width/800/height/450",Megalopolis (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9zjp7fje/v/1/ev/11/flavorId/1_,hff47uzy,njtxwp60,ny71jf8l,qnlxcahv,h2rf5s60,dccqog6i,26c6mhgr,16dfvyiu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="L’Héroïne de Centopia" tmdb-id="955644" tvg-id="1_04gzvjyc" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_04gzvjyc/version/100061/width/800/height/450",Mia et Moi, L’Héroïne de Centopia
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Mia et Moi, L'Héroïne de Centopia (2022)" tmdb-id="955644" tvg-id="1_04gzvjyc" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_04gzvjyc/version/100061/width/800/height/450",Mia et Moi, L'Héroïne de Centopia (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_04gzvjyc/v/1/ev/11/flavorId/1_,4b708fmj,sfy6l341,8j73zqgn,g6lrosjc,vx9bhgk6,7ma942l7,s38mjhzh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Mon inconnue 2019" tmdb-id="570131" tvg-id="1_avc50r8j" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_avc50r8j/version/100011/width/800/height/450",Mon inconnue 2019
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Mon inconnue (2019)" tmdb-id="570131" tvg-id="1_avc50r8j" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_avc50r8j/version/100011/width/800/height/450",Mon inconnue (2019)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_avc50r8j/v/1/ev/11/flavorId/1_,b07url13,cnw7veb6,8s8rmfxq,1lt6ohex,egme8ch6,59jt16jn,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Murder Mystery 2" tmdb-id="638974" tvg-id="1_nneopfwr" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_nneopfwr/version/100041/width/800/height/450",Murder Mystery 2
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Murder Mystery 2 (2023)" tmdb-id="638974" tvg-id="1_nneopfwr" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_nneopfwr/version/100041/width/800/height/450",Murder Mystery 2 (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_nneopfwr/v/1/ev/11/flavorId/1_,8vw6vxew,3du3ihi5,9izpz52z,i86xh27p,izz9ywdw,b8x754kg,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Ni Chaines ni Maitres(2024)" tmdb-id="1126692" tvg-id="1_5i8f8118" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_5i8f8118/version/100051/width/800/height/450",Ni Chaines ni Maitres(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Ni Chaines ni Maitres (2024)" tmdb-id="1126692" tvg-id="1_5i8f8118" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_5i8f8118/version/100051/width/800/height/450",Ni Chaines ni Maitres (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_5i8f8118/v/1/ev/11/flavorId/1_,4ydegpj3,19jesq5f,wzdhwd95,uwmsops3,l8p42f11,jebq89tx,ldgvmtyi,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Nosferatu(2024)" tmdb-id="426063" tvg-id="1_4vht3ipt" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4vht3ipt/version/100051/width/800/height/450",Nosferatu(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Nosferatu (2024)" tmdb-id="426063" tvg-id="1_4vht3ipt" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4vht3ipt/version/100051/width/800/height/450",Nosferatu (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_4vht3ipt/v/1/ev/11/flavorId/1_,x1fo7y0l,ivubvpa0,6d219oc5,h9xh5l7d,l9fiui4i,0ntt2ga8,uq62ovj1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Nowhere(2023)" tmdb-id="1151534" tvg-id="1_s3rsbept" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_s3rsbept/version/100001/width/800/height/450",Nowhere(2023)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Nowhere (2023)" tmdb-id="1151534" tvg-id="1_s3rsbept" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_s3rsbept/version/100001/width/800/height/450",Nowhere (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_s3rsbept/v/1/ev/11/flavorId/1_,j6778dmq,pulcunel,n2s6h5zf,wgo469nq,ovz44nkv,hdmxv8hb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Oscar.1967" tmdb-id="2798" tvg-id="1_qvpo1b9t" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_qvpo1b9t/version/100061/width/800/height/450",Oscar.1967
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Oscar (1967)" tmdb-id="2798" tvg-id="1_qvpo1b9t" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_qvpo1b9t/version/100061/width/800/height/450",Oscar (1967)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_qvpo1b9t/v/1/ev/11/flavorId/1_,uv03xp4x,ich9bw8r,1ekvf5w7,y7jxanov,4qby8bt6,w61hg82e,qz0p54ut,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Osiris" tmdb-id="1241470" tvg-id="1_blhr9r0z" tvg-logo="https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg",Osiris (2025)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Osiris (2025)" tmdb-id="1241470" tvg-id="1_blhr9r0z" tvg-logo="https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg",Osiris (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_blhr9r0z/v/1/ev/10/flavorId/1_,7t1gebhn,5v3zj7u6,vpaat6qs,ckifi1dt,qjeuzuok,kx6vr0ef,7v2phwrn,m31k2xdg,yqk370zn,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Paws of Fury: The Legend of Hank" tmdb-id="366672" tvg-id="1_mkfkud5y" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_mkfkud5y/version/100061/width/800/height/450",Paws of Fury: The Legend of Hank
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Samouraï Academy (2022)" tmdb-id="366672" tvg-id="1_mkfkud5y" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_mkfkud5y/version/100061/width/800/height/450",Samouraï Academy (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_mkfkud5y/v/1/ev/11/flavorId/1_,peysg6s7,2cm1yssv,tn6lxi2m,bfvgqk8l,79c8hi9o,w6whcq8j,u4moiiww,3aor7486,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Phenomena" tmdb-id="29161" tvg-id="1_9y75cx1q" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9y75cx1q/version/100041/width/800/height/450",Phenomena
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Phenomena (1985)" tmdb-id="29161" tvg-id="1_9y75cx1q" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9y75cx1q/version/100041/width/800/height/450",Phenomena (1985) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9y75cx1q/v/1/ev/11/flavorId/1_,jq2w9u5l,ge1on0po,mbbcj144,rkmmz7wg,30i3f87n,c3o6tlgm,2ygtfedu,xen581to,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Quatorze jours" tmdb-id="842479" tvg-id="1_gsk8gc04" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gsk8gc04/version/100041/width/800/height/450",Quatorze jours
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Quatorze jours (2021)" tmdb-id="842479" tvg-id="1_gsk8gc04" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gsk8gc04/version/100041/width/800/height/450",Quatorze jours (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_gsk8gc04/v/1/ev/11/flavorId/1_,e17h5fxx,2e6qnhj6,5ls5d7ri,13ny3t6t,lc5flslj,ysuz969c,9bj4ro0k,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Rye Lane" tmdb-id="1049638" tvg-id="1_4sa2x5m3" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4sa2x5m3/version/100051/width/800/height/450",Rye Lane
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Toi & Moi ? (2023)" tmdb-id="1049638" tvg-id="1_4sa2x5m3" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_4sa2x5m3/version/100051/width/800/height/450",Toi & Moi ? (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_4sa2x5m3/v/1/ev/11/flavorId/1_,1frj8499,v6tf312m,lfvsmlbk,5c67bmlg,n23lny23,bfb3dctt,zmbsp4u1,yq8157g3,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="S.O.S. Fantômes : La Menace de Glace(2024)" tmdb-id="967847" tvg-id="1_1ii2x671" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_1ii2x671/version/100041/width/800/height/450",S.O.S. Fantômes : La Menace de Glace(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="S.O.S. Fantômes : La Menace de Glace (2024)" tmdb-id="967847" tvg-id="1_1ii2x671" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_1ii2x671/version/100041/width/800/height/450",S.O.S. Fantômes : La Menace de Glace (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_1ii2x671/v/1/ev/11/flavorId/1_,gr51sani,d1qqcjuz,omanayvj,3wyisudo,kfb6mlcj,5h09112g,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Scream VI (2023)" tmdb-id="934433" tvg-id="1_cn0s669w" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cn0s669w/version/100041/width/800/height/450",Scream VI (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_cn0s669w/v/1/ev/11/flavorId/1_,zbrqbvc3,u55ja2ig,vt5zh6gw,kc63rv2s,o9ueh1l6,6l3waw9t,erem84c5,j89g26er,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Shock wave 2017" tmdb-id="441531" tvg-id="1_mmm7ea8i" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_mmm7ea8i/version/100011/width/800/height/450",Shock wave 2017
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Shock wave (2017)" tmdb-id="441531" tvg-id="1_mmm7ea8i" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_mmm7ea8i/version/100011/width/800/height/450",Shock wave (2017)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_mmm7ea8i/v/1/ev/11/flavorId/1_,j7w37vvj,ysu7haw3,b5yb563l,wdqkygcu,dox8fmyf,s63sjo7b,vhz7lv5e,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Terrifier 3(2024)" tmdb-id="1034541" tvg-id="1_2xkijmex" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2xkijmex/version/100051/width/800/height/450",Terrifier 3(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Terrifier 3 (2024)" tmdb-id="1034541" tvg-id="1_2xkijmex" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2xkijmex/version/100051/width/800/height/450",Terrifier 3 (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2xkijmex/v/1/ev/11/flavorId/1_,fcqpb8gt,qs1cmy74,vyas984q,6gj0go81,6wmmoywc,h38vetbl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Forge(2024)" tmdb-id="1186532" tvg-id="1_nlr1eobd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_nlr1eobd/version/100051/width/800/height/450",The Forge(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Forge (2024)" tmdb-id="1186532" tvg-id="1_nlr1eobd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_nlr1eobd/version/100051/width/800/height/450",The Forge (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_nlr1eobd/v/1/ev/11/flavorId/1_,1qgmzhuw,dg6ivjkh,dj14nnwa,ac6hlgnm,1ico4d3u,f1qchwi3,wkjb4n8h,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Lair(2022)" tmdb-id="760204" tvg-id="1_gqjpus69" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gqjpus69/version/100041/width/800/height/450",The Lair(2022)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Lair (2022)" tmdb-id="760204" tvg-id="1_gqjpus69" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gqjpus69/version/100041/width/800/height/450",The Lair (2022)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_gqjpus69/v/1/ev/11/flavorId/1_,etk235v5,tqo9rv07,5zuumf7b,wxcipc0k,sxnnsfe9,kfur5aow,a5iliyjh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Piano Lesson(2024)" tmdb-id="804406" tvg-id="1_bbb709j2" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_bbb709j2/version/100021/width/800/height/450",The Piano Lesson(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Piano Lesson (2024)" tmdb-id="804406" tvg-id="1_bbb709j2" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_bbb709j2/version/100021/width/800/height/450",The Piano Lesson (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_bbb709j2/v/1/ev/11/flavorId/1_,pve55sv8,8v4171lq,wnhe2ljm,8n5az9sh,lxhtlkm9,al45ryeq,6hlhlwt1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Son" tmdb-id="806368" tvg-id="1_is3kdcrf" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_is3kdcrf/version/100061/width/800/height/450",The Son
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="The Son (2022)" tmdb-id="806368" tvg-id="1_is3kdcrf" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_is3kdcrf/version/100061/width/800/height/450",The Son (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_is3kdcrf/v/1/ev/11/flavorId/1_,50wczzei,xrcwultk,01tvl0lj,40pvgqyy,l8jju92b,zihx94hm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Transcendance (2014)" tmdb-id="157353" tvg-id="1_dx4h6qnp" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_dx4h6qnp/version/100061/width/800/height/450",Transcendance (2014)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_dx4h6qnp/v/1/ev/11/flavorId/1_,b5el48ad,spk6zdde,urol0akm,po96ifid,1px2sr4r,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Transformers: Le Commencement(2024)" tmdb-id="698687" tvg-id="1_uiot9ae0" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_uiot9ae0/version/100001/width/800/height/450",Transformers: Le Commencement(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Transformers: Le Commencement (2024)" tmdb-id="698687" tvg-id="1_uiot9ae0" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_uiot9ae0/version/100001/width/800/height/450",Transformers: Le Commencement (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_uiot9ae0/v/1/ev/11/flavorId/1_,jpys6e7l,x9iv1ru2,l4bj59si,eeb3f0jg,pwm4w5rc,6fby35ww,murdqxlc,vjlh2drm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Tron Ares.2025" tmdb-id="533533" tvg-id="1_z7b3cxg8" tvg-logo="https://image.tmdb.org/t/p/original/ihE2FqjWIucrAYs6vVQyUrw2KAM.jpg",Tron Ares.2025
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Tron Ares (2025)" tmdb-id="533533" tvg-id="1_z7b3cxg8" tvg-logo="https://image.tmdb.org/t/p/original/ihE2FqjWIucrAYs6vVQyUrw2KAM.jpg",Tron Ares (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z7b3cxg8/v/1/ev/13/flavorId/1_,sirildcu,rjtjxw60,m1g3hcxk,r3hshtn8,z2n0hesl,2o8lj51h,nquyfck4,dyu1xzj7,lsevalon,hoymgbrd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="Werewolves(2024)" tmdb-id="970450" tvg-id="1_5jcw4rbz" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_5jcw4rbz/version/100041/width/800/height/450",Werewolves(2024)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="Werewolves (2024)" tmdb-id="970450" tvg-id="1_5jcw4rbz" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_5jcw4rbz/version/100041/width/800/height/450",Werewolves (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_5jcw4rbz/v/1/ev/11/flavorId/1_,lkqw3fhx,tkyaf9vy,i1wy7nf3,4y4r10q3,tvglsz7b,fby9s0nj,5xxs8evc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="White Bird(2023)" tmdb-id="779816" tvg-id="1_clupypfg" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_clupypfg/version/100051/width/800/height/450",White Bird(2023)
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="White Bird (2023)" tmdb-id="779816" tvg-id="1_clupypfg" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_clupypfg/version/100051/width/800/height/450",White Bird (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_clupypfg/v/1/ev/11/flavorId/1_,phu1vdpl,tzoq5o3d,7h744tes,fuabaxdv,ann40tuu,57ovnb5o,ziw73lgw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="X-Men Origins: Wolverine" tmdb-id="2080" tvg-id="1_unkwxnqu" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_unkwxnqu/version/100051/width/800/height/450",X-Men Origins: Wolverine
+#EXTINF:-1 group-title="Science-Fiction" tvg-name="X-Men Origins : Wolverine (2009)" tmdb-id="2080" tvg-id="1_unkwxnqu" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_unkwxnqu/version/100051/width/800/height/450",X-Men Origins : Wolverine (2009) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_unkwxnqu/v/1/ev/11/flavorId/1_,8781ztzm,n0r9r333,3k7dlw58,cq4ugi1b,ywnwfk9m,rd0zq30y,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Yummy 2019" tmdb-id="633604" tvg-id="1_69g33azw" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_69g33azw/version/100011/width/800/height/450",Yummy 2019
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_69g33azw/v/1/ev/11/flavorId/1_,l0hog4u7,de32rb8n,c5n7a7iy,kcmo979z,mmoy1fg4,dlsvig6q,3dxpdjuw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 # ===== Thriller =====
-#EXTINF:-1 group-title="Thriller" tvg-name="Échec et mort(2024)" tmdb-id="1290697" tvg-id="1_zvt9t8ge" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_zvt9t8ge/version/100051/width/800/height/450",Échec et mort(2024)
+#EXTINF:-1 group-title="Thriller" tvg-name="Échec et mort (2024)" tmdb-id="1290697" tvg-id="1_zvt9t8ge" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_zvt9t8ge/version/100051/width/800/height/450",Échec et mort (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_zvt9t8ge/v/1/ev/11/flavorId/1_,g9vigheq,6t9tdwzf,iv5fszxv,l4k2yeab,h9b5xvqo,d7hfgm8p,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Insaisissables 3" tmdb-id="425274" tvg-id="1_rzoizs1m" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_s2tqnx2t/version/1",Insaisissables 3 (2025)
+#EXTINF:-1 group-title="Thriller" tvg-name="Insaisissables 3 (2025)" tmdb-id="425274" tvg-id="1_rzoizs1m" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_s2tqnx2t/version/1",Insaisissables 3 (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rzoizs1m/v/1/ev/5/flavorId/1_,yo567e84,a25t53vf,5dy88144,pmbz89ef,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Joker : Folie à deux (2024)" tmdb-id="889737" tvg-id="1_kajrjg9c" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_kajrjg9c/version/100021/width/800/height/450",Joker : Folie à deux (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_kajrjg9c/v/1/ev/11/flavorId/1_,5e6t8jj5,0g6ateqy,jp7ysk6g,feli8wo5,vojrqsv9,t7yiqrjx,4q6s1svp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="La Malédiction de Raven's Hollow" tmdb-id="996581" tvg-id="1_2danhwzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2danhwzd/version/100051/width/800/height/450",La Malédiction de Raven's Hollow
+#EXTINF:-1 group-title="Thriller" tvg-name="La Malédiction de Raven's Hollow (2022)" tmdb-id="996581" tvg-id="1_2danhwzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2danhwzd/version/100051/width/800/height/450",La Malédiction de Raven's Hollow (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2danhwzd/v/1/ev/11/flavorId/1_,psj9w3fg,xftabi5d,1ixhp73h,7pkpegfq,kn6pcyy7,yn92eadq,sp0tctb5,ls282mx0,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="La Plateforme" tmdb-id="619264" tvg-id="1_97qljzu1" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_97qljzu1/version/100051/width/800/height/450",La Plateforme
+#EXTINF:-1 group-title="Thriller" tvg-name="La Plateforme (2019)" tmdb-id="619264" tvg-id="1_97qljzu1" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_97qljzu1/version/100051/width/800/height/450",La Plateforme (2019) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_97qljzu1/v/1/ev/11/flavorId/1_,eh7j766f,yk4q9wgz,p2jy1zm5,e6e81ekz,n3cs05cu,ayz76m72,lvvfzf91,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="La Plateforme 2" tmdb-id="1125510" tvg-id="1_guxx4kv6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_guxx4kv6/version/100031/width/800/height/450",La Plateforme 2
+#EXTINF:-1 group-title="Thriller" tvg-name="La Plateforme 2 (2024)" tmdb-id="1125510" tvg-id="1_guxx4kv6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_guxx4kv6/version/100031/width/800/height/450",La Plateforme 2 (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_guxx4kv6/v/1/ev/11/flavorId/1_,uuvpn51g,mkgsc9p9,fr3g31s4,h73chc4r,oks1pjkj,11v2e2ir,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="La Soupe aux choux" tmdb-id="9317" tvg-id="1_2q96w3xy" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2q96w3xy/version/100061/width/800/height/450",La Soupe aux choux
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2q96w3xy/v/1/ev/11/flavorId/1_,stlqt1h3,vo4gior4,a7i5xn78,w663013l,g45xe62a,h4ilw2qy,ahl4cd3m,g8msf8aw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Missing : Disparition inquiètante" tmdb-id="768362" tvg-id="1_cpp7ck12" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cpp7ck12/version/100041/width/800/height/450",Missing : Disparition inquiètante
+#EXTINF:-1 group-title="Thriller" tvg-name="Missing : Disparition inquiétante (2023)" tmdb-id="768362" tvg-id="1_cpp7ck12" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cpp7ck12/version/100041/width/800/height/450",Missing : Disparition inquiétante (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_cpp7ck12/v/1/ev/11/flavorId/1_,04hxinfi,kxpiyao8,gwswxg24,dkaymsdf,e23erfdj,ae4br89s,4q5v8bms,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Promising young woman" tmdb-id="582014" tvg-id="1_ir8gnylm" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ir8gnylm/version/100011/width/800/height/450",Promising young woman
+#EXTINF:-1 group-title="Thriller" tvg-name="Promising Young Woman (2020)" tmdb-id="582014" tvg-id="1_ir8gnylm" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ir8gnylm/version/100011/width/800/height/450",Promising Young Woman (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ir8gnylm/v/1/ev/11/flavorId/1_,vctr7fkg,iturcfy1,r4jcp02o,91okfpvq,r25efhnz,5bw1x92n,wfqdrn40,omzfavg7,dj5pm7jd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="scream 6" tmdb-id="934433" tvg-id="1_3wmxdtz4" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_3wmxdtz4/version/100051/width/800/height/450",scream 6
+#EXTINF:-1 group-title="Thriller" tvg-name="Scream VI (2023)" tmdb-id="934433" tvg-id="1_3wmxdtz4" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_3wmxdtz4/version/100051/width/800/height/450",Scream VI (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_3wmxdtz4/v/1/ev/9/flavorId/1_,l9ew1tqj,s2ftbmeu,gnhunjj5,a4amvhd8,c4krn7yc,ewyivlnp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Scream VI 2023" tmdb-id="934433" tvg-id="1_t63pofih" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t63pofih/version/100021/width/800/height/450",Scream VI 2023
+#EXTINF:-1 group-title="Thriller" tvg-name="Scream VI (2023)" tmdb-id="934433" tvg-id="1_t63pofih" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t63pofih/version/100021/width/800/height/450",Scream VI /(2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_t63pofih/v/1/ev/11/flavorId/1_,istaaghj,329gp8ry,9v18r2eg,00brz4o4,1afxjyhf,8zc8pixa,myextoeq,n39gvnbd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="songbird" tmdb-id="721625" tvg-id="1_6183lw0s" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_6183lw0s/version/100011/width/800/height/450",songbird
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_6183lw0s/v/1/ev/11/flavorId/1_,297v68sz,ddtxs7yh,9l1q02hs,92ko9360,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Survive.2020" tmdb-id="1064243" tvg-id="1_uo1h7g4w" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_uo1h7g4w/version/100061/width/800/height/450",Survive.2020
+#EXTINF:-1 group-title="Thriller" tvg-name="Survive (2020)" tmdb-id="1064243" tvg-id="1_uo1h7g4w" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_uo1h7g4w/version/100061/width/800/height/450",Survive (2020)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_uo1h7g4w/v/1/ev/11/flavorId/1_,uhtmettc,59b3rk8w,55yal8ih,mu8ptoqg,bwnqsqf7,5ltgi8b2,zmkx6s9u,wwghh7jh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="The Beekeeper(2024)" tmdb-id="866398" tvg-id="1_g66kihf8" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_g66kihf8/version/100061/width/800/height/450",The Beekeeper(2024)
+#EXTINF:-1 group-title="Thriller" tvg-name="The Beekeeper(2024)" tmdb-id="866398" tvg-id="1_g66kihf8" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_g66kihf8/version/100061/width/800/height/450",The Beekeeper (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_g66kihf8/v/1/ev/11/flavorId/1_,8963j3l8,3evxas0k,nykzz7oo,ki3hpa91,0ld0w6pu,d6jget2l,uj0uzkuq,n3nanmaj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="The Big Ugly" tmdb-id="714521" tvg-id="1_hw84jofb" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg",The Big Ugly (2020)
+#EXTINF:-1 group-title="Thriller" tvg-name="The Big Ugly (2020)" tmdb-id="714521" tvg-id="1_hw84jofb" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg",The Big Ugly (2020)
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="The Neighbor in the Window" tmdb-id="673247" tvg-id="1_9hyfn0wn" tvg-logo="https://image.tmdb.org/t/p/original/eI402w3JYU8kwlTMCULcUNOYM04.jpg",The Neighbor in the Window (2020)
+#EXTINF:-1 group-title="Thriller" tvg-name="The Neighbor in the Window (2020)" tmdb-id="673247" tvg-id="1_9hyfn0wn" tvg-logo="https://image.tmdb.org/t/p/original/eI402w3JYU8kwlTMCULcUNOYM04.jpg",The Neighbor in the Window (2020)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9hyfn0wn/v/1/ev/11/flavorId/1_,ta7hm267,0n4k04hc,y31q8pe1,qzg3n5w6,rfmpqdmj,bsqql4ho,fau0kx60,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="The Nocebo Effect" tmdb-id="782936" tvg-id="1_k5uuho3y" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_k5uuho3y/version/100041/width/800/height/450",The Nocebo Effect
+#EXTINF:-1 group-title="Thriller" tvg-name="The Nocebo Effect (2022)" tmdb-id="782936" tvg-id="1_k5uuho3y" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_k5uuho3y/version/100041/width/800/height/450",The Nocebo Effect (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Turbulence" tmdb-id="1401778" tvg-id="1_rmqvdufq" tvg-logo="https://image.tmdb.org/t/p/original/hxlXnqugycl75Rov3ph7WODgLGm.jpg",Turbulence (2025)
+#EXTINF:-1 group-title="Thriller" tvg-name="Turbulence (2025)" tmdb-id="1401778" tvg-id="1_rmqvdufq" tvg-logo="https://image.tmdb.org/t/p/original/hxlXnqugycl75Rov3ph7WODgLGm.jpg",Turbulence (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rmqvdufq/v/1/ev/12/flavorId/1_,1ti81sg0,7yxhhktm,eob3hv7g,1vosjdu0,nkqpuepm,112wre92,4kokohju,38whqty2,rhkxvpaq,eplhg5pe,15qlriwm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
