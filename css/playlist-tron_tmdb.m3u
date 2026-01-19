@@ -575,7 +575,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_1zugsvr4/v/1/ev/11/flavorId/1_,x1ma0v3v,1bdf6j22,6p0v04ct,5zhy8ypw,fe6k1j14,0cn0vfy2,bcfn40w0,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 group-title="Horreur" tmdb-id="774301" tvg-id="1_9qvpf1vr" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9qvpf1vr/version/100051/width/800/height/450" tvg-name="American murderer",American murderer
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9qvpf1vr/v/1/ev/11/flavorId/1_,kogn1ubf,im720ejb,qczov3y2,ksmywc6g,eas7u790,fkq16d9f,xhtagqja,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-#EXTINF:-1 group-title="Horreur" tmdb-id="1118031" tvg-id="1_rfalyud3" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9qvpf1vr/version/100051/width/800/height/450" tvg-name="Apocalypse Z : Le début de la fin.2024",Apocalypse Z : Le début de la fin.2024
+#EXTINF:-1 group-title="Horreur" tmdb-id="1118031" tvg-id="1_rfalyud3" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9qvpf1vr/version/100051/width/800/height/450" tvg-name="Apocalypse Z : le début de la fin (2024)",Apocalypse Z : le début de la fin (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rfalyud3/v/1/ev/11/flavorId/1_,issvbdqf,m6g0ynvf,ge7q2c32,ih64n6so,ab9ir9nf,ct25vo6h,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 group-title="Horreur" tmdb-id="1000075" tvg-id="1_hkh25fdf" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hkh25fdf/version/100051/width/800/height/450" tvg-name="Largo Winch : Le Prix de l'argent.2024",Largo Winch : Le Prix de l'argent.2024
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hkh25fdf/v/1/ev/11/flavorId/1_,b4ydmhof,k90t1px9,uqr1trh4,1etb73q3,feoxkt5a,l82uy3y0,itcxxuyz,gc1911v7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -810,6 +810,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_k5uuho3y/v/1,/ev/11/flavorId/1_mex3kp9n,/ev/11/flavorId/1_nufky9sd,/ev/11/flavorId/1_82txdw9m,/ev/11/flavorId/1_pasixxyb,/ev/11/flavorId/1_jf7zzf3i,/ev/11/flavorId/1_wrhfprks,1/ev/11/flavorId/1_ts5yqteb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 group-title="Thriller" tmdb-id="714521" tvg-id="1_hw84jofb" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg" tvg-name=" The Big Ugly", The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
