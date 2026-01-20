@@ -518,10 +518,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Aventure" tvg-name="X-Men Origins : Wolverine (2009)" tmdb-id="2080" tvg-id="1_unkwxnqu" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_unkwxnqu/version/100051/width/800/height/450",X-Men Origins : Wolverine (2009) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_unkwxnqu/v/1/ev/11/flavorId/1_,8781ztzm,n0r9r333,3k7dlw58,cq4ugi1b,ywnwfk9m,rd0zq30y,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-# ===== C =====
-#EXTINF:-1 group-title="C" tvg-name="Divorce club" tmdb-id="665488" tvg-id="1_9imxsts5" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9imxsts5/version/100051/width/800/height/450",Divorce club Comédie
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9imxsts5/v/1/ev/11/flavorId/1_,5pq2uz7i,cdae9k4m,v54a6e2v,411r88u7,ytx8lb9z,ws23ca90,drf6fsci,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 # ===== Comédie =====
 #EXTINF:-1 group-title="Comédie" tvg-name="Breaking and exiting" tvg-id="1_qk0sn88r" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_qk0sn88r/version/100011/width/800/height/450",Breaking and exiting
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_qk0sn88r/v/1/ev/11/flavorId/1_,qwwyqbsl,lycpwza8,x3zcfadz,u044y5wg,3dzaumq8,ae9pnv8y,9yolks9n,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -540,6 +536,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Comédie" tvg-name="The Binge 2 : joyeuses fêtes (2022)" tmdb-id="1026624" tvg-id="1_hjv7e3hs" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hjv7e3hs/version/100051/width/800/height/450",The Binge 2 : joyeuses fêtes (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hjv7e3hs/v/1/ev/11/flavorId/1_,ow7h088u,lumf7hdq,sgvsbd3l,gunklkwj,rh3kwror,c7lg857y,j30mbhi5,wexrrm4j,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Comédie" tvg-name=" Divorce Club (2020) " tmdb-id="665488" tvg-id="1_9imxsts5" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9imxsts5/version/100051/width/800/height/450",Divorce Club (2020) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9imxsts5/v/1/ev/11/flavorId/1_,5pq2uz7i,cdae9k4m,v54a6e2v,411r88u7,ytx8lb9z,ws23ca90,drf6fsci,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Comédie" tvg-name="Un prince à New York 2" tmdb-id="484718" tvg-id="1_svu3s6or" tvg-logo="https://image.tmdb.org/t/p/original/g4JxfzxYUSBlU8hdzUGxNGF5yJm.jpg",Un prince à New York 2 (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z8elv6tm/v/1/ev/11/flavorId/1_,sk28rvd7,0dizeosx,brfcipk2,5buqlbdg,woad22xh,nnxadsxl,nr6b4y9d,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1211,4 +1210,5 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
