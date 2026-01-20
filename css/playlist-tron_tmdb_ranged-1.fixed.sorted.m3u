@@ -316,6 +316,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Animation" tvg-name="Kubo et l'armure magique (2016)" tmdb-id="313297" tvg-id="1_ylcnv9jt" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ylcnv9jt/version/100051/width/800/height/450",Kubo et l'armure magique (2016) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ylcnv9jt/v/1/ev/11/flavorId/1_,cv6hq9gv,7q11tjyr,yymhrq2m,c40w7ncg,tuqqwh3k,r2ukry1j,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title=" Animation" tvg-name="Moi, moche et méchant 4 (2024)" tmdb-id="519182" tvg-id="1_y7a5qmjb" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_y7a5qmjb/version/100021/width/800/height/450",Moi, moche et méchant 4 (2024) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_y7a5qmjb/v/1/ev/11/flavorId/1_,e6756qzj,cy2rqaxz,1fikj1cw,8zvvaz1q,52yoh6r1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 #EXTINF:-1 group-title="Animation" tvg-name="La Fabrique des Monstres (2025)" tmdb-id="1214130" tvg-id="1_glzbp9ji" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_bkdy1rd8/version/1",La Fabrique des Monstres (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_glzbp9ji/v/1/ev/11/flavorId/1_,ggeldfuu,kft3apmp,hbwzngru,jkcxh3eg,1gyi2q23,jng8oc6q,ym01ic02,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -591,10 +594,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Crime" tvg-name="The Batman (2022)" tmdb-id="414906" tvg-id="1_8dm2jc9p" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_8dm2jc9p/version/100051/width/800/height/450",The Batman (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_8dm2jc9p/v/1/ev/11/flavorId/1_,q818572p,bc8y9rol,4162jbw8,paa5n804,seibmqa7,w34m7dj4,505izf0g,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-# ===== Divers =====
-#EXTINF:-1 group-title="Divers" tvg-id="1_n6qy7o0p",Boney M, ABBA, Lionel Richie 🪩 Disco Songs 80s 90s Legend
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_n6qy7o0p/v/1/ev/11/flavorId/1_,onmdodtq,ykrrgdcr,16iv2dgv,3i7zbypc,cssv5q02,fq1zn4dk,wik14twv,che6zx2l,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 # ===== Drame =====
 #EXTINF:-1 group-title="Drame" tvg-name="Amy Thompson, le combat d'une mère (2020)" tmdb-id="673553" tvg-id="1_xhv9q5c6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_xhv9q5c6/version/100001/width/800/height/450",Amy Thompson, le combat d'une mère (2020) 
@@ -1064,7 +1063,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="La Plateforme 2 (2024)" tmdb-id="1125510" tvg-id="1_guxx4kv6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_guxx4kv6/version/100031/width/800/height/450",La Plateforme 2 (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_guxx4kv6/v/1/ev/11/flavorId/1_,uuvpn51g,mkgsc9p9,fr3g31s4,h73chc4r,oks1pjkj,11v2e2ir,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="La Soupe aux choux (1981)" tmdb-id="9317" tvg-id="1_2q96w3xy" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2q96w3xy/version/100061/width/800/height/450",La Soupe aux choux (1981) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2q96w3xy/v/1/ev/11/flavorId/1_,stlqt1h3,vo4gior4,a7i5xn78,w663013l,g45xe62a,h4ilw2qy,ahl4cd3m,g8msf8aw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -1086,9 +1084,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Megalopolis (2024)" tmdb-id="592831" tvg-id="1_9zjp7fje" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9zjp7fje/version/100051/width/800/height/450",Megalopolis (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9zjp7fje/v/1/ev/11/flavorId/1_,hff47uzy,njtxwp60,ny71jf8l,qnlxcahv,h2rf5s60,dccqog6i,26c6mhgr,16dfvyiu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="moche et méchant 4" tmdb-id="519182" tvg-id="1_y7a5qmjb" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_y7a5qmjb/version/100021/width/800/height/450",Moi, moche et méchant 4 Familial Comédie Science-Fiction Animation
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_y7a5qmjb/v/1/ev/11/flavorId/1_,e6756qzj,cy2rqaxz,1fikj1cw,8zvvaz1q,52yoh6r1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Osiris (2025)" tmdb-id="1241470" tvg-id="1_blhr9r0z" tvg-logo="https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg",Osiris (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_blhr9r0z/v/1/ev/10/flavorId/1_,7t1gebhn,5v3zj7u6,vpaat6qs,ckifi1dt,qjeuzuok,kx6vr0ef,7v2phwrn,m31k2xdg,yqk370zn,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -1108,7 +1103,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_gwpkhy9w/v/1/ev/11/flavorId/1_,vlv97kli,4thab8gg,zyti5ozg,yxuvdw33,r31uou1x,xk4yssrz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 # ===== Thriller =====
-#EXTINF:-1 group-title="Thriller" tvg-name="Centigrade" tmdb-id="680028" tvg-id="1_rn7pmwqn" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_rn7pmwqn/version/100011/width/800/height/450",Centigrade Thriller
+#EXTINF:-1 group-title="Thriller" tvg-name="Centigrade (2022)" tmdb-id="680028" tvg-id="1_rn7pmwqn" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_rn7pmwqn/version/100011/width/800/height/450",Centigrade (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rn7pmwqn/v/1/ev/11/flavorId/1_,tkz14yxs,t54m8w85,bvpvxjs5,057iafxr,7c5ad1y0,25osa3if,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Concrete Utopia(2023)" tmdb-id="729854" tvg-id="1_oyjb4r2o" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_oyjb4r2o/version/100041/width/800/height/450",Concrete Utopia (2023) 
@@ -1117,16 +1112,16 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Thriller" tvg-name="Cross the Line (2020)" tmdb-id="681580" tvg-id="1_33nmmndd" tvg-logo="https://image.tmdb.org/t/p/original/33ojlp0sOzrpq0l57ejSQfTKRWh.jpg",Cross the Line (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_33nmmndd/v/1/ev/11/flavorId/1_,f22bfcr4,il23phul,fh2ydhuv,t5tjkn93,wpnmiiew,kl9sfqja,t21laspt,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Dans leur ombre" tmdb-id="1063422" tvg-id="1_7f8q2371" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_7f8q2371/version/100041/width/800/height/450",Dans leur ombre Thriller
+#EXTINF:-1 group-title="Thriller" tvg-name="Dans leur ombre (2023)" tmdb-id="1063422" tvg-id="1_7f8q2371" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_7f8q2371/version/100041/width/800/height/450",Dans leur ombre (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_7f8q2371/v/1/ev/11/flavorId/1_,rol4c269,tipyrh9i,j9v7d4qp,7r9znb81,6ec2kbr1,2nr1jmo1,5ih6f660,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Door Mouse" tmdb-id="807023" tvg-id="1_cp1160kf" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cp1160kf/version/100051/width/800/height/450",Door Mouse Drame Mystère Thriller
+#EXTINF:-1 group-title="Thriller" tvg-name="Door Mouse (2023)" tmdb-id="807023" tvg-id="1_cp1160kf" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cp1160kf/version/100051/width/800/height/450",Door Mouse (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_cp1160kf/v/1/ev/11/flavorId/1_,k8yjn24v,7zudjgfh,p5dx2o7g,aginb282,xrizdzbh,ibhoms9j,5pb3sjmd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Échec et mort (2024)" tmdb-id="1290697" tvg-id="1_zvt9t8ge" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_zvt9t8ge/version/100051/width/800/height/450",Échec et mort (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_zvt9t8ge/v/1/ev/11/flavorId/1_,g9vigheq,6t9tdwzf,iv5fszxv,l4k2yeab,h9b5xvqo,d7hfgm8p,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Infinity Pool" tmdb-id="667216" tvg-id="1_a4i11jh6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_a4i11jh6/version/100041/width/800/height/450",Infinity Pool Thriller Science-Fiction Horreur
+#EXTINF:-1 group-title="Thriller" tvg-name="Piscine à débordement (2023)" tmdb-id="667216" tvg-id="1_a4i11jh6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_a4i11jh6/version/100041/width/800/height/450",Piscine à débordement (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_a4i11jh6/v/1/ev/11/flavorId/1_,hig6xr77,awx4v6jn,x723mvf9,tev76q45,1nl9mr3z,2hc6w942,ka5evv3t,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Insaisissables 3 (2025)" tmdb-id="425274" tvg-id="1_rzoizs1m" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_s2tqnx2t/version/1",Insaisissables 3 (2025) 
@@ -1141,10 +1136,10 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Thriller" tvg-name="La Malédiction de Raven's Hollow (2022)" tmdb-id="996581" tvg-id="1_2danhwzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2danhwzd/version/100051/width/800/height/450",La Malédiction de Raven's Hollow (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2danhwzd/v/1/ev/11/flavorId/1_,psj9w3fg,xftabi5d,1ixhp73h,7pkpegfq,kn6pcyy7,yn92eadq,sp0tctb5,ls282mx0,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="La Piscine.1969" tmdb-id="4946" tvg-id="1_f0pbqyqx" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_f0pbqyqx/version/100061/width/800/height/450",La Piscine.1969 Thriller Drame
+#EXTINF:-1 group-title="Thriller" tvg-name="La Piscine (1969)" tmdb-id="4946" tvg-id="1_f0pbqyqx" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_f0pbqyqx/version/100061/width/800/height/450",La Piscine (1969) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_f0pbqyqx/v/1/ev/11/flavorId/1_,7ne5pa19,hx7swdyt,o7ownzl0,ee24ovcc,0t38l4w2,0zvqick8,wf52c6kw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Les Lignes courbes de Dieu" tmdb-id="890980" tvg-id="1_0yvpcdft" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_0yvpcdft/version/100041/width/800/height/450",Les Lignes courbes de Dieu Drame Mystère Thriller
+#EXTINF:-1 group-title="Thriller" tvg-name="Les Lignes courbes de Dieu (2022)" tmdb-id="890980" tvg-id="1_0yvpcdft" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_0yvpcdft/version/100041/width/800/height/450",Les Lignes courbes de Dieu (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_0yvpcdft/v/1/ev/11/flavorId/1_,nj3xvoa3,x66s5z3l,4zmlpjta,1fazb61u,zovc15wb,jd0etkna,20t821qa,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Ma fille, star des réseaux sociaux... (2019)" tmdb-id="604092" tvg-id="1_es5tp00z" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_es5tp00z/version/100021/width/800/height/450",Ma fille, star des réseaux sociaux... (2019) 
@@ -1159,7 +1154,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Thriller" tvg-name="Nowhere (2023)" tmdb-id="1151534" tvg-id="1_s3rsbept" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_s3rsbept/version/100001/width/800/height/450",Nowhere (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_s3rsbept/v/1/ev/11/flavorId/1_,j6778dmq,pulcunel,n2s6h5zf,wgo469nq,ovz44nkv,hdmxv8hb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="Pacifiction - Tourment sur les îles" tmdb-id="691214" tvg-id="1_1xorycs0" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_1xorycs0/version/100041/width/800/height/450",Pacifiction - Tourment sur les îles Thriller Drame
+#EXTINF:-1 group-title="Thriller" tvg-name="Pacifiction : Tourment sur les îles (2022)" tmdb-id="691214" tvg-id="1_1xorycs0" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_1xorycs0/version/100041/width/800/height/450",Pacifiction : Tourment sur les îles (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_1xorycs0/v/1/ev/11/flavorId/1_,8df4qd35,gitimhbm,vqpzfngd,lehznjch,43q4mehe,r0cwzx8a,f3ngue4s,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Project Silence (2024)" tmdb-id="726139" tvg-id="1_6jn1czy5" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_6jn1czy5/version/100041/width/800/height/450",Project Silence (2024) 
@@ -1171,7 +1166,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Thriller" tvg-name="Sentinelle (2021)" tmdb-id="793723" tvg-id="1_0ubmry3y" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_0ubmry3y/version/100011/width/800/height/450",Sentinelle (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_0ubmry3y/v/1/ev/11/flavorId/1_,xnzqmcvh,ppe6tztj,ijpyfaf2,l54tfsd1,f01sr7yt,sgmstfn9,axquak3x,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="songbird" tmdb-id="721625" tvg-id="1_6183lw0s" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_6183lw0s/version/100011/width/800/height/450",songbird Thriller Science-Fiction
+#EXTINF:-1 group-title="Thriller" tvg-name="Songbird (2020)" tmdb-id="721625" tvg-id="1_6183lw0s" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_6183lw0s/version/100011/width/800/height/450",Songbird (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_6183lw0s/v/1/ev/11/flavorId/1_,297v68sz,ddtxs7yh,9l1q02hs,92ko9360,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="Survive (2020)" tmdb-id="1064243" tvg-id="1_uo1h7g4w" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_uo1h7g4w/version/100061/width/800/height/450",Survive (2020) 
@@ -1186,7 +1181,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Thriller" tvg-name="The Big Ugly (2020)" tmdb-id="714521" tvg-id="1_hw84jofb" tvg-logo="https://image.tmdb.org/t/p/original/mCYkwkB8NpiSHt8A3n9wg5awdbN.jpg",The Big Ugly (2020) 
 https://kalhlspd-a.akamaihd.net/dash/p/3418233/sp/341823300/serveFlavor/entryId/1_hw84jofb/v/1/ev/8/flavorId/1_,smcl53sb,tgm19r83,eclp6gdl,jaq3od3e,s5iaqbot,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Thriller" tvg-name="The block island sound" tmdb-id="731740" tvg-id="1_szxmx5jj" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_szxmx5jj/version/100011/width/800/height/450",The block island sound Horreur Science-Fiction Thriller Mystère
+#EXTINF:-1 group-title="Thriller" tvg-name="The Block Island Sound (2021)" tmdb-id="731740" tvg-id="1_szxmx5jj" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_szxmx5jj/version/100011/width/800/height/450",The Block Island Sound (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_szxmx5jj/v/1/ev/11/flavorId/1_,h06bu5oy,8oiut24b,x4rp1120,5oxtak3o,15zu7ga8,2433615m,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Thriller" tvg-name="The Neighbor in the Window (2020)" tmdb-id="673247" tvg-id="1_9hyfn0wn" tvg-logo="https://image.tmdb.org/t/p/original/eI402w3JYU8kwlTMCULcUNOYM04.jpg",The Neighbor in the Window (2020) 
@@ -1210,5 +1205,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
