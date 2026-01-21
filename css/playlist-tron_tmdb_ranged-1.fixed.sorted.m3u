@@ -451,6 +451,18 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Animation" tvg-name="Zootopie 2 (2025)" tmdb-id="1084242" tvg-id="1_j75qxtt5" tvg-logo="https://image.tmdb.org/t/p/original/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg",Zootopie 2 (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_j75qxtt5/v/1/ev/12/flavorId/1_,qc2ya0qo,clq9rnjn,jmvbr35z,4qlkmv24,wf91yv28,8zvu2pn7,6w6v90m6,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title="Animation" tvg-name="La chance sourit à madame Nikuko (2021)" tmdb-id="781816" tvg-id="1_df04b529" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_df04b529/version/100031/width/800/height/450",La chance sourit à madame Nikuko (2021) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_df04b529/v/1/ev/11/flavorId/1_,ypun2awn,6i3gjq6m,tzwc955n,xmtuvdla,e3fxcxil,ae236ov7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Animation" tvg-name="La Princesse et le monstre charmant (2021)" tmdb-id="576925" tvg-id="1_g0rrx8jt" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_g0rrx8jt/version/100061/width/800/height/450",La Princesse et le monstre charmant (2021)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_g0rrx8jt/v/1/ev/11/flavorId/1_,x9dvkj1r,50r2rqul,d91e0n2e,wykk2eqb,s5vpruwb,qxgkkwnv,sdnrgfvj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Animation" tvg-name="Les Monstres du foot (2022)" tmdb-id="1037858" tvg-id="1_5fqbv9np" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_5fqbv9np/version/100061/width/800/height/450",Les Monstres du foot (2022)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_5fqbv9np/v/1/ev/11/flavorId/1_,kvfywvua,9hofuo2s,iwgpw50c,8qt4bwij,elycz2sr,ap74rocs,z1ouyvr3,s9t5a4d4,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Animation," tvg-name="Sacrées Momies (2023)" tmdb-id="816904" tvg-id="1_3nzu2p3l" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_3nzu2p3l/version/100041/width/800/height/450",Sacrées Momies (2023)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_3nzu2p3l/v/1/ev/11/flavorId/1_,2ab0n626,vutq6f0q,ueswvydf,4xy6xgmm,kjpv20yv,06o4ztws,i3yq5bac,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 # ===== Aventure =====
 #EXTINF:-1 group-title="Aventure" tvg-name="Ainbo, princesse d'Amazonie (2021)" tmdb-id="588921" tvg-id="1_9kjhi2d2" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9kjhi2d2/version/100071/width/800/height/450",Ainbo, princesse d'Amazonie (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9kjhi2d2/v/1/ev/11/flavorId/1_,c5mnubo5,maoannuj,g2v6z1m7,0kfwp92b,1yhvhlh2,1d3t5lwm,oss2tpdo,m2d64lp5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -546,6 +558,12 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Comédie" tvg-name="Un prince à New York 2" tmdb-id="484718" tvg-id="1_svu3s6or" tvg-logo="https://image.tmdb.org/t/p/original/g4JxfzxYUSBlU8hdzUGxNGF5yJm.jpg",Un prince à New York 2 (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_z8elv6tm/v/1/ev/11/flavorId/1_,sk28rvd7,0dizeosx,brfcipk2,5buqlbdg,woad22xh,nnxadsxl,nr6b4y9d,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title="Comédie" tvg-name="Docteur Jerry et Mister Love (1963)" tmdb-id="18331" tvg-id="1_myj6vmma" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_myj6vmma/version/100001/width/800/height/450",Docteur Jerry et Mister Love (1963) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_myj6vmma/v/1/ev/11/flavorId/1_,etjz09p9,xpkdlxuf,o1fcu0t4,pv79uw8b,6fpnappb,bmqds5c4,2xe05x2y,v8ulns11,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Comédie" tvg-name="La Soupe aux choux (1981)" tmdb-id="9317" tvg-id="1_2q96w3xy" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2q96w3xy/version/100061/width/800/height/450",La Soupe aux choux (1981) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2q96w3xy/v/1/ev/11/flavorId/1_,stlqt1h3,vo4gior4,a7i5xn78,w663013l,g45xe62a,h4ilw2qy,ahl4cd3m,g8msf8aw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 # ===== Crime =====
 #EXTINF:-1 group-title="Crime" tvg-name="American Murderer: La cavale sanglante (2022)" tmdb-id="774301" tvg-id="1_9qvpf1vr" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9qvpf1vr/version/100051/width/800/height/450",American Murderer: La cavale sanglante (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9qvpf1vr/v/1/ev/11/flavorId/1_,kogn1ubf,im720ejb,qczov3y2,ksmywc6g,eas7u790,fkq16d9f,xhtagqja,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -610,6 +628,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Drame" tvg-name="Bobby (1973)" tmdb-id="21496" tvg-id="1_rjh502l1" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_rjh502l1/version/100001/width/800/height/450",Bobby (1973) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_rjh502l1/v/1/ev/11/flavorId/1_,o08i2zrk,fppgeyn2,7uwicwdg,oiqpcira,veriu9tk,dneyc6fu,7vq3nofe,vdbs1bwx,xonvn6c7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Drame" tvg-name="La Boum (1980)" tmdb-id="166" tvg-id="1_azvf8urh" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_azvf8urh/version/100061/width/800/height/450",La Boum (1980)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_azvf8urh/v/1/ev/11/flavorId/1_,4rn23cwi,eql06cqk,irtt74gw,6qxag7so,mx8g1w1s,qppz405z,svdc9tsl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Drame" tvg-name="Brian and Charles (2022)" tmdb-id="913814" tvg-id="1_yh5shfcn" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_yh5shfcn/version/100061/width/800/height/450",Brian and Charles (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_yh5shfcn/v/1/ev/11/flavorId/1_,cw13eb8a,r9hcjvci,o2puel2j,6l8fxap4,zsl1rwvw,25ilswfb,4t0b9sqs,s0qsbssu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -795,14 +816,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Familial" tvg-name="La Belle et le Clochard (2019)" tmdb-id="512895" tvg-id="1_jo3lq3b8" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_jo3lq3b8/version/100061/width/800/height/450",La Belle et le Clochard (2019) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_jo3lq3b8/v/1/ev/11/flavorId/1_,wjb2grgy,6k72d3kw,49ahaoyq,bgtn4vaj,35zj01pr,3ddgo52w,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Familial" tvg-name="La Chance sourit à madame Nikuko" tmdb-id="781816" tvg-id="1_df04b529" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_df04b529/version/100031/width/800/height/450",La Chance sourit à madame Nikuko Animation Drame Familial Comédie
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_df04b529/v/1/ev/11/flavorId/1_,ypun2awn,6i3gjq6m,tzwc955n,xmtuvdla,e3fxcxil,ae236ov7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Familial" tvg-name="La Légende d'Ochi (2025)" tmdb-id="896536" tvg-id="1_whc1l3uh" tvg-logo="https://image.tmdb.org/t/p/original/8AkphEML5QRsMGjAkSDeskDeIQG.jpg",La Légende d'Ochi (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_whc1l3uh/v/1/ev/11/flavorId/1_,93zfj3xw,by30h56k,bsu1qlpj,ce3qckjs,q2364nuz,swr34ygy,ih877axq,w2eifj03,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 group-title="Familial" tvg-name="La Princesse et le monstre charmant" tmdb-id="576925" tvg-id="1_g0rrx8jt" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_g0rrx8jt/version/100061/width/800/height/450",La Princesse et le monstre charmant Familial Aventure Animation
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_g0rrx8jt/v/1/ev/11/flavorId/1_,x9dvkj1r,50r2rqul,d91e0n2e,wykk2eqb,s5vpruwb,qxgkkwnv,sdnrgfvj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Familial" tvg-name="Le Petit Nicolas (2009)" tmdb-id="31203" tvg-id="1_try8mae3" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_try8mae3/version/100061/width/800/height/450",Le Petit Nicolas (2009) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_try8mae3/v/1/ev/11/flavorId/1_,i2b44bai,oktt36vs,p6j8v58n,x4b9wqap,lpi7mtbq,6s5yvbwt,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -816,9 +831,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Familial" tvg-name="Les Minions 2 : Il était une fois Gru (2022)" tmdb-id="438148" tvg-id="1_fowryuig" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_fowryuig/version/100061/width/800/height/450",Les Minions 2 : Il était une fois Gru (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_fowryuig/v/1/ev/11/flavorId/1_,ipnukwtw,t81y11tc,yq1ozr0k,yhxv3ohb,wzr9txwr,i70gby7k,itta9j3r,gjh9hcg3,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Familial" tvg-name="Les Monstres du foot" tmdb-id="1037858" tvg-id="1_5fqbv9np" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_5fqbv9np/version/100061/width/800/height/450",Les Monstres du foot Animation Comédie Familial
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_5fqbv9np/v/1/ev/11/flavorId/1_,kvfywvua,9hofuo2s,iwgpw50c,8qt4bwij,elycz2sr,ap74rocs,z1ouyvr3,s9t5a4d4,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Familial" tvg-name="Minecraft, le film (2025)" tmdb-id="950387" tvg-id="1_jwc0qvjp" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_jwc0qvjp/version/100001/width/800/height/450",Minecraft, le film (2025) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_jwc0qvjp/v/1/ev/11/flavorId/1_,ofha2rws,fg9xghph,h2lboesd,6mwqk3cx,l4i3vhk3,4ri87xpx,wrworrcj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -827,9 +839,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Familial" tvg-name="Peter Pan et Wendy (2023)" tmdb-id="420808" tvg-id="1_gxkbydlz" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_gxkbydlz/version/100061/width/800/height/450",Peter Pan et Wendy (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_gxkbydlz/v/1/ev/11/flavorId/1_,8rco672j,9rfh0gcd,jkc7z4n3,4i6kr069,n6f2tly1,thupvi6h,kcyvxswu,gs2xoqcx,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 group-title="Familial" tvg-name="Sacrées momies" tmdb-id="816904" tvg-id="1_3nzu2p3l" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_3nzu2p3l/version/100041/width/800/height/450",Sacrées momies Familial Fantastique Aventure Animation
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_3nzu2p3l/v/1/ev/11/flavorId/1_,2ab0n626,vutq6f0q,ueswvydf,4xy6xgmm,kjpv20yv,06o4ztws,i3yq5bac,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Familial" tvg-name="Yes Day (2021)" tmdb-id="638597" tvg-id="1_yt17c7hu" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_yt17c7hu/version/100011/width/800/height/450",Yes Day (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_yt17c7hu/v/1/ev/11/flavorId/1_,z7nyrwlk,wvrghwqz,68u6f6oj,fhmabcbd,qkmla6xb,d4c623bz,uhtgvw85,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -989,12 +998,11 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Musique" tvg-name="La Fièvre du samedi soir (1977)" tmdb-id="11009" tvg-id="1_03xbn4fe" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_03xbn4fe/version/100011/width/800/height/450",La Fièvre du samedi soir (1977) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_03xbn4fe/v/1/ev/11/flavorId/1_,xixi9vi2,3r0if26y,5c5u66lq,6v83wy9l,tpas7dl4,2r849o7r,q8ggxzvs,0ju312tu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title="Musique" tvg-name="Praise This (2023)" tmdb-id="551806" tvg-id="1_kju98921" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_kju98921/version/100061/width/800/height/450",Praise This (2023) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_kju98921/v/1/ev/11/flavorId/1_,6b01a6og,ibmqi3q2,2vpmm6k4,cb1iw509,can1jyts,nygtf7kt,y6c5ryt3,oddy03ms,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 # ===== Romance =====
 #EXTINF:-1 group-title="Romance" tvg-name="Crazy about her" tmdb-id="778730" tvg-id="1_sf44v69d" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_sf44v69d/version/100021/width/800/height/450",Crazy about her Comédie Romance
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_sf44v69d/v/1/ev/11/flavorId/1_,zbu1i9ik,4i2ezo21,16s2knbf,xkbsc3v5,nx101jpm,wh4ziedy,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 group-title="Romance" tvg-name="Docteur Jerry et Mister Love.1963" tmdb-id="18331" tvg-id="1_myj6vmma" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_myj6vmma/version/100001/width/800/height/450",Docteur Jerry et Mister Love.1963 Comédie Romance Science-Fiction
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_myj6vmma/v/1/ev/11/flavorId/1_,etjz09p9,xpkdlxuf,o1fcu0t4,pv79uw8b,6fpnappb,bmqds5c4,2xe05x2y,v8ulns11,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Romance" tvg-name="D'un Noël à l'autre (2019)" tmdb-id="639422" tvg-id="1_o2cyqu5p" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_o2cyqu5p/version/100041/width/800/height/450",D'un Noël à l'autre (2019) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_o2cyqu5p/v/1/ev/11/flavorId/1_,pb65kest,b0ykncck,30ki46xl,p79su228,ilbcj0sa,r82yd9ma,savmaf6w,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1002,10 +1010,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Romance" tvg-name="Grease (1978)" tmdb-id="621" tvg-id="1_t7gdaguk" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t7gdaguk/version/100001/width/800/height/450",Grease (1978) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_t7gdaguk/v/1/ev/11/flavorId/1_,3fbdgrqb,rjrck4ch,4v9k2vja,26g1uqsg,aaux1axt,yd7i999f,ensvwd0c,y2o2c1bs,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Romance" tvg-name="La Boum.1980" tmdb-id="166" tvg-id="1_azvf8urh" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_azvf8urh/version/100061/width/800/height/450",La Boum.1980 Drame Romance Comédie
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_azvf8urh/v/1/ev/11/flavorId/1_,4rn23cwi,eql06cqk,irtt74gw,6qxag7so,mx8g1w1s,qppz405z,svdc9tsl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Romance" tvg-name="La Faute au karma" tmdb-id="648743" tvg-id="1_akq70hjm" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_akq70hjm/version/100061/width/800/height/450",La Faute au karma Romance Comédie
+#EXTINF:-1 group-title="Romance" tvg-name="La Faute au karma ? (2022)" tmdb-id="648743" tvg-id="1_akq70hjm" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_akq70hjm/version/100061/width/800/height/450", La Faute au karma ? (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_akq70hjm/v/1/ev/11/flavorId/1_,cr3zf9qd,l27w1cbn,81ozqbps,oxxwyaqp,iz66dtkb,unvpyn7e,7dczkbt3,4htkfq2g,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Romance" tvg-name="Mon inconnue (2019)" tmdb-id="570131" tvg-id="1_avc50r8j" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_avc50r8j/version/100011/width/800/height/450",Mon inconnue (2019) 
@@ -1013,9 +1019,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Romance" tvg-name="Persuasion" tmdb-id="820912" tvg-id="1_lba80kkd" tvg-logo="https://image.tmdb.org/t/p/original/sjfI0dQl48kdgKzBjLlR4xNeJ9S.jpg",Persuasion (2022) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_lba80kkd/v/1/ev/11/flavorId/1_,fkb0gb0i,k81wyor0,4db26jef,7tj0nzp6,4hs24u3z,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 group-title="Romance" tvg-name="Praise This" tmdb-id="551806" tvg-id="1_kju98921" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_kju98921/version/100061/width/800/height/450",Praise This Musique Romance Comédie
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_kju98921/v/1/ev/11/flavorId/1_,6b01a6og,ibmqi3q2,2vpmm6k4,cb1iw509,can1jyts,nygtf7kt,y6c5ryt3,oddy03ms,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Romance" tvg-name="Samson et Dalila (1949)" tmdb-id="29993" tvg-id="1_giieq7mp" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_giieq7mp/version/100001/width/800/height/450",Samson et Dalila (1949) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_giieq7mp/v/1/ev/11/flavorId/1_,q1byxjb2,6mifpxe5,69vuc57y,69gd0j6v,nxqqyck9,yvae0dey,1n1ehd00,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1062,9 +1065,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="La Plateforme 2 (2024)" tmdb-id="1125510" tvg-id="1_guxx4kv6" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_guxx4kv6/version/100031/width/800/height/450",La Plateforme 2 (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_guxx4kv6/v/1/ev/11/flavorId/1_,uuvpn51g,mkgsc9p9,fr3g31s4,h73chc4r,oks1pjkj,11v2e2ir,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 group-title="Science-Fiction" tvg-name="La Soupe aux choux (1981)" tmdb-id="9317" tvg-id="1_2q96w3xy" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2q96w3xy/version/100061/width/800/height/450",La Soupe aux choux (1981) 
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2q96w3xy/v/1/ev/11/flavorId/1_,stlqt1h3,vo4gior4,a7i5xn78,w663013l,g45xe62a,h4ilw2qy,ahl4cd3m,g8msf8aw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Science-Fiction" tvg-name="Le Cratère (2023)" tmdb-id="620705" tvg-id="1_cj5x4e08" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cj5x4e08/version/100041/width/800/height/450",Le Cratère (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_cj5x4e08/v/1/ev/11/flavorId/1_,leliwdns,yyc98d7a,kmd9p06f,gwsrt645,bidubf5g,1ey74c87,igzev5k0,nq4rigmp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1205,6 +1205,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
