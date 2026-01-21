@@ -316,7 +316,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Animation" tvg-name="Kubo et l'armure magique (2016)" tmdb-id="313297" tvg-id="1_ylcnv9jt" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ylcnv9jt/version/100051/width/800/height/450",Kubo et l'armure magique (2016) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ylcnv9jt/v/1/ev/11/flavorId/1_,cv6hq9gv,7q11tjyr,yymhrq2m,c40w7ncg,tuqqwh3k,r2ukry1j,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title=" Animation" tvg-name="Moi, moche et méchant 4 (2024)" tmdb-id="519182" tvg-id="1_y7a5qmjb" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_y7a5qmjb/version/100021/width/800/height/450",Moi, moche et méchant 4 (2024) 
+#EXTINF:-1 group-title="Animation" tvg-name="Moi, moche et méchant 4 (2024)" tmdb-id="519182" tvg-id="1_y7a5qmjb" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_y7a5qmjb/version/100021/width/800/height/450",Moi, moche et méchant 4 (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_y7a5qmjb/v/1/ev/11/flavorId/1_,e6756qzj,cy2rqaxz,1fikj1cw,8zvvaz1q,52yoh6r1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Animation" tvg-name="La Fabrique des Monstres (2025)" tmdb-id="1214130" tvg-id="1_glzbp9ji" tvg-logo="https://cfvod.kaltura.com/api_v3/service/thumbAsset/action/serve/partnerId/3253003/thumbAssetId/1_bkdy1rd8/version/1",La Fabrique des Monstres (2025) 
@@ -964,12 +964,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Horreur" tvg-name="Scream VI (2023)" tmdb-id="934433" tvg-id="1_cn0s669w" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_cn0s669w/version/100041/width/800/height/450",Scream VI (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_cn0s669w/v/1/ev/11/flavorId/1_,zbrqbvc3,u55ja2ig,vt5zh6gw,kc63rv2s,o9ueh1l6,6l3waw9t,erem84c5,j89g26er,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Horreur" tvg-name="Scream VI (2023)" tmdb-id="934433" tvg-id="1_3wmxdtz4" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_3wmxdtz4/version/100051/width/800/height/450",Scream VI (2023) 
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_3wmxdtz4/v/1/ev/9/flavorId/1_,l9ew1tqj,s2ftbmeu,gnhunjj5,a4amvhd8,c4krn7yc,ewyivlnp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 group-title="Horreur" tvg-name="Scream VI (2023)" tmdb-id="934433" tvg-id="1_t63pofih" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t63pofih/version/100021/width/800/height/450",Scream VI / (2023) 
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_t63pofih/v/1/ev/11/flavorId/1_,istaaghj,329gp8ry,9v18r2eg,00brz4o4,1afxjyhf,8zc8pixa,myextoeq,n39gvnbd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Horreur" tvg-name="Terrifier 3 (2024)" tmdb-id="1034541" tvg-id="1_2xkijmex" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2xkijmex/version/100051/width/800/height/450",Terrifier 3 (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2xkijmex/v/1/ev/11/flavorId/1_,fcqpb8gt,qs1cmy74,vyas984q,6gj0go81,6wmmoywc,h38vetbl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -1207,6 +1201,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
