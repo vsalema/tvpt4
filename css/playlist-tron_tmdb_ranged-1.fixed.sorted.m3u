@@ -463,6 +463,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Animation" tvg-name="Sacrées Momies (2023)" tmdb-id="816904" tvg-id="1_3nzu2p3l" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_3nzu2p3l/version/100041/width/800/height/450",Sacrées Momies (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_3nzu2p3l/v/1/ev/11/flavorId/1_,2ab0n626,vutq6f0q,ueswvydf,4xy6xgmm,kjpv20yv,06o4ztws,i3yq5bac,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title="Animation" tvg-name="Où est Anne Frank ! (2021)" tmdb-id="426242" tvg-id="1_r6colj00" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_r6colj00/version/100061/width/800/height/450",Où est Anne Frank ! (2021) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_r6colj00/v/1/ev/11/flavorId/1_,h7z8q9l7,51fsy00l,ljuym2r2,63krhaw4,o165qaey,5c28r5vu,5r2ho4sc,vy7uhaiz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 # ===== Aventure =====
 #EXTINF:-1 group-title="Aventure" tvg-name="Ainbo, princesse d'Amazonie (2021)" tmdb-id="588921" tvg-id="1_9kjhi2d2" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9kjhi2d2/version/100071/width/800/height/450",Ainbo, princesse d'Amazonie (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9kjhi2d2/v/1/ev/11/flavorId/1_,c5mnubo5,maoannuj,g2v6z1m7,0kfwp92b,1yhvhlh2,1d3t5lwm,oss2tpdo,m2d64lp5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -921,9 +924,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Histoire" tvg-name="Monsieur Aznavour (2024)" tmdb-id="1002155" tvg-id="1_uneycfgm" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_uneycfgm/version/100001/width/800/height/450",Monsieur Aznavour (2024) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_uneycfgm/v/1/ev/11/flavorId/1_,e1am29hr,4ka3i71q,ntbihyor,2q1bx1hd,7sbtes1w,mlqtqxgo,32fsnu0h,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Histoire" tvg-name="Où est Anne Frank !" tmdb-id="426242" tvg-id="1_r6colj00" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_r6colj00/version/100061/width/800/height/450",Où est Anne Frank ! Histoire Familial Drame Animation
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_r6colj00/v/1/ev/11/flavorId/1_,h7z8q9l7,51fsy00l,ljuym2r2,63krhaw4,o165qaey,5c28r5vu,5r2ho4sc,vy7uhaiz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Histoire" tvg-name="Spartacus (1960)" tmdb-id="967" tvg-id="1_hxywq2i5" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hxywq2i5/version/100001/width/800/height/450",Spartacus (1960) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hxywq2i5/v/1/ev/11/flavorId/1_,8j69t4hr,qj1omxm4,rpmhm4e6,69ylwf5i,as0ezdap,60m9qkh8,o1cq9jpw,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -1207,6 +1207,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
