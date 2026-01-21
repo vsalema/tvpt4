@@ -108,9 +108,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Action" tvg-name="Le Flic de Beverly Hills : Axel F (2024)" tmdb-id="280180" tvg-id="1_ba1a8dhx" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_ba1a8dhx/version/100051/width/800/height/450",Le Flic de Beverly Hills : Axel F (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_ba1a8dhx/v/1/ev/11/flavorId/1_,cf07yp80,8uv6rtla,yirgrlmt,13y5vwoq,pbixv09c,row73x8i,j57fpv3o,g4t5r1aa,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Action" tvg-name="Le Guignolo (1980)" tmdb-id="12541" tvg-id="1_f4g774ln" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_f4g774ln/version/100051/width/800/height/450",Le Guignolo (1980)
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_f4g774ln/v/1/ev/11/flavorId/1_,f5jjn9rt,k28tabj7,bpftkzr1,ftpgt5jj,p4vx8lqd,5x5pd4by,uvn20a7n,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Action" tvg-name="Le Mauvais Camp 2 (2024)" tmdb-id="1276945" tvg-id="1_2yttxgwn" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_2yttxgwn/version/100051/width/800/height/450",Le Mauvais Camp 2 (2024)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_2yttxgwn/v/1/ev/11/flavorId/1_,ub0hp8jn,24e0fqc6,86714qph,kto1uach,6c75z7be,mjkxu4ed,0xszqrw2,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -554,6 +551,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Comédie" tvg-name="Oscar (1967)" tmdb-id="2798" tvg-id="1_qvpo1b9t" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_qvpo1b9t/version/100061/width/800/height/450",Oscar (1967)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_qvpo1b9t/v/1/ev/11/flavorId/1_,uv03xp4x,ich9bw8r,1ekvf5w7,y7jxanov,4qby8bt6,w61hg82e,qz0p54ut,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 group-title="Comédie" tvg-name="Le Guignolo (1980)" tmdb-id="12541" tvg-id="1_f4g774ln" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_f4g774ln/version/100051/width/800/height/450",Le Guignolo (1980)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_f4g774ln/v/1/ev/11/flavorId/1_,f5jjn9rt,k28tabj7,bpftkzr1,ftpgt5jj,p4vx8lqd,5x5pd4by,uvn20a7n,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Comédie" tvg-name="The Binge 2 : joyeuses fêtes (2022)" tmdb-id="1026624" tvg-id="1_hjv7e3hs" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_hjv7e3hs/version/100051/width/800/height/450",The Binge 2 : joyeuses fêtes (2022)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hjv7e3hs/v/1/ev/11/flavorId/1_,ow7h088u,lumf7hdq,sgvsbd3l,gunklkwj,rh3kwror,c7lg857y,j30mbhi5,wexrrm4j,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1201,6 +1201,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
