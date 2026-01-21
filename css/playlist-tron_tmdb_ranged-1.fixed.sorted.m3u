@@ -2,6 +2,10 @@
 # Playlist rangée le 2026-01-19 21:06:41
 # Format: 1 ligne #EXTINF puis 1 ligne URL
 
+# ===== Nouveau =====
+
+#EXTINF:-1 group-title="Nouveau"  tvg-id="newAdditionsBtn" 
+
 # ===== Action =====
 #EXTINF:-1 group-title="Action" tvg-name="65 : La Terre d'avant (2023)" tmdb-id="700391" tvg-id="1_hwwrodum" tvg-logo="https://image.tmdb.org/t/p/original/c4kr3hSJOT5UAcCNJdbi8iPuomV.jpg",65 : La Terre d'avant (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hwwrodum/v/1/ev/11/flavorId/1_,o0lfqwrr,tgbto5lo,2ii6pr75,67w5g6rm,0hqjz0oo,2m5bcaik,dgwfrbql,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1207,6 +1211,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
