@@ -546,6 +546,9 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Comédie" tvg-name="Les Aventures De Rabbi Jacob (1973)" tmdb-id="760" tvg-id="1_obu2bhoj" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_obu2bhoj/version/100061/width/800/height/450",Les Aventures De Rabbi Jacob (1973) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_obu2bhoj/v/1/ev/11/flavorId/1_,dsypqnu2,cswtgmpn,kmbqleh3,x13ruhti,yylxx1et,ffmnsy1u,de99a1d1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
+#EXTINF:-1 group-title="Comédie" tvg-name="La Grande Vadrouille (1966)" tmdb-id="8290" tvg-id="1_t3l9vtg5" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t3l9vtg5/version/100061/width/800/height/450",La Grande Vadrouille (1966) 
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_t3l9vtg5/v/1/ev/11/flavorId/1_,jcwnq1nx,epsr28gl,vmp4hxsh,b3rvdkah,gdf3kyoh,pd20emv8,mzouwe7c,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 #EXTINF:-1 group-title="Comédie" tvg-name="Oscar (1967)" tmdb-id="2798" tvg-id="1_qvpo1b9t" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_qvpo1b9t/version/100061/width/800/height/450",Oscar (1967) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_qvpo1b9t/v/1/ev/11/flavorId/1_,uv03xp4x,ich9bw8r,1ekvf5w7,y7jxanov,4qby8bt6,w61hg82e,qz0p54ut,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -890,9 +893,6 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Guerre" tvg-name="La Brigade de Shandong (2021)" tmdb-id="889227" tvg-id="1_wdydmuca" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_wdydmuca/version/100051/width/800/height/450",La Brigade de Shandong (2021) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_wdydmuca/v/1/ev/11/flavorId/1_,yl7oe0h1,e25y5ys9,2gvtoen3,3bmex3jb,i350u9oi,jbex00iw,41lv2auz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Guerre" tvg-name="La Grande Vadrouille (1966)" tmdb-id="8290" tvg-id="1_t3l9vtg5" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t3l9vtg5/version/100061/width/800/height/450",La Grande Vadrouille (1966) 
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_t3l9vtg5/v/1/ev/11/flavorId/1_,jcwnq1nx,epsr28gl,vmp4hxsh,b3rvdkah,gdf3kyoh,pd20emv8,mzouwe7c,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="Guerre" tvg-name="Les Morfalous (1984)" tmdb-id="72664" tvg-id="1_1aq8yyws" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_1aq8yyws/version/100061/width/800/height/450",Les Morfalous (1984) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_1aq8yyws/v/1/ev/11/flavorId/1_,de3r6ymx,xkhf2iox,f98dhmgk,w3w2owkb,vedpl45b,spibmbwd,dhk650kf,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
@@ -1205,6 +1205,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023) 
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
