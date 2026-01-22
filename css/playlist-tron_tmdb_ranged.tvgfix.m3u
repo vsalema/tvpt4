@@ -534,7 +534,10 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_unkwxnqu/v/1/ev/11/flavorId/1_,8781ztzm,n0r9r333,3k7dlw58,cq4ugi1b,ywnwfk9m,rd0zq30y,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 # ===== Comédie =====
-#EXTINF:-1 group-title="Comédie" tvg-name="Good Fortune (2025)" tmdb-id="1114967" tvg-id="1_hg3bxs0f" tvg-logo="https://image.tmdb.org/t/p/original/1slHSEUVoxwHl7gw34VvebBaJSx.jpg",Good Fortune (2025)
+
+#EXTINF:-1 group-title="Comédie" tvg-name="Merv (2025)" tmdb-id="1255775" tvg-id="1_bd0i7a6i" tvg-logo="https://image.tmdb.org/t/p/original/1slHSEUVoxwHl7gw34VvebBaJSx.jpg",Merv (2025)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_bd0i7a6i/v/1/ev/12/flavorId/1_,3f4dgo2a,2f5wj0zk,joau5oj7,jexh7guw,g31uyurr,by5xeox2,6fhnbnr2,kdjlzhvi,zy03yoxi,nyphz4q9,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 group-title="Comédie" tvg-name="Good Fortune (2025)" tmdb-id="1114967" tvg-id="1_hg3bxs0f" tvg-logo="https://image.tmdb.org/t/p/original/xRvvCQtFJrmOaUZX98qOrFPo4Ea.jpg",Good Fortune (2025)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_hg3bxs0f/v/1/ev/19/flavorId/1_,d0mh1zxa,el5fsx7a,imi3jzrm,0ajulune,6s45ox7z,kchvtufq,6txi4lr5,o9pwuowj,ykyvb7d4,pvrm6noq,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Comédie" tvg-name="Le Casse-cœur (2018)" tmdb-id="533550" tvg-id="1_qk0sn88r" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_qk0sn88r/version/100011/width/800/height/450",Le Casse-cœur (2018)
@@ -1204,6 +1207,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
