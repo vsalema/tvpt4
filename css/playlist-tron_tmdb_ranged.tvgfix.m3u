@@ -247,8 +247,8 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 #EXTINF:-1 group-title="Animation" tvg-name="A Christmas Carol (2009)" tmdb-id="17979" tvg-id="1_t8wsxkem" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_t8wsxkem/version/100061/width/800/height/450",A Christmas Carol (2009)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_t8wsxkem/v/1/ev/11/flavorId/1_,rokwab87,hg2xcw1x,ww4pkx7j,2bqejfg0,047l22gl,u5cgn914,vdjsxwqu,5je4sl1t,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 group-title="Animation" tvg-name="Alerte rouge (2022)" tmdb-id="508947" tvg-id="1_p93x4wc8" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_p93x4wc8/version/100041/width/800/height/450",Alerte rouge (2022)
-https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_p93x4wc8/v/1/ev/11/flavorId/1_,e2nf230g,q2uvhu53,x6zarx7c,w2l4dx8h,jgbkml13,iy13n5v8,bkw26f4e,ruoeqms4,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 group-title="Animation" tvg-name="Alerte rouge (2022)" tmdb-id="508947" tvg-id="1_iicbm3vx" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_p93x4wc8/version/100041/width/800/height/450",Alerte rouge (2022)
+https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_iicbm3vx/v/1/ev/11/flavorId/1_,psjsmh5b,1t3alcxr,o9ydau0b,nbfyremz,nzs99581,4h1xs8os,w6od1c8b,apuhbb61,gboc5vw7,5w9yv3aq,yt2kzm7l,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 group-title="Animation" tvg-name="Apollo 10 1/2 : Les fusées de mon enfance (2022)" tmdb-id="664996" tvg-id="1_j2yyrx6c" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_j2yyrx6c/version/100051/width/800/height/450",Apollo 10 1/2 : Les fusées de mon enfance (2022)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_j2yyrx6c/v/1/ev/11/flavorId/1_,o4zk610e,rdjau0wp,mj6vqedf,gcg66buh,zpzjsnra,tnqvpo6h,mmrbvwug,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
@@ -1208,6 +1208,7 @@ https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/
 
 #EXTINF:-1 group-title="Western" tvg-name="The Old Way (2023)" tmdb-id="872954" tvg-id="1_9g7ldrzd" tvg-logo="https://cfvod.kaltura.com/p/3253003/sp/325300300/thumbnail/entry_id/1_9g7ldrzd/version/100051/width/800/height/450",The Old Way (2023)
 https://kalhlspd-a.akamaihd.net/dash/p/3253003/sp/325300300/serveFlavor/entryId/1_9g7ldrzd/v/1/ev/11/flavorId/1_,5sbzaaa8,eqcflssd,391pom0k,77b8zo5z,kpi67rov,90hax344,tckp6f82,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 
 
 
